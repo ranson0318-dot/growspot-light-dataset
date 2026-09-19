@@ -1,0 +1,120 @@
+{
+  "dataset": "GrowSpot indoor light measurements",
+  "description": "Aggregate light-meter readings taken by people using GrowSpot, grouped by where the reading was taken. Counts, quartiles and band histograms for indoor, balcony and unspecified spots; outdoor (n=3) publishes counts only, because below 10 readings a distribution would describe individual readings. Aggregates only: no individual readings, locations or timestamps.",
+  "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+  "attribution": "GrowSpot — growspotapp.com",
+  "source_page": "https://growspotapp.com/data/indoor-light-measurements/",
+  "snapshot_date": "2026-08-20",
+  "revision": 2,
+  "revision_date": "2026-08-28",
+  "version": "2026-08-20 (rev 2, 2026-08-28)",
+  "band_definitions": [
+    {
+      "key": "below_low",
+      "range_lux": "under 270"
+    },
+    {
+      "key": "low",
+      "range_lux": "270-800"
+    },
+    {
+      "key": "medium",
+      "range_lux": "800-1,600"
+    },
+    {
+      "key": "high",
+      "range_lux": "1,600-10,800"
+    },
+    {
+      "key": "very_high",
+      "range_lux": "10,800+"
+    }
+  ],
+  "totals": {
+    "readings": 204,
+    "spots": 104,
+    "days": 36,
+    "min_lux": 33,
+    "median_lux": 3253,
+    "max_lux": 50000
+  },
+  "environments": [
+    {
+      "environment": "indoor",
+      "readings": 49,
+      "spots": 40,
+      "days": 19,
+      "min_lux": 33,
+      "p25_lux": 420,
+      "median_lux": 2349,
+      "p75_lux": 6200,
+      "max_lux": 50000,
+      "bands": {
+        "below_low": 7,
+        "low": 8,
+        "medium": 4,
+        "high": 19,
+        "very_high": 11
+      },
+      "draw_conclusions": true
+    },
+    {
+      "environment": "balcony",
+      "readings": 25,
+      "spots": 17,
+      "days": 14,
+      "min_lux": 154,
+      "p25_lux": 3756,
+      "median_lux": 8173,
+      "p75_lux": 24208,
+      "max_lux": 50000,
+      "bands": {
+        "below_low": 1,
+        "low": 1,
+        "medium": 2,
+        "high": 12,
+        "very_high": 9
+      },
+      "draw_conclusions": true
+    },
+    {
+      "environment": "unspecified",
+      "readings": 127,
+      "spots": 101,
+      "days": 33,
+      "min_lux": 48,
+      "p25_lux": 1718,
+      "median_lux": 3142,
+      "p75_lux": 7270,
+      "max_lux": 50000,
+      "bands": {
+        "below_low": 2,
+        "low": 13,
+        "medium": 16,
+        "high": 81,
+        "very_high": 15
+      },
+      "draw_conclusions": true
+    },
+    {
+      "environment": "outdoor",
+      "readings": 3,
+      "spots": 3,
+      "days": 3,
+      "min_lux": null,
+      "p25_lux": null,
+      "median_lux": null,
+      "p75_lux": null,
+      "max_lux": null,
+      "bands": {
+        "below_low": null,
+        "low": null,
+        "medium": null,
+        "high": null,
+        "very_high": null
+      },
+      "draw_conclusions": false,
+      "withheld_small_sample": true
+    }
+  ]
+}

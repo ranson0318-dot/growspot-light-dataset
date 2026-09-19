@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use these datasets, please cite them as below."
+title: "GrowSpot indoor light datasets"
+type: dataset
+authors:
+  - name: "GrowSpot"
+    website: "https://growspotapp.com"
+license: CC-BY-4.0
+url: "https://growspotapp.com/data/"
+repository-code: "https://github.com/<owner>/growspot-light-dataset"
+date-released: "2026-09-19"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22023337"
+    description: "Indoor light measurements"
+  - type: doi
+    value: "10.5281/zenodo.22023337"
+    description: "Species light levels"
+  - type: doi
+    value: "10.5281/zenodo.22172762"
+    description: "What the published sources say about indoor light"
