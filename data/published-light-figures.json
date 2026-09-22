@@ -1,13 +1,13 @@
 {
  "_meta": {
   "dataset": "What the published sources actually say about indoor light",
-  "description": "562 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 80 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
+  "description": "562 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 81 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
   "license_compilation": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — applies to this compilation: which sources were read, how the rows are structured, and the links.",
   "license_quotes": "Each quoted sentence remains the property of the publisher named in its row. Quotes are short excerpts reproduced for identification, each with a link to the original page.",
   "attribution": "GrowSpot — growspotapp.com",
   "source_page": "https://growspotapp.com/data/published-light-figures/",
   "rows": 562,
-  "publishers": 80,
+  "publishers": 81,
   "fields": {
    "publisher": "Hostname of the publisher, www stripped",
    "source_url": "The exact page the sentence was read on",
@@ -21,7 +21,7 @@
  "figures": [
   {
    "publisher": "ag.purdue.edu",
-   "source_url": "https://ag.purdue.edu/news/department/hla/2021/07/jade-plant.html",
+   "source_url": "https://ag.purdue.edu/department/btny/ppdl/potw-dept-folder/2022/jade-plant-can-sunburn.html",
    "appears_on": "https://growspotapp.com/guides/jade-plant-north-facing-window/",
    "subject": "What it says",
    "value_as_published": "Strong sun reddens the edges",
@@ -30,7 +30,7 @@
   },
   {
    "publisher": "ag.purdue.edu",
-   "source_url": "https://ag.purdue.edu/news/department/hla/2021/07/jade-plant.html",
+   "source_url": "https://ag.purdue.edu/department/btny/ppdl/potw-dept-folder/2022/jade-plant-can-sunburn.html",
    "appears_on": "https://growspotapp.com/guides/jade-plant-south-facing-window/",
    "subject": "What it says",
    "value_as_published": "Strong sun reddens the edges",
@@ -1982,6 +1982,24 @@
    "read_on": "30 August 2026"
   },
   {
+   "publisher": "extension.uconn.edu",
+   "source_url": "https://extension.uconn.edu/2013/12/24/watering-houseplants/",
+   "appears_on": "https://growspotapp.com/guides/how-often-to-water-houseplants/",
+   "subject": "What it says to do instead of counting days",
+   "value_as_published": "About an inch",
+   "quote": "\"Stick your finger into the potting mix and feel for moisture about an inch below the surface.\" And: \"Instead of watering plants by the calendar, check them frequently to evaluate their moisture needs.\"",
+   "read_on": "30 August 2026"
+  },
+  {
+   "publisher": "extension.uconn.edu",
+   "source_url": "https://extension.uconn.edu/2013/12/24/watering-houseplants/",
+   "appears_on": "https://growspotapp.com/guides/how-often-to-water-houseplants/",
+   "subject": "What it says to do instead of counting days",
+   "value_as_published": "Until it runs out",
+   "quote": "\"Apply enough water so that after about a minute, excess water will be observed seeping out of the drainage holes.\" And: \"Light watering encourages poor root growth.\"",
+   "read_on": "30 August 2026"
+  },
+  {
    "publisher": "extension.umd.edu",
    "source_url": "https://extension.umd.edu/resource/fertilizer-indoor-plants",
    "appears_on": "https://growspotapp.com/guides/when-to-stop-fertilizing-houseplants/",
@@ -2119,6 +2137,15 @@
   {
    "publisher": "extension.unh.edu",
    "source_url": "https://extension.unh.edu/blog/2025/01/how-can-i-increase-humidity-indoors-my-houseplants",
+   "appears_on": "https://growspotapp.com/guides/can-i-put-a-plant-in-the-shower/",
+   "subject": "What it measures",
+   "value_as_published": "40–60%, tropicals higher",
+   "quote": "\"Most houseplants (excluding cacti, succulents and a few others) prefer a relative humidity range of 40-60%, although tropical species thrive at higher levels.\"",
+   "read_on": "30 August 2026"
+  },
+  {
+   "publisher": "extension.unh.edu",
+   "source_url": "https://extension.unh.edu/blog/2025/01/how-can-i-increase-humidity-indoors-my-houseplants",
    "appears_on": "https://growspotapp.com/guides/ideal-humidity-for-houseplants/",
    "subject": "The figure it gives",
    "value_as_published": "40–60%",
@@ -2144,17 +2171,8 @@
    "read_on": "30 August 2026"
   },
   {
-   "publisher": "extension.unh.edu",
-   "source_url": "https://extension.unh.edu/resource/humidity-and-houseplants-fact-sheet",
-   "appears_on": "https://growspotapp.com/guides/can-i-put-a-plant-in-the-shower/",
-   "subject": "What it measures",
-   "value_as_published": "40–60%, tropicals higher",
-   "quote": "\"Most houseplants (excluding cacti, succulents and a few others) prefer a relative humidity range of 40-60%, although tropical species thrive at higher levels.\"",
-   "read_on": "30 August 2026"
-  },
-  {
    "publisher": "extension.wvu.edu",
-   "source_url": "https://extension.wvu.edu/lawn-gardening-pests/indoor-gardening/houseplants",
+   "source_url": "https://extension.wvu.edu/lawn-gardening-pests/indoor-plants/common-houseplant-care",
    "appears_on": "https://growspotapp.com/guides/west-facing-window-plants/",
    "subject": "The figure",
    "value_as_published": "West sits with east, medium light",
@@ -2514,7 +2532,7 @@
   },
   {
    "publisher": "hgic.clemson.edu",
-   "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-lighting/",
+   "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-cleaning-fertilizing-containers-light-requirements/",
    "appears_on": "https://growspotapp.com/guides/plants-for-a-room-with-no-windows/",
    "subject": "The figure",
    "value_as_published": "100 ft-c × 12 hours",
@@ -2523,7 +2541,7 @@
   },
   {
    "publisher": "hgic.clemson.edu",
-   "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-lighting/",
+   "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-cleaning-fertilizing-containers-light-requirements/",
    "appears_on": "https://growspotapp.com/guides/plants-for-a-room-with-no-windows/",
    "subject": "The figure",
    "value_as_published": "Hours can stand in for brightness",
@@ -2532,7 +2550,7 @@
   },
   {
    "publisher": "hgic.clemson.edu",
-   "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-lighting/",
+   "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-cleaning-fertilizing-containers-light-requirements/",
    "appears_on": "https://growspotapp.com/guides/west-facing-window-plants/",
    "subject": "The figure",
    "value_as_published": "West sits with south, high light",
@@ -2888,6 +2906,24 @@
    "subject": "What it says about the holes",
    "value_as_published": "Why they might exist",
    "quote": "\"The fenestrations (holes in the leaves) theoretically are a way of allowing high winds to pass through the large leaves without tearing them.\"",
+   "read_on": "30 August 2026"
+  },
+  {
+   "publisher": "hortnews.extension.iastate.edu",
+   "source_url": "https://hortnews.extension.iastate.edu/how-set-supplemental-lights-indoor-plants",
+   "appears_on": "https://growspotapp.com/guides/plants-for-a-room-with-no-windows/",
+   "subject": "The figure",
+   "value_as_published": "10 to 16 hours a day",
+   "quote": "\"For home gardeners, it is best to have light on for as little as 10 hours and no more than 16 hours a day.\"",
+   "read_on": "30 August 2026"
+  },
+  {
+   "publisher": "hortnews.extension.iastate.edu",
+   "source_url": "https://hortnews.extension.iastate.edu/how-set-supplemental-lights-indoor-plants",
+   "appears_on": "https://growspotapp.com/guides/plants-for-a-room-with-no-windows/",
+   "subject": "The figure",
+   "value_as_published": "6 to 12 inches from the foliage",
+   "quote": "\"Fluorescent fixtures should be 6 to 12 inches from the foliage.\"",
    "read_on": "30 August 2026"
   },
   {
@@ -4134,6 +4170,24 @@
   },
   {
    "publisher": "planttalk.colostate.edu",
+   "source_url": "https://planttalk.colostate.edu/topics/houseplants/1320-jade-plant",
+   "appears_on": "https://growspotapp.com/guides/jade-plant-north-facing-window/",
+   "subject": "What it says",
+   "value_as_published": "65–75 °F by day, 50–55 at night",
+   "quote": "\"Jade plants require day-time temperatures between 65 and 75 degrees Fahrenheit, and night-time temperatures between 50 and 55 degrees.\"",
+   "read_on": "30 August 2026"
+  },
+  {
+   "publisher": "planttalk.colostate.edu",
+   "source_url": "https://planttalk.colostate.edu/topics/houseplants/1320-jade-plant",
+   "appears_on": "https://growspotapp.com/guides/jade-plant-south-facing-window/",
+   "subject": "What it says",
+   "value_as_published": "65–75 °F by day, 50–55 at night",
+   "quote": "\"Jade plants require day-time temperatures between 65 and 75 degrees Fahrenheit, and night-time temperatures between 50 and 55 degrees.\"",
+   "read_on": "30 August 2026"
+  },
+  {
+   "publisher": "planttalk.colostate.edu",
    "source_url": "https://planttalk.colostate.edu/topics/houseplants/1332-moving-houseplants-outdoors/",
    "appears_on": "https://growspotapp.com/guides/when-to-put-plants-outside/",
    "subject": "The night-time number",
@@ -4149,24 +4203,6 @@
    "value_as_published": "below 50 foot candles",
    "quote": "University extension · floor below which few plants tolerate",
    "read_on": "29 August 2026"
-  },
-  {
-   "publisher": "planttalk.colostate.edu",
-   "source_url": "https://planttalk.colostate.edu/topics/houseplants/1423-jade-plant/",
-   "appears_on": "https://growspotapp.com/guides/jade-plant-north-facing-window/",
-   "subject": "What it says",
-   "value_as_published": "65–75 °F by day, 50–55 at night",
-   "quote": "\"Jade plants require day-time temperatures between 65 and 75 degrees Fahrenheit, and night-time temperatures between 50 and 55 degrees.\"",
-   "read_on": "30 August 2026"
-  },
-  {
-   "publisher": "planttalk.colostate.edu",
-   "source_url": "https://planttalk.colostate.edu/topics/houseplants/1423-jade-plant/",
-   "appears_on": "https://growspotapp.com/guides/jade-plant-south-facing-window/",
-   "subject": "What it says",
-   "value_as_published": "65–75 °F by day, 50–55 at night",
-   "quote": "\"Jade plants require day-time temperatures between 65 and 75 degrees Fahrenheit, and night-time temperatures between 50 and 55 degrees.\"",
-   "read_on": "30 August 2026"
   },
   {
    "publisher": "pmc.ncbi.nlm.nih.gov",
@@ -4215,7 +4251,7 @@
   },
   {
    "publisher": "rhs.org.uk",
-   "source_url": "https://www.rhs.org.uk/houseplants/for-beginners",
+   "source_url": "https://www.rhs.org.uk/plants/types/houseplants/houseplants-for-sunny-rooms",
    "appears_on": "https://growspotapp.com/guides/west-facing-window-plants/",
    "subject": "The figure",
    "value_as_published": "Light without being baked",
@@ -4265,24 +4301,6 @@
    "subject": "The night-time number",
    "value_as_published": "No number given",
    "quote": "Only the light instruction, and it names the plant in our own table: \"a shade loving peace lily should not find itself in full sun out on the sidewalk.\"",
-   "read_on": "30 August 2026"
-  },
-  {
-   "publisher": "soiltesting.cahnr.uconn.edu",
-   "source_url": "https://soiltesting.cahnr.uconn.edu/watering-houseplants/",
-   "appears_on": "https://growspotapp.com/guides/how-often-to-water-houseplants/",
-   "subject": "What it says to do instead of counting days",
-   "value_as_published": "About an inch",
-   "quote": "\"Stick your finger into the potting mix and feel for moisture about an inch below the surface.\" And: \"Instead of watering plants by the calendar, check them frequently to evaluate their moisture needs.\"",
-   "read_on": "30 August 2026"
-  },
-  {
-   "publisher": "soiltesting.cahnr.uconn.edu",
-   "source_url": "https://soiltesting.cahnr.uconn.edu/watering-houseplants/",
-   "appears_on": "https://growspotapp.com/guides/how-often-to-water-houseplants/",
-   "subject": "What it says to do instead of counting days",
-   "value_as_published": "Until it runs out",
-   "quote": "\"Apply enough water so that after about a minute, excess water will be observed seeping out of the drainage holes.\" And: \"Light waterings encourage poor, shallow root growth.\"",
    "read_on": "30 August 2026"
   },
   {
@@ -4895,24 +4913,6 @@
    "subject": "What it says plants need",
    "value_as_published": "Grouping: yes",
    "quote": "\"Grouping plants together is an easy way to raise the humidity level. The water evaporating from the potting soil, plus water lost through the plant foliage, will increase the relative humidity.\"",
-   "read_on": "30 August 2026"
-  },
-  {
-   "publisher": "yardandgarden.extension.iastate.edu",
-   "source_url": "https://yardandgarden.extension.iastate.edu/faq/how-far-away-should-i-place-my-grow-lights-my-plants",
-   "appears_on": "https://growspotapp.com/guides/plants-for-a-room-with-no-windows/",
-   "subject": "The figure",
-   "value_as_published": "6 to 12 inches from the foliage",
-   "quote": "\"Fluorescent fixtures should be 6 to 12 inches from the foliage.\"",
-   "read_on": "30 August 2026"
-  },
-  {
-   "publisher": "yardandgarden.extension.iastate.edu",
-   "source_url": "https://yardandgarden.extension.iastate.edu/faq/how-long-should-i-run-my-grow-lights",
-   "appears_on": "https://growspotapp.com/guides/plants-for-a-room-with-no-windows/",
-   "subject": "The figure",
-   "value_as_published": "10 to 16 hours a day",
-   "quote": "\"For home gardeners, it is best to have light on for as little as 10 hours and no more than 16 hours a day.\"",
    "read_on": "30 August 2026"
   },
   {

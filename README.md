@@ -55,4 +55,4 @@ If you would rather have an answer for one spot than a file to analyse, the [fre
 
 ---
 
-Mirror built 2026-09-19 from the live files at https://growspotapp.com/data/. Licence: [CC BY 4.0](LICENSE).
+Mirror built 2026-09-22 from the live files at https://growspotapp.com/data/. Licence: [CC BY 4.0](LICENSE).

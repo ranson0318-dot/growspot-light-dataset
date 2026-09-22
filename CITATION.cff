@@ -8,7 +8,7 @@ authors:
 license: CC-BY-4.0
 url: "https://growspotapp.com/data/"
 repository-code: "https://github.com/ranson0318-dot/growspot-light-dataset"
-date-released: "2026-09-19"
+date-released: "2026-09-22"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.22023337"
