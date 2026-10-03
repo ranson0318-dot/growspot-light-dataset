@@ -1,8 +1,9 @@
-# GrowSpot indoor light measurements — snapshot 2026-08-20 (rev 2, 2026-08-28) — CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — attribution: GrowSpot — growspotapp.com
+# GrowSpot indoor light measurements — snapshot 2026-10-03 — CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — attribution: GrowSpot — growspotapp.com
+# What counts as a reading (method v2, since 2026-10-03): Readings from a phone's built-in light sensor, readings taken through white paper over the phone's camera, and readings typed in from a separate light meter. Natural light only. Left out: the light estimate the app stores when a spot is set up or edited, camera readings taken without paper, and readings under a grow light. Snapshots up to 20 August 2026 counted every light value the app stored, including its own estimates and camera readings taken without paper. Neither is a measurement.
 # Aggregates only. Lux bands: below_low <270, low 270-800, medium 800-1600, high 1600-10800, very_high 10800+.
-# Rows with fewer than 10 readings publish counts only: the distribution and band columns are left blank, because at that sample size they would describe individual readings. outdoor (n=3).
+# Rows with fewer than 10 readings publish counts only: the distribution and band columns are left blank, because at that sample size they would describe individual readings. unspecified (n=1), outdoor (n=4).
 environment,readings,spots,days,min_lux,p25_lux,median_lux,p75_lux,max_lux,n_below_low,n_low,n_medium,n_high,n_very_high
-indoor,49,40,19,33,420,2349,6200,50000,7,8,4,19,11
-balcony,25,17,14,154,3756,8173,24208,50000,1,1,2,12,9
-unspecified,127,101,33,48,1718,3142,7270,50000,2,13,16,81,15
-outdoor,3,3,3,,,,,,,,,,
+indoor,111,97,30,33,241,566,2690,114771,30,32,14,31,4
+balcony,43,35,15,14,2913,6844,9979,92427,1,1,5,26,10
+unspecified,1,1,1,,,,,,,,,,
+outdoor,4,4,4,,,,,,,,,,

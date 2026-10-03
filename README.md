@@ -6,7 +6,7 @@ This repository is a mirror. The dataset pages on growspotapp.com are the canoni
 
 | File | Rows | Snapshot | Dataset page | DOI |
 |---|---|---|---|---|
-| [`indoor-light-measurements.csv`](data/indoor-light-measurements.csv) · [`.json`](data/indoor-light-measurements.json) | 4 rows summarising 204 readings | 2026-08-20 (rev 2026-08-28) | [growspotapp.com/data/indoor-light-measurements/](https://growspotapp.com/data/indoor-light-measurements/) | [10.5281/zenodo.22023337](https://doi.org/10.5281/zenodo.22023337) |
+| [`indoor-light-measurements.csv`](data/indoor-light-measurements.csv) · [`.json`](data/indoor-light-measurements.json) | 4 rows summarising 159 readings | 2026-10-03 | [growspotapp.com/data/indoor-light-measurements/](https://growspotapp.com/data/indoor-light-measurements/) | [10.5281/zenodo.22023337](https://doi.org/10.5281/zenodo.22023337) |
 | [`species-light-levels.csv`](data/species-light-levels.csv) · [`.json`](data/species-light-levels.json) | one row per species | 2026-10-03 | [growspotapp.com/data/species-light-levels/](https://growspotapp.com/data/species-light-levels/) | [10.5281/zenodo.22023337](https://doi.org/10.5281/zenodo.22023337) |
 | [`published-light-figures.csv`](data/published-light-figures.csv) · [`.json`](data/published-light-figures.json) | 562 rows | last changed 2026-09-22 | [growspotapp.com/data/published-light-figures/](https://growspotapp.com/data/published-light-figures/) | [10.5281/zenodo.22172762](https://doi.org/10.5281/zenodo.22172762) |
 
@@ -16,7 +16,7 @@ Every CSV starts with a comment line that repeats its snapshot date, licence and
 
 ### Indoor light measurements
 
-What a light meter reads at real spots in real homes. Aggregates only: per-band and per-environment quantiles, never a single household's raw readings.
+What a light meter reads at real spots in real homes. Aggregates only: per-band and per-environment quantiles, never a single household's raw readings. Since 2026-10-03 only real measurements count (a phone's light sensor, white paper over a phone camera, or a separate meter); deposits made before that date, including the Zenodo record behind the DOI, also counted the app's own light estimates and camera readings taken without paper.
 
 Notes on what the file does not cover, and the column glossary, live on the dataset page: https://growspotapp.com/data/indoor-light-measurements/
 
