@@ -6,8 +6,8 @@ This repository is a mirror. The dataset pages on growspotapp.com are the canoni
 
 | File | Rows | Snapshot | Dataset page | DOI |
 |---|---|---|---|---|
-| [`indoor-light-measurements.csv`](data/indoor-light-measurements.csv) · [`.json`](data/indoor-light-measurements.json) | 4 rows summarising 159 readings | 2026-10-03 | [growspotapp.com/data/indoor-light-measurements/](https://growspotapp.com/data/indoor-light-measurements/) | [10.5281/zenodo.22023337](https://doi.org/10.5281/zenodo.22023337) |
-| [`species-light-levels.csv`](data/species-light-levels.csv) · [`.json`](data/species-light-levels.json) | one row per species | 2026-10-03 | [growspotapp.com/data/species-light-levels/](https://growspotapp.com/data/species-light-levels/) | [10.5281/zenodo.22023337](https://doi.org/10.5281/zenodo.22023337) |
+| [`indoor-light-measurements.csv`](data/indoor-light-measurements.csv) · [`.json`](data/indoor-light-measurements.json) | 4 rows summarising 159 readings | 2026-10-03 | [growspotapp.com/data/indoor-light-measurements/](https://growspotapp.com/data/indoor-light-measurements/) | [10.5281/zenodo.22023336](https://doi.org/10.5281/zenodo.22023336) |
+| [`species-light-levels.csv`](data/species-light-levels.csv) · [`.json`](data/species-light-levels.json) | one row per species | 2026-10-03 | [growspotapp.com/data/species-light-levels/](https://growspotapp.com/data/species-light-levels/) | [10.5281/zenodo.22023336](https://doi.org/10.5281/zenodo.22023336) |
 | [`published-light-figures.csv`](data/published-light-figures.csv) · [`.json`](data/published-light-figures.json) | 562 rows | last changed 2026-09-22 | [growspotapp.com/data/published-light-figures/](https://growspotapp.com/data/published-light-figures/) | [10.5281/zenodo.22172762](https://doi.org/10.5281/zenodo.22172762) |
 
 Every CSV starts with a comment line that repeats its snapshot date, licence and attribution, so the provenance stays with the file when it is copied on its own.
@@ -40,8 +40,8 @@ The compilation is ours to license. The quoted sentences in it are not: each rem
 
 ```
 GrowSpot (2026). Indoor light datasets for houseplants. growspotapp.com/data/
-  Indoor light measurements: https://doi.org/10.5281/zenodo.22023337
-  Species light levels: https://doi.org/10.5281/zenodo.22023337
+  Indoor light measurements: https://doi.org/10.5281/zenodo.22023336
+  Species light levels: https://doi.org/10.5281/zenodo.22023336
   What the published sources say about indoor light: https://doi.org/10.5281/zenodo.22172762
 ```
 

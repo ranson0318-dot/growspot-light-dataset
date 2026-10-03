@@ -11,10 +11,10 @@ repository-code: "https://github.com/ranson0318-dot/growspot-light-dataset"
 date-released: "2026-10-03"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.22023337"
+    value: "10.5281/zenodo.22023336"
     description: "Indoor light measurements"
   - type: doi
-    value: "10.5281/zenodo.22023337"
+    value: "10.5281/zenodo.22023336"
     description: "Species light levels"
   - type: doi
     value: "10.5281/zenodo.22172762"
