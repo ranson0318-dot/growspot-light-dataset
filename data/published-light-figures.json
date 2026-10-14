@@ -1,13 +1,13 @@
 {
  "_meta": {
   "dataset": "What the published sources actually say about indoor light",
-  "description": "743 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 81 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
+  "description": "855 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 91 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
   "license_compilation": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — applies to this compilation: which sources were read, how the rows are structured, and the links.",
   "license_quotes": "Each quoted sentence remains the property of the publisher named in its row. Quotes are short excerpts reproduced for identification, each with a link to the original page.",
   "attribution": "GrowSpot — growspotapp.com",
   "source_page": "https://growspotapp.com/data/published-light-figures/",
-  "rows": 743,
-  "publishers": 81,
+  "rows": 855,
+  "publishers": 91,
   "fields": {
    "publisher": "Hostname of the publisher, www stripped",
    "source_url": "The exact page the sentence was read on",
@@ -470,6 +470,114 @@
    "read_on": "30 August 2026"
   },
   {
+   "publisher": "bloomingexpert.com",
+   "source_url": "https://www.bloomingexpert.com/indoor-plants/croton/light-watering-2/",
+   "appears_on": "https://growspotapp.com/guides/croton-south-facing-window/",
+   "subject": "What it says a croton needs",
+   "value_as_published": "200 foot-candles (FC)",
+   "quote": "Pigment floor: below roughly this, it says the plant stops keeping its colours",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "bloomingexpert.com",
+   "source_url": "https://www.bloomingexpert.com/indoor-plants/croton/light-watering-2/",
+   "appears_on": "https://growspotapp.com/guides/croton-west-facing-window/",
+   "subject": "What it says a croton needs",
+   "value_as_published": "200 foot-candles (FC)",
+   "quote": "Level below which it says the plant stops keeping its leaf pigments",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "bloomingexpert.com",
+   "source_url": "https://www.bloomingexpert.com/indoor-plants/hoya/light-watering-5/",
+   "appears_on": "https://growspotapp.com/guides/hoya-south-facing-window/",
+   "subject": "What it says a hoya needs",
+   "value_as_published": "1,500–2,000 foot-candles",
+   "quote": "Second-hand: attributed to The Sill, whose hoya page now returns 404, so not checked at the original",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "bloomingexpert.com",
+   "source_url": "https://www.bloomingexpert.com/indoor-plants/hoya/light-watering-5/",
+   "appears_on": "https://growspotapp.com/guides/hoya-west-facing-window/",
+   "subject": "What it says a hoya needs",
+   "value_as_published": "1,500–2,000 foot-candles",
+   "quote": "Second-hand: attributed to The Sill, whose hoya page now returns 404, so it could not be checked there",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "bloomingexpert.com",
+   "source_url": "https://www.bloomingexpert.com/indoor-plants/peperomia-growing-guide/",
+   "appears_on": "https://growspotapp.com/guides/peperomia-north-facing-window/",
+   "subject": "What it says a peperomia needs",
+   "value_as_published": "250–1,000 foot-candles",
+   "quote": "Second-hand: the page attributes this medium-light range to the University of Missouri Extension; we did not read it at the source",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "bloomingexpert.com",
+   "source_url": "https://www.bloomingexpert.com/indoor-plants/peperomia-growing-guide/",
+   "appears_on": "https://growspotapp.com/guides/peperomia-south-facing-window/",
+   "subject": "What it says a peperomia needs",
+   "value_as_published": "250–1,000 foot-candles",
+   "quote": "Second-hand: the page credits this medium-light range to the University of Missouri Extension, whose original we could not open",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "bloomingexpert.com",
+   "source_url": "https://www.bloomingexpert.com/pilea/growing-guide-36/",
+   "appears_on": "https://growspotapp.com/guides/pilea-east-facing-window/",
+   "subject": "What it says a pilea needs",
+   "value_as_published": "1,000 to 2,000 foot-candles",
+   "quote": "Stated as what a pilea needs",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "bloomingexpert.com",
+   "source_url": "https://www.bloomingexpert.com/pilea/growing-guide-36/",
+   "appears_on": "https://growspotapp.com/guides/pilea-east-facing-window/",
+   "subject": "What it says a pilea needs",
+   "value_as_published": "roughly 1,000 foot-candles",
+   "quote": "A grow-light target, run 12 to 14 hours a day",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "bloomingexpert.com",
+   "source_url": "https://www.bloomingexpert.com/pilea/growing-guide-36/",
+   "appears_on": "https://growspotapp.com/guides/pilea-west-facing-window/",
+   "subject": "What it says a pilea needs",
+   "value_as_published": "1,000 to 2,000 foot-candles",
+   "quote": "\"Pilea needs 1,000 to 2,000 foot-candles of light\"",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "bloomingexpert.com",
+   "source_url": "https://www.bloomingexpert.com/pilea/growing-guide-36/",
+   "appears_on": "https://growspotapp.com/guides/pilea-west-facing-window/",
+   "subject": "What it says a pilea needs",
+   "value_as_published": "roughly 1,000 foot-candles",
+   "quote": "A grow-light target, not a window figure: 12 to 14 hours a day at roughly 1,000 foot-candles",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "bloomingexpert.com",
+   "source_url": "https://www.bloomingexpert.com/tips/houseplants/african-violets/care-guide-9/",
+   "appears_on": "https://growspotapp.com/guides/african-violet-east-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "500–600 foot-candle",
+   "quote": "winter minimum; the page also credits 1,000 foot-candles to UGA Extension, second-hand",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "bloomingexpert.com",
+   "source_url": "https://www.bloomingexpert.com/tips/houseplants/african-violets/care-guide-9/",
+   "appears_on": "https://growspotapp.com/guides/african-violet-south-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "500–600 foot-candle",
+   "quote": "Winter minimum that north windows often fall short of, per the site",
+   "read_on": "14 October 2026"
+  },
+  {
    "publisher": "bobvila.com",
    "source_url": "https://www.bobvila.com/articles/shower-plants/",
    "appears_on": "https://growspotapp.com/guides/bathroom-plants/",
@@ -587,6 +695,24 @@
    "read_on": "29 August 2026"
   },
   {
+   "publisher": "deepgreenpermaculture.com",
+   "source_url": "https://deepgreenpermaculture.com/2025/03/11/the-comprehensive-guide-to-caring-for-chain-of-hearts-ceropegia-woodii/",
+   "appears_on": "https://growspotapp.com/guides/string-of-hearts-east-facing-window/",
+   "subject": "What it says a string of hearts needs",
+   "value_as_published": "250 to 1000 lux",
+   "quote": "Its medium-light tier, which it calls the optimal range",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "deepgreenpermaculture.com",
+   "source_url": "https://deepgreenpermaculture.com/2025/03/11/the-comprehensive-guide-to-caring-for-chain-of-hearts-ceropegia-woodii/",
+   "appears_on": "https://growspotapp.com/guides/string-of-hearts-west-facing-window/",
+   "subject": "What it says a string of hearts needs",
+   "value_as_published": "250 to 1000 lux",
+   "quote": "Its \"Medium Light\" tier, which it calls the optimal range",
+   "read_on": "14 October 2026"
+  },
+  {
    "publisher": "digitalcommons.usf.edu",
    "source_url": "https://digitalcommons.usf.edu/tropical_ecology/79/",
    "appears_on": "https://growspotapp.com/guides/why-is-my-monstera-not-splitting/",
@@ -623,6 +749,114 @@
    "read_on": "30 August 2026"
   },
   {
+   "publisher": "edis.ifas.ufl.edu",
+   "source_url": "https://edis.ifas.ufl.edu/publication/EP160",
+   "appears_on": "https://growspotapp.com/guides/chinese-evergreen-north-facing-window/",
+   "subject": "What it says a Chinese evergreen needs",
+   "value_as_published": "25 foot candles",
+   "quote": "UF/IFAS EP160: the lowest light level it says the plant can tolerate",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "edis.ifas.ufl.edu",
+   "source_url": "https://edis.ifas.ufl.edu/publication/EP160",
+   "appears_on": "https://growspotapp.com/guides/chinese-evergreen-north-facing-window/",
+   "subject": "What it says a Chinese evergreen needs",
+   "value_as_published": "3,000 to 1,250 foot candles",
+   "quote": "UF/IFAS EP160: commercial production under 75% to 90% shade, a nursery figure rather than a home one",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "edis.ifas.ufl.edu",
+   "source_url": "https://edis.ifas.ufl.edu/publication/EP160",
+   "appears_on": "https://growspotapp.com/guides/chinese-evergreen-west-facing-window/",
+   "subject": "What it says a Chinese evergreen needs",
+   "value_as_published": "25 foot candles",
+   "quote": "UF/IFAS EP160: the lowest light level it “can tolerate”",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "edis.ifas.ufl.edu",
+   "source_url": "https://edis.ifas.ufl.edu/publication/EP160",
+   "appears_on": "https://growspotapp.com/guides/chinese-evergreen-west-facing-window/",
+   "subject": "What it says a Chinese evergreen needs",
+   "value_as_published": "3,000 to 1,250 foot candles",
+   "quote": "UF/IFAS EP160, commercial production: Aglaonema grown in 75% to 90% shade. A nursery figure, not a room one",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "edis.ifas.ufl.edu",
+   "source_url": "https://edis.ifas.ufl.edu/publication/EP360",
+   "appears_on": "https://growspotapp.com/guides/african-violet-east-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "150 foot candles",
+   "quote": "UF/IFAS EP360: indoor minimum after shipping",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "edis.ifas.ufl.edu",
+   "source_url": "https://edis.ifas.ufl.edu/publication/EP360",
+   "appears_on": "https://growspotapp.com/guides/african-violet-east-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "800 to 1,200 foot candles",
+   "quote": "UF/IFAS EP360: commercial production range",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "edis.ifas.ufl.edu",
+   "source_url": "https://edis.ifas.ufl.edu/publication/EP360",
+   "appears_on": "https://growspotapp.com/guides/african-violet-south-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "150 foot candles",
+   "quote": "UF/IFAS EP360: the interior level (or higher) for plants after shipping",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "edis.ifas.ufl.edu",
+   "source_url": "https://edis.ifas.ufl.edu/publication/EP360",
+   "appears_on": "https://growspotapp.com/guides/african-violet-south-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "800 to 1,200 foot candles",
+   "quote": "UF/IFAS EP360: the satisfactory range for commercial production",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "edis.ifas.ufl.edu",
+   "source_url": "https://edis.ifas.ufl.edu/publication/MG028",
+   "appears_on": "https://growspotapp.com/guides/african-violet-east-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "~1000 foot candles",
+   "quote": "UF/IFAS MG028: bright light but no direct sun, within 3 feet of a southeast or west window",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "edis.ifas.ufl.edu",
+   "source_url": "https://edis.ifas.ufl.edu/publication/MG028",
+   "appears_on": "https://growspotapp.com/guides/african-violet-east-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "approximately 600 foot-candles",
+   "quote": "UF/IFAS MG028: under fluorescent light alone, about 16 hours a day",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "edis.ifas.ufl.edu",
+   "source_url": "https://edis.ifas.ufl.edu/publication/MG028",
+   "appears_on": "https://growspotapp.com/guides/african-violet-south-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "~1000 foot candles",
+   "quote": "UF/IFAS MG028: bright light but no direct sunlight, described as within 3 feet of a southeast- or west-facing window",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "edis.ifas.ufl.edu",
+   "source_url": "https://edis.ifas.ufl.edu/publication/MG028",
+   "appears_on": "https://growspotapp.com/guides/african-violet-south-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "approximately 600 foot-candles",
+   "quote": "UF/IFAS MG028: under fluorescent light only, for about 16 hours a day",
+   "read_on": "14 October 2026"
+  },
+  {
    "publisher": "epa.gov",
    "source_url": "https://www.epa.gov/indoor-air-quality-iaq/inside-story-guide-indoor-air-quality",
    "appears_on": "https://growspotapp.com/guides/bedroom-plants/",
@@ -630,6 +864,60 @@
    "value_as_published": "No evidence, at a reasonable number",
    "quote": "\"There is currently no evidence, however, that a reasonable number of houseplants remove significant quantities of pollutants in homes and offices.\"",
    "read_on": "30 August 2026"
+  },
+  {
+   "publisher": "espacepourlavie.ca",
+   "source_url": "https://espacepourlavie.ca/en/ideal-light-and-temperature-african-violet",
+   "appears_on": "https://growspotapp.com/guides/african-violet-east-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "10,760 to 16,140 lux (1,000 to 1,500 foot-candles)",
+   "quote": "Montreal Botanical Garden: what a violet requires",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "espacepourlavie.ca",
+   "source_url": "https://espacepourlavie.ca/en/ideal-light-and-temperature-african-violet",
+   "appears_on": "https://growspotapp.com/guides/african-violet-east-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "5,380 lux (500 f-c)",
+   "quote": "Montreal Botanical Garden: below this, plants stay vegetative",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "espacepourlavie.ca",
+   "source_url": "https://espacepourlavie.ca/en/ideal-light-and-temperature-african-violet",
+   "appears_on": "https://growspotapp.com/guides/african-violet-east-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "8,600 lux (800 f-c)",
+   "quote": "Montreal Botanical Garden: young plants",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "espacepourlavie.ca",
+   "source_url": "https://espacepourlavie.ca/en/ideal-light-and-temperature-african-violet",
+   "appears_on": "https://growspotapp.com/guides/african-violet-south-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "10,760 to 16,140 lux (1,000 to 1,500 foot-candles)",
+   "quote": "Montreal Botanical Garden: the light intensity an African violet requires",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "espacepourlavie.ca",
+   "source_url": "https://espacepourlavie.ca/en/ideal-light-and-temperature-african-violet",
+   "appears_on": "https://growspotapp.com/guides/african-violet-south-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "5,380 lux (500 f-c)",
+   "quote": "Montreal Botanical Garden: below this, plants stay at the vegetative stage and do not flower",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "espacepourlavie.ca",
+   "source_url": "https://espacepourlavie.ca/en/ideal-light-and-temperature-african-violet",
+   "appears_on": "https://growspotapp.com/guides/african-violet-south-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "8,600 lux (800 f-c)",
+   "quote": "Montreal Botanical Garden: what young plants grow best at",
+   "read_on": "14 October 2026"
   },
   {
    "publisher": "extension.arizona.edu",
@@ -1273,6 +1561,24 @@
   {
    "publisher": "extension.illinois.edu",
    "source_url": "https://extension.illinois.edu/houseplants/lighting",
+   "appears_on": "https://growspotapp.com/guides/chinese-evergreen-north-facing-window/",
+   "subject": "What it says a Chinese evergreen needs",
+   "value_as_published": "75 foot candles",
+   "quote": "A tier value: the page lists Chinese evergreen as low light and gives that tier one figure",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "extension.illinois.edu",
+   "source_url": "https://extension.illinois.edu/houseplants/lighting",
+   "appears_on": "https://growspotapp.com/guides/chinese-evergreen-west-facing-window/",
+   "subject": "What it says a Chinese evergreen needs",
+   "value_as_published": "75 foot candles",
+   "quote": "A tier figure: the page lists Chinese evergreen as Low, and defines Low Light as 75 foot candles",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "extension.illinois.edu",
+   "source_url": "https://extension.illinois.edu/houseplants/lighting",
    "appears_on": "https://growspotapp.com/guides/dark-corner-plants/",
    "subject": "What it says about a corner",
    "value_as_published": "75 fc",
@@ -1417,6 +1723,24 @@
   {
    "publisher": "extension.illinois.edu",
    "source_url": "https://extension.illinois.edu/houseplants/lighting",
+   "appears_on": "https://growspotapp.com/guides/hoya-south-facing-window/",
+   "subject": "What it says a hoya needs",
+   "value_as_published": "300 foot candles",
+   "quote": "Tier figure: wax plant is listed under High or Bright light, which the page sets at this level",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "extension.illinois.edu",
+   "source_url": "https://extension.illinois.edu/houseplants/lighting",
+   "appears_on": "https://growspotapp.com/guides/hoya-west-facing-window/",
+   "subject": "What it says a hoya needs",
+   "value_as_published": "300 foot candles",
+   "quote": "Tier figure: the wax plant is listed under high or bright light, and that tier is set at 300 foot candles",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "extension.illinois.edu",
+   "source_url": "https://extension.illinois.edu/houseplants/lighting",
    "appears_on": "https://growspotapp.com/guides/is-my-plant-getting-enough-light/",
    "subject": "The floor it gives",
    "value_as_published": "75 / 150 / 300 / 1500 fc",
@@ -1440,6 +1764,24 @@
    "value_as_published": "Distance, per wall",
    "quote": "Its low band is reached at \"North window: a few feet away\" but only at \"South window:15-20 feet away\"; its medium band at \"North window: directly in front\" and \"South window: 3-10 feet away\".",
    "read_on": "30 August 2026"
+  },
+  {
+   "publisher": "extension.illinois.edu",
+   "source_url": "https://extension.illinois.edu/houseplants/lighting",
+   "appears_on": "https://growspotapp.com/guides/peperomia-north-facing-window/",
+   "subject": "What it says a peperomia needs",
+   "value_as_published": "150 foot candles",
+   "quote": "A tier figure: P. obtusifolia is listed as medium light, and the page defines medium at this level",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "extension.illinois.edu",
+   "source_url": "https://extension.illinois.edu/houseplants/lighting",
+   "appears_on": "https://growspotapp.com/guides/peperomia-south-facing-window/",
+   "subject": "What it says a peperomia needs",
+   "value_as_published": "150 foot candles",
+   "quote": "A tier figure: the page lists the baby rubber plant as medium light and gives that tier 150 foot candles",
+   "read_on": "14 October 2026"
   },
   {
    "publisher": "extension.illinois.edu",
@@ -2513,6 +2855,168 @@
    "read_on": "29 August 2026"
   },
   {
+   "publisher": "foliage-factory.com",
+   "source_url": "https://foliage-factory.com/products/aglaonema-commutatum",
+   "appears_on": "https://growspotapp.com/guides/chinese-evergreen-north-facing-window/",
+   "subject": "What it says a Chinese evergreen needs",
+   "value_as_published": "approx. 5,000–10,000 lux",
+   "quote": "Product page for Aglaonema commutatum, listed as medium indirect light",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "foliage-factory.com",
+   "source_url": "https://foliage-factory.com/products/aglaonema-commutatum",
+   "appears_on": "https://growspotapp.com/guides/chinese-evergreen-west-facing-window/",
+   "subject": "What it says a Chinese evergreen needs",
+   "value_as_published": "approx. 5,000–10,000 lux",
+   "quote": "Product page for Aglaonema commutatum, listed as “Medium indirect”",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "foliage-factory.com",
+   "source_url": "https://foliage-factory.com/products/ceropegia-woodii",
+   "appears_on": "https://growspotapp.com/guides/string-of-hearts-east-facing-window/",
+   "subject": "What it says a string of hearts needs",
+   "value_as_published": "approx. 20,000–40,000 lux",
+   "quote": "Product page light line: very bright, some direct sun",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "foliage-factory.com",
+   "source_url": "https://foliage-factory.com/products/ceropegia-woodii",
+   "appears_on": "https://growspotapp.com/guides/string-of-hearts-west-facing-window/",
+   "subject": "What it says a string of hearts needs",
+   "value_as_published": "approx. 20,000–40,000 lux",
+   "quote": "Light rating on a product page: \"Very bright / some direct\"",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "foliage-factory.com",
+   "source_url": "https://foliage-factory.com/products/chrysalidocarpus-lutescens",
+   "appears_on": "https://growspotapp.com/guides/areca-palm-north-facing-window/",
+   "subject": "What it says an areca palm needs",
+   "value_as_published": "approx. 10,000–20,000 lux",
+   "quote": "Listed as bright indirect, under the older name Chrysalidocarpus lutescens",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "foliage-factory.com",
+   "source_url": "https://foliage-factory.com/products/chrysalidocarpus-lutescens",
+   "appears_on": "https://growspotapp.com/guides/areca-palm-south-facing-window/",
+   "subject": "What it says an areca palm needs",
+   "value_as_published": "approx. 10,000–20,000 lux",
+   "quote": "Shop product page, under Chrysalidocarpus lutescens (another name for the same palm), labelled bright indirect",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "foliage-factory.com",
+   "source_url": "https://foliage-factory.com/products/codiaeum-variegatum-croton-petra",
+   "appears_on": "https://growspotapp.com/guides/croton-south-facing-window/",
+   "subject": "What it says a croton needs",
+   "value_as_published": "approx. 20,000–40,000 lux",
+   "quote": "Shop product page for croton ‘Petra’: very bright, some direct sun",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "foliage-factory.com",
+   "source_url": "https://foliage-factory.com/products/codiaeum-variegatum-croton-petra",
+   "appears_on": "https://growspotapp.com/guides/croton-west-facing-window/",
+   "subject": "What it says a croton needs",
+   "value_as_published": "approx. 20,000–40,000 lux",
+   "quote": "Product page for Croton 'Petra': very bright, some direct sun",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "foliage-factory.com",
+   "source_url": "https://foliage-factory.com/products/hoya-carnosa-compacta",
+   "appears_on": "https://growspotapp.com/guides/hoya-south-facing-window/",
+   "subject": "What it says a hoya needs",
+   "value_as_published": "approx. 10,000–20,000 lux",
+   "quote": "Care summary on the product page for Hoya carnosa 'Compacta', light at leaf level",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "foliage-factory.com",
+   "source_url": "https://foliage-factory.com/products/hoya-carnosa-compacta",
+   "appears_on": "https://growspotapp.com/guides/hoya-west-facing-window/",
+   "subject": "What it says a hoya needs",
+   "value_as_published": "approx. 10,000–20,000 lux",
+   "quote": "Product page for Hoya carnosa 'Compacta', 'care at a glance', lux at leaf level",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "foliage-factory.com",
+   "source_url": "https://foliage-factory.com/products/hoya-carnosa-tricolor",
+   "appears_on": "https://growspotapp.com/guides/hoya-south-facing-window/",
+   "subject": "What it says a hoya needs",
+   "value_as_published": "approx. 10,000–20,000 lux",
+   "quote": "Care summary on the product page for Hoya carnosa 'Tricolor'",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "foliage-factory.com",
+   "source_url": "https://foliage-factory.com/products/hoya-carnosa-tricolor",
+   "appears_on": "https://growspotapp.com/guides/hoya-west-facing-window/",
+   "subject": "What it says a hoya needs",
+   "value_as_published": "approx. 10,000–20,000 lux",
+   "quote": "Product page for Hoya carnosa 'Tricolor', same figure",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "foliage-factory.com",
+   "source_url": "https://foliage-factory.com/products/peperomia-obtusifolia",
+   "appears_on": "https://growspotapp.com/guides/peperomia-north-facing-window/",
+   "subject": "What it says a peperomia needs",
+   "value_as_published": "approx. 10,000–20,000 lux",
+   "quote": "A shop's product page for P. obtusifolia, labelled bright indirect",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "foliage-factory.com",
+   "source_url": "https://foliage-factory.com/products/peperomia-obtusifolia",
+   "appears_on": "https://growspotapp.com/guides/peperomia-south-facing-window/",
+   "subject": "What it says a peperomia needs",
+   "value_as_published": "approx. 10,000–20,000 lux",
+   "quote": "Baby rubber plant, on a product page: bright indirect",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "foliage-factory.com",
+   "source_url": "https://foliage-factory.com/products/pilea-peperomioides",
+   "appears_on": "https://growspotapp.com/guides/pilea-east-facing-window/",
+   "subject": "What it says a pilea needs",
+   "value_as_published": "approx. 10,000–20,000 lux",
+   "quote": "\"Bright indirect\" on a shop's product page for this plant",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "foliage-factory.com",
+   "source_url": "https://foliage-factory.com/products/pilea-peperomioides",
+   "appears_on": "https://growspotapp.com/guides/pilea-west-facing-window/",
+   "subject": "What it says a pilea needs",
+   "value_as_published": "approx. 10,000–20,000 lux",
+   "quote": "Product page: \"Bright indirect • approx. 10,000–20,000 lux\"",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "foliage-factory.com",
+   "source_url": "https://foliage-factory.com/products/saintpaulia-little-love-blue",
+   "appears_on": "https://growspotapp.com/guides/african-violet-east-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "approx. 10,000–20,000 lux",
+   "quote": "shop listing for the cultivar 'Little Love Blue'",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "foliage-factory.com",
+   "source_url": "https://foliage-factory.com/products/saintpaulia-little-love-blue",
+   "appears_on": "https://growspotapp.com/guides/african-violet-south-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "approx. 10,000–20,000 lux",
+   "quote": "Seller's product page for one cultivar, Saintpaulia 'Little Love Blue': bright indirect",
+   "read_on": "14 October 2026"
+  },
+  {
    "publisher": "gardendesign.com",
    "source_url": "https://www.gardendesign.com/how-to/bring-outdoor-plants-inside.html",
    "appears_on": "https://growspotapp.com/guides/when-to-bring-plants-inside/",
@@ -2574,6 +3078,294 @@
    "value_as_published": "below 50 F",
    "quote": "Does not say if it is a night low",
    "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/african-violet",
+   "appears_on": "https://growspotapp.com/guides/african-violet-east-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "1,500–4,000 lux",
+   "quote": "Medium Indirect tier, shared by several plants",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/african-violet",
+   "appears_on": "https://growspotapp.com/guides/african-violet-east-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "150–400 fc",
+   "quote": "the same tier in foot-candles",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/african-violet",
+   "appears_on": "https://growspotapp.com/guides/african-violet-south-facing-window/",
+   "subject": "What it says an African violet needs",
+   "value_as_published": "1,500–4,000 lux",
+   "quote": "Moderate, indirect light: the site's Medium Indirect tier, a band it prints for several plants",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/areca-palm",
+   "appears_on": "https://growspotapp.com/guides/areca-palm-north-facing-window/",
+   "subject": "What it says an areca palm needs",
+   "value_as_published": "4,000–8,000 lux",
+   "quote": "Its \"Bright Indirect\" tier, a band the site prints for several plants",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/areca-palm",
+   "appears_on": "https://growspotapp.com/guides/areca-palm-north-facing-window/",
+   "subject": "What it says an areca palm needs",
+   "value_as_published": "400–800 fc",
+   "quote": "The same tier, given in foot-candles",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/areca-palm",
+   "appears_on": "https://growspotapp.com/guides/areca-palm-south-facing-window/",
+   "subject": "What it says an areca palm needs",
+   "value_as_published": "4,000–8,000 lux",
+   "quote": "Areca palm, filed under the site's \"Bright Indirect\" tier; the site prints this same band for several plants",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/areca-palm",
+   "appears_on": "https://growspotapp.com/guides/areca-palm-south-facing-window/",
+   "subject": "What it says an areca palm needs",
+   "value_as_published": "400–800 fc",
+   "quote": "The same tier, given in foot-candles on the same page",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/chinese-evergreen",
+   "appears_on": "https://growspotapp.com/guides/chinese-evergreen-north-facing-window/",
+   "subject": "What it says a Chinese evergreen needs",
+   "value_as_published": "~50–75 fc; 150–400 fc foot-candles",
+   "quote": "Its foot-candle figures: survives down to the first, grows well at the second",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/chinese-evergreen",
+   "appears_on": "https://growspotapp.com/guides/chinese-evergreen-north-facing-window/",
+   "subject": "What it says a Chinese evergreen needs",
+   "value_as_published": "1,500–4,000 lux",
+   "quote": "Where it says the plant does noticeably better; Growli prints this same band for every plant in its medium indirect tier",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/chinese-evergreen",
+   "appears_on": "https://growspotapp.com/guides/chinese-evergreen-north-facing-window/",
+   "subject": "What it says a Chinese evergreen needs",
+   "value_as_published": "500–800 lux",
+   "quote": "The floor it gives: what the plant survives on in a north room or dim corner (its Low Light tier)",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/chinese-evergreen",
+   "appears_on": "https://growspotapp.com/guides/chinese-evergreen-west-facing-window/",
+   "subject": "What it says a Chinese evergreen needs",
+   "value_as_published": "1,500–4,000 lux",
+   "quote": "Where it “does noticeably better”; Growli prints the same band for several plants, so it is a tier band rather than this plant’s alone",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/chinese-evergreen",
+   "appears_on": "https://growspotapp.com/guides/chinese-evergreen-west-facing-window/",
+   "subject": "What it says a Chinese evergreen needs",
+   "value_as_published": "500–800 lux",
+   "quote": "Its floor: the plant “survives a north room or dim corner” on as little as this (filed under Growli’s Low Light tier)",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/croton",
+   "appears_on": "https://growspotapp.com/guides/croton-south-facing-window/",
+   "subject": "What it says a croton needs",
+   "value_as_published": "4,000–8,000 lux",
+   "quote": "Its “bright, indirect” tier, the same band the app prints for several plants",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/croton",
+   "appears_on": "https://growspotapp.com/guides/croton-south-facing-window/",
+   "subject": "What it says a croton needs",
+   "value_as_published": "400–800 fc",
+   "quote": "The same tier, given again in foot-candles",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/croton",
+   "appears_on": "https://growspotapp.com/guides/croton-west-facing-window/",
+   "subject": "What it says a croton needs",
+   "value_as_published": "4,000–8,000 lux",
+   "quote": "Its 'Bright Indirect' tier, a band the site prints for several plants, not a croton-only figure",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/croton",
+   "appears_on": "https://growspotapp.com/guides/croton-west-facing-window/",
+   "subject": "What it says a croton needs",
+   "value_as_published": "400–800 fc",
+   "quote": "The same tier band in foot-candles: bright, but indirect",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/hoya",
+   "appears_on": "https://growspotapp.com/guides/hoya-south-facing-window/",
+   "subject": "What it says a hoya needs",
+   "value_as_published": "4,000–8,000 lux",
+   "quote": "Growli's 'Bright Indirect' tier for hoya, the same band it prints for several other plants",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/hoya",
+   "appears_on": "https://growspotapp.com/guides/hoya-south-facing-window/",
+   "subject": "What it says a hoya needs",
+   "value_as_published": "400–800 fc",
+   "quote": "The same tier, given in foot-candles",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/hoya",
+   "appears_on": "https://growspotapp.com/guides/hoya-west-facing-window/",
+   "subject": "What it says a hoya needs",
+   "value_as_published": "4,000–8,000 lux",
+   "quote": "Hoya page, 'bright, indirect' tier; the site prints the same band for several other plants",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/hoya",
+   "appears_on": "https://growspotapp.com/guides/hoya-west-facing-window/",
+   "subject": "What it says a hoya needs",
+   "value_as_published": "400–800 fc",
+   "quote": "The same tier, given in foot-candles",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/peperomia",
+   "appears_on": "https://growspotapp.com/guides/peperomia-north-facing-window/",
+   "subject": "What it says a peperomia needs",
+   "value_as_published": "1,500–4,000 lux",
+   "quote": "A plant app's 'Medium Indirect' tier, applied to peperomia; the app prints the same band for several plants",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/peperomia",
+   "appears_on": "https://growspotapp.com/guides/peperomia-north-facing-window/",
+   "subject": "What it says a peperomia needs",
+   "value_as_published": "150–400 fc",
+   "quote": "The same tier, given in foot-candles",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/peperomia",
+   "appears_on": "https://growspotapp.com/guides/peperomia-south-facing-window/",
+   "subject": "What it says a peperomia needs",
+   "value_as_published": "1,500–4,000 lux",
+   "quote": "Peperomia, placed in the site's medium indirect tier; the site prints the same band for other plants in that tier",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/peperomia",
+   "appears_on": "https://growspotapp.com/guides/peperomia-south-facing-window/",
+   "subject": "What it says a peperomia needs",
+   "value_as_published": "150–400 fc",
+   "quote": "The same tier, given in foot-candles",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/pilea-peperomioides",
+   "appears_on": "https://growspotapp.com/guides/pilea-east-facing-window/",
+   "subject": "What it says a pilea needs",
+   "value_as_published": "4,000–8,000 lux",
+   "quote": "Its \"Bright Indirect\" tier, a band the site prints for several other plants as well",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/pilea-peperomioides",
+   "appears_on": "https://growspotapp.com/guides/pilea-east-facing-window/",
+   "subject": "What it says a pilea needs",
+   "value_as_published": "400–800 fc",
+   "quote": "The same tier, given in foot-candles",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/pilea-peperomioides",
+   "appears_on": "https://growspotapp.com/guides/pilea-west-facing-window/",
+   "subject": "What it says a pilea needs",
+   "value_as_published": "4,000–8,000 lux",
+   "quote": "\"roughly 4,000–8,000 lux of bright, indirect light\"; the site's 'Bright Indirect' tier, which it prints for several plants",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/pilea-peperomioides",
+   "appears_on": "https://growspotapp.com/guides/pilea-west-facing-window/",
+   "subject": "What it says a pilea needs",
+   "value_as_published": "400–800 fc",
+   "quote": "The same tier in foot-candles, \"Roughly 400–800 fc\"",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/string-of-hearts",
+   "appears_on": "https://growspotapp.com/guides/string-of-hearts-east-facing-window/",
+   "subject": "What it says a string of hearts needs",
+   "value_as_published": "4,000–8,000 lux",
+   "quote": "Its Bright Indirect tier, a band the site prints for several plants, not one set for this species",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/string-of-hearts",
+   "appears_on": "https://growspotapp.com/guides/string-of-hearts-east-facing-window/",
+   "subject": "What it says a string of hearts needs",
+   "value_as_published": "400–800 fc",
+   "quote": "The same Bright Indirect tier, given in foot-candles",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/string-of-hearts",
+   "appears_on": "https://growspotapp.com/guides/string-of-hearts-west-facing-window/",
+   "subject": "What it says a string of hearts needs",
+   "value_as_published": "4,000–8,000 lux",
+   "quote": "Its \"Bright Indirect\" tier; the site prints the same tier band for several plants",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "getgrowli.app",
+   "source_url": "https://www.getgrowli.app/light/string-of-hearts",
+   "appears_on": "https://growspotapp.com/guides/string-of-hearts-west-facing-window/",
+   "subject": "What it says a string of hearts needs",
+   "value_as_published": "400–800 fc",
+   "quote": "The same tier, given in foot-candles",
+   "read_on": "14 October 2026"
   },
   {
    "publisher": "greeneryunlimited.co",
@@ -5150,6 +5942,42 @@
    "read_on": "29 August 2026"
   },
   {
+   "publisher": "lifetips.alibaba.com",
+   "source_url": "https://lifetips.alibaba.com/plant-care/black-croton",
+   "appears_on": "https://growspotapp.com/guides/croton-south-facing-window/",
+   "subject": "What it says a croton needs",
+   "value_as_published": "1,200 fc",
+   "quote": "Floor on the same page: below it, it expects fading and loss of leaf contrast",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "lifetips.alibaba.com",
+   "source_url": "https://lifetips.alibaba.com/plant-care/black-croton",
+   "appears_on": "https://growspotapp.com/guides/croton-south-facing-window/",
+   "subject": "What it says a croton needs",
+   "value_as_published": "1,500–2,500 foot-candles",
+   "quote": "Target at peak daylight for a black croton; a content site that cites no source",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "lifetips.alibaba.com",
+   "source_url": "https://lifetips.alibaba.com/plant-care/black-croton",
+   "appears_on": "https://growspotapp.com/guides/croton-west-facing-window/",
+   "subject": "What it says a croton needs",
+   "value_as_published": "1,200 fc",
+   "quote": "Level below which it expects fading and stretched stems; same unsourced page",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "lifetips.alibaba.com",
+   "source_url": "https://lifetips.alibaba.com/plant-care/black-croton",
+   "appears_on": "https://growspotapp.com/guides/croton-west-facing-window/",
+   "subject": "What it says a croton needs",
+   "value_as_published": "1,500–2,500 foot-candles",
+   "quote": "Target for a black croton at peak daylight; content site, no source given",
+   "read_on": "14 October 2026"
+  },
+  {
    "publisher": "livelyroot.com",
    "source_url": "https://www.livelyroot.com/blogs/plant-care/low-light-bathroom-plants",
    "appears_on": "https://growspotapp.com/guides/bathroom-plants/",
@@ -5438,6 +6266,42 @@
    "read_on": "29 August 2026"
   },
   {
+   "publisher": "peperomiaobtusifolia.com",
+   "source_url": "https://peperomiaobtusifolia.com/blog/best-window-direction-peperomia-obtusifolia/",
+   "appears_on": "https://growspotapp.com/guides/peperomia-north-facing-window/",
+   "subject": "What it says a peperomia needs",
+   "value_as_published": "2,000–4,000 lux",
+   "quote": "The optimum for a baby rubber plant (P. obtusifolia), measured at the leaf surface",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "peperomiaobtusifolia.com",
+   "source_url": "https://peperomiaobtusifolia.com/blog/best-window-direction-peperomia-obtusifolia/",
+   "appears_on": "https://growspotapp.com/guides/peperomia-north-facing-window/",
+   "subject": "What it says a peperomia needs",
+   "value_as_published": "800–1,000 lux",
+   "quote": "The same site's tolerated minimum for P. obtusifolia, a rough figure",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "peperomiaobtusifolia.com",
+   "source_url": "https://peperomiaobtusifolia.com/blog/best-window-direction-peperomia-obtusifolia/",
+   "appears_on": "https://growspotapp.com/guides/peperomia-south-facing-window/",
+   "subject": "What it says a peperomia needs",
+   "value_as_published": "2,000–4,000 lux",
+   "quote": "Baby rubber plant: the optimum at the leaf surface",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "peperomiaobtusifolia.com",
+   "source_url": "https://peperomiaobtusifolia.com/blog/best-window-direction-peperomia-obtusifolia/",
+   "appears_on": "https://growspotapp.com/guides/peperomia-south-facing-window/",
+   "subject": "What it says a peperomia needs",
+   "value_as_published": "800–1,000 lux",
+   "quote": "Baby rubber plant: the tolerated minimum",
+   "read_on": "14 October 2026"
+  },
+  {
    "publisher": "planterra.com",
    "source_url": "https://planterra.com/wp-content/uploads/2019/04/PlanterraLightingGuide4.19.pdf",
    "appears_on": "https://growspotapp.com/guides/leggy-houseplants/",
@@ -5634,6 +6498,24 @@
    "value_as_published": "85 °F",
    "quote": "\"Cooling Season Unoccupied Set Points: 85F\". That is 29.4 °C, and it is a ceiling rather than a reading.",
    "read_on": "30 August 2026"
+  },
+  {
+   "publisher": "scienceinsights.org",
+   "source_url": "https://scienceinsights.org/how-much-light-does-a-pilea-need/",
+   "appears_on": "https://growspotapp.com/guides/pilea-east-facing-window/",
+   "subject": "What it says a pilea needs",
+   "value_as_published": "10,000 and 20,000 lux",
+   "quote": "The range it says bright indirect light typically falls between, in an article on pilea light (10 November 2025)",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "scienceinsights.org",
+   "source_url": "https://scienceinsights.org/how-much-light-does-a-pilea-need/",
+   "appears_on": "https://growspotapp.com/guides/pilea-west-facing-window/",
+   "subject": "What it says a pilea needs",
+   "value_as_published": "10,000 and 20,000 lux",
+   "quote": "Its definition of bright indirect light, \"typically ranges between 10,000 and 20,000 lux\" (dated 10 November 2025)",
+   "read_on": "14 October 2026"
   },
   {
    "publisher": "site.extension.uga.edu",
@@ -5859,6 +6741,42 @@
    "value_as_published": "about 10,000 foot-candles",
    "quote": "full sun equivalent, stated as too bright for most orchids",
    "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "theplantmanual.com",
+   "source_url": "https://www.theplantmanual.com/string-of-hearts-light-requirements/",
+   "appears_on": "https://growspotapp.com/guides/string-of-hearts-east-facing-window/",
+   "subject": "What it says a string of hearts needs",
+   "value_as_published": "1,500-3,000 foot-candles (fc)",
+   "quote": "The range it calls ideal (bright indirect)",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "theplantmanual.com",
+   "source_url": "https://www.theplantmanual.com/string-of-hearts-light-requirements/",
+   "appears_on": "https://growspotapp.com/guides/string-of-hearts-east-facing-window/",
+   "subject": "What it says a string of hearts needs",
+   "value_as_published": "500 foot-candles",
+   "quote": "Its floor: under this, it says, the vines get severely leggy",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "theplantmanual.com",
+   "source_url": "https://www.theplantmanual.com/string-of-hearts-light-requirements/",
+   "appears_on": "https://growspotapp.com/guides/string-of-hearts-west-facing-window/",
+   "subject": "What it says a string of hearts needs",
+   "value_as_published": "1,500-3,000 foot-candles (fc)",
+   "quote": "The range it calls ideal, under bright indirect light",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "theplantmanual.com",
+   "source_url": "https://www.theplantmanual.com/string-of-hearts-light-requirements/",
+   "appears_on": "https://growspotapp.com/guides/string-of-hearts-west-facing-window/",
+   "subject": "What it says a string of hearts needs",
+   "value_as_published": "500 foot-candles",
+   "quote": "A floor: below it, the page says, the plant becomes severely leggy",
+   "read_on": "14 October 2026"
   },
   {
    "publisher": "theplantrunner.com",
@@ -6435,6 +7353,96 @@
    "value_as_published": "below 50 °F",
    "quote": "Does not say if it is a night low",
    "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "web.archive.org",
+   "source_url": "https://web.archive.org/web/20250813185423/https://mrec.ifas.ufl.edu/Foliage/folnotes/crotons.htm",
+   "appears_on": "https://growspotapp.com/guides/croton-south-facing-window/",
+   "subject": "What it says a croton needs",
+   "value_as_published": "3000 to 5000 ft-c",
+   "quote": "University of Florida notes for commercial pot production, “or higher”; read from a 2025 web.archive.org copy, the live page is gone",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "web.archive.org",
+   "source_url": "https://web.archive.org/web/20250813185423/https://mrec.ifas.ufl.edu/Foliage/folnotes/crotons.htm",
+   "appears_on": "https://growspotapp.com/guides/croton-south-facing-window/",
+   "subject": "What it says a croton needs",
+   "value_as_published": "6000 to 7000 ft-c",
+   "quote": "Same archived notes: acceptable for production if high temperatures can be controlled",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "web.archive.org",
+   "source_url": "https://web.archive.org/web/20250813185423/https://mrec.ifas.ufl.edu/Foliage/folnotes/crotons.htm",
+   "appears_on": "https://growspotapp.com/guides/croton-west-facing-window/",
+   "subject": "What it says a croton needs",
+   "value_as_published": "3000 to 5000 ft-c",
+   "quote": "UF/IFAS production level for potted crotons in commercial greenhouses; read from a web.archive.org copy dated 13 August 2025, the live page now returns 404",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "web.archive.org",
+   "source_url": "https://web.archive.org/web/20250813185423/https://mrec.ifas.ufl.edu/Foliage/folnotes/crotons.htm",
+   "appears_on": "https://growspotapp.com/guides/croton-west-facing-window/",
+   "subject": "What it says a croton needs",
+   "value_as_published": "6000 to 7000 ft-c",
+   "quote": "Upper production level, acceptable only if high temperatures can be controlled; same archived page",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "web.archive.org",
+   "source_url": "https://web.archive.org/web/20250813200058/https://mrec.ifas.ufl.edu/Foliage/folnotes/areca.htm",
+   "appears_on": "https://growspotapp.com/guides/areca-palm-north-facing-window/",
+   "subject": "What it says an areca palm needs",
+   "value_as_published": "5,000 to 6,000 foot-candles",
+   "quote": "Best light for commercial production, about 50% shade; read from a 13 August 2025 archive copy, as the live page now returns 404",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "web.archive.org",
+   "source_url": "https://web.archive.org/web/20250813200058/https://mrec.ifas.ufl.edu/Foliage/folnotes/areca.htm",
+   "appears_on": "https://growspotapp.com/guides/areca-palm-south-facing-window/",
+   "subject": "What it says an areca palm needs",
+   "value_as_published": "5,000 to 6,000 foot-candles",
+   "quote": "UF/IFAS commercial production level, \"about 50% shade\"; the live page is gone, read from a 13 August 2025 archived copy",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "web.archive.org",
+   "source_url": "https://web.archive.org/web/20250813203103/https://mrec.ifas.ufl.edu/Foliage/folnotes/waxplant.htm",
+   "appears_on": "https://growspotapp.com/guides/hoya-south-facing-window/",
+   "subject": "What it says a hoya needs",
+   "value_as_published": "125 foot-candles",
+   "quote": "Minimum for indoor spaces, for about 10 hours a day. Read from a web.archive.org snapshot of 13 August 2025; the live page now returns 404",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "web.archive.org",
+   "source_url": "https://web.archive.org/web/20250813203103/https://mrec.ifas.ufl.edu/Foliage/folnotes/waxplant.htm",
+   "appears_on": "https://growspotapp.com/guides/hoya-south-facing-window/",
+   "subject": "What it says a hoya needs",
+   "value_as_published": "1500-2000 foot-candles",
+   "quote": "Light for commercial production, from the same archived page",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "web.archive.org",
+   "source_url": "https://web.archive.org/web/20250813203103/https://mrec.ifas.ufl.edu/Foliage/folnotes/waxplant.htm",
+   "appears_on": "https://growspotapp.com/guides/hoya-west-facing-window/",
+   "subject": "What it says a hoya needs",
+   "value_as_published": "125 foot-candles",
+   "quote": "UF/IFAS interior minimum, for about 10 hours a day; read from a web.archive.org copy of 13 August 2025, the live page now returns 404",
+   "read_on": "14 October 2026"
+  },
+  {
+   "publisher": "web.archive.org",
+   "source_url": "https://web.archive.org/web/20250813203103/https://mrec.ifas.ufl.edu/Foliage/folnotes/waxplant.htm",
+   "appears_on": "https://growspotapp.com/guides/hoya-west-facing-window/",
+   "subject": "What it says a hoya needs",
+   "value_as_published": "1500-2000 foot-candles",
+   "quote": "UF/IFAS commercial production light, from the same archived copy",
+   "read_on": "14 October 2026"
   },
   {
    "publisher": "yardandgarden.extension.iastate.edu",
