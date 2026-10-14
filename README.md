@@ -8,7 +8,7 @@ This repository is a mirror. The dataset pages on growspotapp.com are the canoni
 |---|---|---|---|---|
 | [`indoor-light-measurements.csv`](data/indoor-light-measurements.csv) · [`.json`](data/indoor-light-measurements.json) | 4 rows summarising 159 readings | 2026-10-03 | [growspotapp.com/data/indoor-light-measurements/](https://growspotapp.com/data/indoor-light-measurements/) | [10.5281/zenodo.22023336](https://doi.org/10.5281/zenodo.22023336) |
 | [`species-light-levels.csv`](data/species-light-levels.csv) · [`.json`](data/species-light-levels.json) | one row per species | 2026-10-13 | [growspotapp.com/data/species-light-levels/](https://growspotapp.com/data/species-light-levels/) | [10.5281/zenodo.22023336](https://doi.org/10.5281/zenodo.22023336) |
-| [`published-light-figures.csv`](data/published-light-figures.csv) · [`.json`](data/published-light-figures.json) | 680 rows | last changed 2026-10-14 | [growspotapp.com/data/published-light-figures/](https://growspotapp.com/data/published-light-figures/) | [10.5281/zenodo.22172762](https://doi.org/10.5281/zenodo.22172762) |
+| [`published-light-figures.csv`](data/published-light-figures.csv) · [`.json`](data/published-light-figures.json) | 743 rows | last changed 2026-10-14 | [growspotapp.com/data/published-light-figures/](https://growspotapp.com/data/published-light-figures/) | [10.5281/zenodo.22172762](https://doi.org/10.5281/zenodo.22172762) |
 
 Every CSV starts with a comment line that repeats its snapshot date, licence and attribution, so the provenance stays with the file when it is copied on its own.
 
