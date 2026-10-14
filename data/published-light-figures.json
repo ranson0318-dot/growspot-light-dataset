@@ -1,12 +1,12 @@
 {
  "_meta": {
   "dataset": "What the published sources actually say about indoor light",
-  "description": "562 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 81 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
+  "description": "680 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 81 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
   "license_compilation": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — applies to this compilation: which sources were read, how the rows are structured, and the links.",
   "license_quotes": "Each quoted sentence remains the property of the publisher named in its row. Quotes are short excerpts reproduced for identification, each with a link to the original page.",
   "attribution": "GrowSpot — growspotapp.com",
   "source_page": "https://growspotapp.com/data/published-light-figures/",
-  "rows": 562,
+  "rows": 680,
   "publishers": 81,
   "fields": {
    "publisher": "Hostname of the publisher, www stripped",
@@ -41,6 +41,24 @@
    "publisher": "apps.apple.com",
    "source_url": "https://apps.apple.com/us/app/light-meter-for-plant-lux-fc/id1628111038",
    "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-snake-plant-need/",
+   "subject": "What it says a snake plant needs",
+   "value_as_published": "500 lux",
+   "quote": "per-plant figure — thrives at this level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "apps.apple.com",
+   "source_url": "https://apps.apple.com/us/app/light-meter-for-plant-lux-fc/id1628111038",
+   "appears_on": "https://growspotapp.com/guides/snake-plant-east-facing-window/",
+   "subject": "What it says a snake plant needs",
+   "value_as_published": "500 lux",
+   "quote": "per-plant figure — thrives at this level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "apps.apple.com",
+   "source_url": "https://apps.apple.com/us/app/light-meter-for-plant-lux-fc/id1628111038",
+   "appears_on": "https://growspotapp.com/guides/snake-plant-north-facing-window/",
    "subject": "What it says a snake plant needs",
    "value_as_published": "500 lux",
    "quote": "per-plant figure — thrives at this level",
@@ -238,6 +256,24 @@
   {
    "publisher": "bbg.org",
    "source_url": "https://www.bbg.org/article/the_genus_ficus",
+   "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-east-facing-window/",
+   "subject": "What it says a fiddle leaf fig needs",
+   "value_as_published": "2,000 to 6,000 foot-candles",
+   "quote": "Fiddle-Leaf Fig (Ficus lyrata)",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "bbg.org",
+   "source_url": "https://www.bbg.org/article/the_genus_ficus",
+   "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-east-facing-window/",
+   "subject": "What it says a fiddle leaf fig needs",
+   "value_as_published": "under 250 foot-candles",
+   "quote": "Fiddle-Leaf Fig (Ficus lyrata)",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "bbg.org",
+   "source_url": "https://www.bbg.org/article/the_genus_ficus",
    "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-north-facing-window/",
    "subject": "What it says a fiddle leaf fig needs",
    "value_as_published": "2,000 to 6,000 foot-candles",
@@ -266,6 +302,24 @@
    "publisher": "bbg.org",
    "source_url": "https://www.bbg.org/article/the_genus_ficus",
    "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-south-facing-window/",
+   "subject": "What it says a fiddle leaf fig needs",
+   "value_as_published": "under 250 foot-candles",
+   "quote": "Fiddle-Leaf Fig (Ficus lyrata)",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "bbg.org",
+   "source_url": "https://www.bbg.org/article/the_genus_ficus",
+   "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-west-facing-window/",
+   "subject": "What it says a fiddle leaf fig needs",
+   "value_as_published": "2,000 to 6,000 foot-candles",
+   "quote": "Fiddle-Leaf Fig (Ficus lyrata)",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "bbg.org",
+   "source_url": "https://www.bbg.org/article/the_genus_ficus",
+   "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-west-facing-window/",
    "subject": "What it says a fiddle leaf fig needs",
    "value_as_published": "under 250 foot-candles",
    "quote": "Fiddle-Leaf Fig (Ficus lyrata)",
@@ -302,6 +356,42 @@
    "publisher": "bbg.org",
    "source_url": "https://www.bbg.org/article/the_genus_ficus",
    "appears_on": "https://growspotapp.com/guides/rubber-plant-east-facing-window/",
+   "subject": "What it says a rubber plant needs",
+   "value_as_published": "as little as 250 foot-candles",
+   "quote": "India Rubber Tree (Ficus elastica)",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "bbg.org",
+   "source_url": "https://www.bbg.org/article/the_genus_ficus",
+   "appears_on": "https://growspotapp.com/guides/rubber-plant-north-facing-window/",
+   "subject": "What it says a rubber plant needs",
+   "value_as_published": "4,000 to 8,000 foot-candles",
+   "quote": "India Rubber Tree (Ficus elastica)",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "bbg.org",
+   "source_url": "https://www.bbg.org/article/the_genus_ficus",
+   "appears_on": "https://growspotapp.com/guides/rubber-plant-north-facing-window/",
+   "subject": "What it says a rubber plant needs",
+   "value_as_published": "as little as 250 foot-candles",
+   "quote": "India Rubber Tree (Ficus elastica)",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "bbg.org",
+   "source_url": "https://www.bbg.org/article/the_genus_ficus",
+   "appears_on": "https://growspotapp.com/guides/rubber-plant-south-facing-window/",
+   "subject": "What it says a rubber plant needs",
+   "value_as_published": "4,000 to 8,000 foot-candles",
+   "quote": "India Rubber Tree (Ficus elastica)",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "bbg.org",
+   "source_url": "https://www.bbg.org/article/the_genus_ficus",
+   "appears_on": "https://growspotapp.com/guides/rubber-plant-south-facing-window/",
    "subject": "What it says a rubber plant needs",
    "value_as_published": "as little as 250 foot-candles",
    "quote": "India Rubber Tree (Ficus elastica)",
@@ -580,6 +670,15 @@
   {
    "publisher": "extension.arizona.edu",
    "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
+   "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-east-facing-window/",
+   "subject": "What it says a fiddle leaf fig needs",
+   "value_as_published": "75–150 foot-candles",
+   "quote": "listed under the heading \"Medium Light (75–150 fc)\"",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "extension.arizona.edu",
+   "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
    "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-north-facing-window/",
    "subject": "What it says a fiddle leaf fig needs",
    "value_as_published": "75–150 foot-candles",
@@ -590,6 +689,15 @@
    "publisher": "extension.arizona.edu",
    "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
    "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-south-facing-window/",
+   "subject": "What it says a fiddle leaf fig needs",
+   "value_as_published": "75–150 foot-candles",
+   "quote": "listed under the heading \"Medium Light (75–150 fc)\"",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "extension.arizona.edu",
+   "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
+   "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-west-facing-window/",
    "subject": "What it says a fiddle leaf fig needs",
    "value_as_published": "75–150 foot-candles",
    "quote": "listed under the heading \"Medium Light (75–150 fc)\"",
@@ -742,6 +850,15 @@
   {
    "publisher": "extension.arizona.edu",
    "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
+   "appears_on": "https://growspotapp.com/guides/jade-plant-east-facing-window/",
+   "subject": "What it says a jade plant needs",
+   "value_as_published": "150–1000 foot-candles",
+   "quote": "listed under the heading \"High Light (150–1000 fc)\"",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "extension.arizona.edu",
+   "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
    "appears_on": "https://growspotapp.com/guides/jade-plant-north-facing-window/",
    "subject": "What it says a jade plant needs",
    "value_as_published": "150–1000 foot-candles",
@@ -805,6 +922,24 @@
   {
    "publisher": "extension.arizona.edu",
    "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
+   "appears_on": "https://growspotapp.com/guides/peace-lily-east-facing-window/",
+   "subject": "What it says a peace lily needs",
+   "value_as_published": "75–150 foot-candles",
+   "quote": "listed under the heading \"Medium Light (75–150 fc)\"",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "extension.arizona.edu",
+   "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
+   "appears_on": "https://growspotapp.com/guides/peace-lily-north-facing-window/",
+   "subject": "What it says a peace lily needs",
+   "value_as_published": "75–150 foot-candles",
+   "quote": "listed under the heading \"Medium Light (75–150 fc)\"",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "extension.arizona.edu",
+   "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
    "appears_on": "https://growspotapp.com/guides/peace-lily-south-facing-window/",
    "subject": "What it says a peace lily needs",
    "value_as_published": "75–150 foot-candles",
@@ -824,6 +959,15 @@
    "publisher": "extension.arizona.edu",
    "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
    "appears_on": "https://growspotapp.com/guides/philodendron-south-facing-window/",
+   "subject": "What it says a philodendron needs",
+   "value_as_published": "75–150 foot-candles",
+   "quote": "listed under the heading \"Medium Light (75–150 fc)\"; carries the page'",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "extension.arizona.edu",
+   "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
+   "appears_on": "https://growspotapp.com/guides/philodendron-west-facing-window/",
    "subject": "What it says a philodendron needs",
    "value_as_published": "75–150 foot-candles",
    "quote": "listed under the heading \"Medium Light (75–150 fc)\"; carries the page'",
@@ -868,7 +1012,43 @@
   {
    "publisher": "extension.arizona.edu",
    "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
+   "appears_on": "https://growspotapp.com/guides/pothos-north-facing-window/",
+   "subject": "What it says a pothos needs",
+   "value_as_published": "25–75 foot-candles",
+   "quote": "listed under the heading \"Low Light (25–75 fc)\"",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "extension.arizona.edu",
+   "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
+   "appears_on": "https://growspotapp.com/guides/pothos-south-facing-window/",
+   "subject": "What it says a pothos needs",
+   "value_as_published": "25–75 foot-candles",
+   "quote": "listed under the heading \"Low Light (25–75 fc)\"",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "extension.arizona.edu",
+   "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
    "appears_on": "https://growspotapp.com/guides/rubber-plant-east-facing-window/",
+   "subject": "What it says a rubber plant needs",
+   "value_as_published": "75–150 foot-candles",
+   "quote": "listed under the heading \"Medium Light (75–150 fc)\"",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "extension.arizona.edu",
+   "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
+   "appears_on": "https://growspotapp.com/guides/rubber-plant-north-facing-window/",
+   "subject": "What it says a rubber plant needs",
+   "value_as_published": "75–150 foot-candles",
+   "quote": "listed under the heading \"Medium Light (75–150 fc)\"",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "extension.arizona.edu",
+   "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
+   "appears_on": "https://growspotapp.com/guides/rubber-plant-south-facing-window/",
    "subject": "What it says a rubber plant needs",
    "value_as_published": "75–150 foot-candles",
    "quote": "listed under the heading \"Medium Light (75–150 fc)\"",
@@ -881,6 +1061,24 @@
    "subject": "What it says a rubber plant needs",
    "value_as_published": "75–150 foot-candles",
    "quote": "listed under the heading \"Medium Light (75–150 fc)\"",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "extension.arizona.edu",
+   "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
+   "appears_on": "https://growspotapp.com/guides/snake-plant-east-facing-window/",
+   "subject": "What it says a snake plant needs",
+   "value_as_published": "25–75 foot-candles",
+   "quote": "listed under the heading \"Low Light (25–75 fc)\"",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "extension.arizona.edu",
+   "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
+   "appears_on": "https://growspotapp.com/guides/snake-plant-north-facing-window/",
+   "subject": "What it says a snake plant needs",
+   "value_as_published": "25–75 foot-candles",
+   "quote": "listed under the heading \"Low Light (25–75 fc)\"",
    "read_on": "29 August 2026"
   },
   {
@@ -909,6 +1107,24 @@
    "value_as_published": "Four and eight feet",
    "quote": "\"High Light: areas within four feet of large south-east or west facing windows\"; \"Medium Light: locations in a range of four to eight feet from south and east windows and west windows that do not receive direct sun.\"",
    "read_on": "30 August 2026"
+  },
+  {
+   "publisher": "extension.arizona.edu",
+   "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
+   "appears_on": "https://growspotapp.com/guides/spider-plant-north-facing-window/",
+   "subject": "What it says a spider plant needs",
+   "value_as_published": "75–150 foot-candles",
+   "quote": "listed under the heading \"Medium Light (75–150 fc)\"",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "extension.arizona.edu",
+   "source_url": "https://extension.arizona.edu/publication/indoor-plant-selection-and-care",
+   "appears_on": "https://growspotapp.com/guides/spider-plant-south-facing-window/",
+   "subject": "What it says a spider plant needs",
+   "value_as_published": "75–150 foot-candles",
+   "quote": "listed under the heading \"Medium Light (75–150 fc)\"",
+   "read_on": "29 August 2026"
   },
   {
    "publisher": "extension.arizona.edu",
@@ -2398,6 +2614,24 @@
   {
    "publisher": "growlightmeter.com",
    "source_url": "https://growlightmeter.com/guides/houseplant-lighting-guide/",
+   "appears_on": "https://growspotapp.com/guides/monstera-west-facing-window/",
+   "subject": "What it says a monstera needs",
+   "value_as_published": "8 – 12 PPFD / DLI",
+   "quote": "Monstera",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "growlightmeter.com",
+   "source_url": "https://growlightmeter.com/guides/houseplant-lighting-guide/",
+   "appears_on": "https://growspotapp.com/guides/orchid-east-facing-window/",
+   "subject": "What it says a orchid needs",
+   "value_as_published": "4 – 8 PPFD / DLI",
+   "quote": "Orchid",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "growlightmeter.com",
+   "source_url": "https://growlightmeter.com/guides/houseplant-lighting-guide/",
    "appears_on": "https://growspotapp.com/guides/orchid-south-facing-window/",
    "subject": "What it says a orchid needs",
    "value_as_published": "4 – 8 PPFD / DLI",
@@ -2411,6 +2645,24 @@
    "subject": "What it says a parlor palm needs",
    "value_as_published": "6 – 12 PPFD / DLI",
    "quote": "Parlor Palm",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "growlightmeter.com",
+   "source_url": "https://growlightmeter.com/guides/houseplant-lighting-guide/",
+   "appears_on": "https://growspotapp.com/guides/peace-lily-east-facing-window/",
+   "subject": "What it says a peace lily needs",
+   "value_as_published": "5 – 10 PPFD / DLI",
+   "quote": "Peace Lily",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "growlightmeter.com",
+   "source_url": "https://growlightmeter.com/guides/houseplant-lighting-guide/",
+   "appears_on": "https://growspotapp.com/guides/peace-lily-north-facing-window/",
+   "subject": "What it says a peace lily needs",
+   "value_as_published": "5 – 10 PPFD / DLI",
+   "quote": "Peace Lily",
    "read_on": "29 August 2026"
   },
   {
@@ -2443,10 +2695,55 @@
   {
    "publisher": "growlightmeter.com",
    "source_url": "https://growlightmeter.com/guides/houseplant-lighting-guide/",
+   "appears_on": "https://growspotapp.com/guides/philodendron-west-facing-window/",
+   "subject": "What it says a philodendron needs",
+   "value_as_published": "5 – 10 PPFD / DLI",
+   "quote": "Philodendron",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "growlightmeter.com",
+   "source_url": "https://growlightmeter.com/guides/houseplant-lighting-guide/",
    "appears_on": "https://growspotapp.com/guides/pothos-east-facing-window/",
    "subject": "What it says a pothos needs",
    "value_as_published": "5 – 10 PPFD / DLI",
    "quote": "Pothos",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "growlightmeter.com",
+   "source_url": "https://growlightmeter.com/guides/houseplant-lighting-guide/",
+   "appears_on": "https://growspotapp.com/guides/pothos-north-facing-window/",
+   "subject": "What it says a pothos needs",
+   "value_as_published": "5 – 10 PPFD / DLI",
+   "quote": "Pothos",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "growlightmeter.com",
+   "source_url": "https://growlightmeter.com/guides/houseplant-lighting-guide/",
+   "appears_on": "https://growspotapp.com/guides/pothos-south-facing-window/",
+   "subject": "What it says a pothos needs",
+   "value_as_published": "5 – 10 PPFD / DLI",
+   "quote": "Pothos",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "growlightmeter.com",
+   "source_url": "https://growlightmeter.com/guides/houseplant-lighting-guide/",
+   "appears_on": "https://growspotapp.com/guides/snake-plant-east-facing-window/",
+   "subject": "What it says a snake plant needs",
+   "value_as_published": "5 – 10 PPFD / DLI",
+   "quote": "Snake Plant",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "growlightmeter.com",
+   "source_url": "https://growlightmeter.com/guides/houseplant-lighting-guide/",
+   "appears_on": "https://growspotapp.com/guides/snake-plant-north-facing-window/",
+   "subject": "What it says a snake plant needs",
+   "value_as_published": "5 – 10 PPFD / DLI",
+   "quote": "Snake Plant",
    "read_on": "29 August 2026"
   },
   {
@@ -2470,6 +2767,24 @@
   {
    "publisher": "growlightmeter.com",
    "source_url": "https://growlightmeter.com/guides/houseplant-lighting-guide/",
+   "appears_on": "https://growspotapp.com/guides/spider-plant-north-facing-window/",
+   "subject": "What it says a spider plant needs",
+   "value_as_published": "5 – 10 PPFD / DLI",
+   "quote": "Spider Plant",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "growlightmeter.com",
+   "source_url": "https://growlightmeter.com/guides/houseplant-lighting-guide/",
+   "appears_on": "https://growspotapp.com/guides/spider-plant-south-facing-window/",
+   "subject": "What it says a spider plant needs",
+   "value_as_published": "5 – 10 PPFD / DLI",
+   "quote": "Spider Plant",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "growlightmeter.com",
+   "source_url": "https://growlightmeter.com/guides/houseplant-lighting-guide/",
    "appears_on": "https://growspotapp.com/guides/spider-plant-west-facing-window/",
    "subject": "What it says a spider plant needs",
    "value_as_published": "5 – 10 PPFD / DLI",
@@ -2479,7 +2794,25 @@
   {
    "publisher": "growlightmeter.com",
    "source_url": "https://growlightmeter.com/guides/houseplant-lighting-guide/",
+   "appears_on": "https://growspotapp.com/guides/zz-plant-east-facing-window/",
+   "subject": "What it says a ZZ plant needs",
+   "value_as_published": "5 – 10 PPFD / DLI",
+   "quote": "ZZ Plant",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "growlightmeter.com",
+   "source_url": "https://growlightmeter.com/guides/houseplant-lighting-guide/",
    "appears_on": "https://growspotapp.com/guides/zz-plant-north-facing-window/",
+   "subject": "What it says a ZZ plant needs",
+   "value_as_published": "5 – 10 PPFD / DLI",
+   "quote": "ZZ Plant",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "growlightmeter.com",
+   "source_url": "https://growlightmeter.com/guides/houseplant-lighting-guide/",
+   "appears_on": "https://growspotapp.com/guides/zz-plant-west-facing-window/",
    "subject": "What it says a ZZ plant needs",
    "value_as_published": "5 – 10 PPFD / DLI",
    "quote": "ZZ Plant",
@@ -2929,6 +3262,24 @@
   {
    "publisher": "houseplantjournal.com",
    "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-east-facing-window/",
+   "subject": "What it says a fiddle leaf fig needs",
+   "value_as_published": "400 FC (80 µmol) foot-candles",
+   "quote": "minimum indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-east-facing-window/",
+   "subject": "What it says a fiddle leaf fig needs",
+   "value_as_published": "at least 400 foot-candles",
+   "quote": "Fiddle leaf fig — leaf-drop threshold",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
    "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-north-facing-window/",
    "subject": "What it says a fiddle leaf fig needs",
    "value_as_published": "400 FC (80 µmol) foot-candles",
@@ -2957,6 +3308,24 @@
    "publisher": "houseplantjournal.com",
    "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
    "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-south-facing-window/",
+   "subject": "What it says a fiddle leaf fig needs",
+   "value_as_published": "at least 400 foot-candles",
+   "quote": "Fiddle leaf fig — leaf-drop threshold",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-west-facing-window/",
+   "subject": "What it says a fiddle leaf fig needs",
+   "value_as_published": "400 FC (80 µmol) foot-candles",
+   "quote": "minimum indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-west-facing-window/",
    "subject": "What it says a fiddle leaf fig needs",
    "value_as_published": "at least 400 foot-candles",
    "quote": "Fiddle leaf fig — leaf-drop threshold",
@@ -3068,6 +3437,24 @@
    "subject": "What it says a snake plant needs",
    "value_as_published": "200 foot-candles",
    "quote": "Sansevieria — good indirect light",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/jade-plant-east-facing-window/",
+   "subject": "What it says a jade plant needs",
+   "value_as_published": "200 FC (40 µmol) foot-candles",
+   "quote": "minimum indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/jade-plant-east-facing-window/",
+   "subject": "What it says a jade plant needs",
+   "value_as_published": "400 FC (80 µmol) foot-candles",
+   "quote": "good indirect light level",
    "read_on": "29 August 2026"
   },
   {
@@ -3172,6 +3559,42 @@
   {
    "publisher": "houseplantjournal.com",
    "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/monstera-west-facing-window/",
+   "subject": "What it says a monstera needs",
+   "value_as_published": "100 FC (20 µmol) foot-candles",
+   "quote": "minimum indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/monstera-west-facing-window/",
+   "subject": "What it says a monstera needs",
+   "value_as_published": "200 FC (40 µmol) foot-candles",
+   "quote": "good indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/orchid-east-facing-window/",
+   "subject": "What it says a orchid needs",
+   "value_as_published": "200 FC (40 µmol) foot-candles",
+   "quote": "minimum indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/orchid-east-facing-window/",
+   "subject": "What it says a orchid needs",
+   "value_as_published": "400 FC (80 µmol) foot-candles",
+   "quote": "good indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
    "appears_on": "https://growspotapp.com/guides/orchid-south-facing-window/",
    "subject": "What it says a orchid needs",
    "value_as_published": "200 FC (40 µmol) foot-candles",
@@ -3203,6 +3626,42 @@
    "subject": "What it says a parlor palm needs",
    "value_as_published": "200 FC (40 µmol) foot-candles",
    "quote": "good indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/peace-lily-east-facing-window/",
+   "subject": "What it says a peace lily needs",
+   "value_as_published": "100 foot-candles",
+   "quote": "Peace Lily — minimum indirect light",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/peace-lily-east-facing-window/",
+   "subject": "What it says a peace lily needs",
+   "value_as_published": "200 foot-candles",
+   "quote": "Peace Lily — good indirect light",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/peace-lily-north-facing-window/",
+   "subject": "What it says a peace lily needs",
+   "value_as_published": "100 foot-candles",
+   "quote": "Peace Lily — minimum indirect light",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/peace-lily-north-facing-window/",
+   "subject": "What it says a peace lily needs",
+   "value_as_published": "200 foot-candles",
+   "quote": "Peace Lily — good indirect light",
    "read_on": "29 August 2026"
   },
   {
@@ -3262,6 +3721,24 @@
   {
    "publisher": "houseplantjournal.com",
    "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/philodendron-west-facing-window/",
+   "subject": "What it says a philodendron needs",
+   "value_as_published": "100 foot-candles",
+   "quote": "Philodendron Vines — minimum indirect light",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/philodendron-west-facing-window/",
+   "subject": "What it says a philodendron needs",
+   "value_as_published": "200 foot-candles",
+   "quote": "Philodendron Vines — good indirect light",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
    "appears_on": "https://growspotapp.com/guides/pothos-east-facing-window/",
    "subject": "What it says a pothos needs",
    "value_as_published": "100 foot-candles",
@@ -3272,6 +3749,42 @@
    "publisher": "houseplantjournal.com",
    "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
    "appears_on": "https://growspotapp.com/guides/pothos-east-facing-window/",
+   "subject": "What it says a pothos needs",
+   "value_as_published": "200 foot-candles",
+   "quote": "Pothos — good indirect light",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/pothos-north-facing-window/",
+   "subject": "What it says a pothos needs",
+   "value_as_published": "100 foot-candles",
+   "quote": "Pothos — minimum indirect light",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/pothos-north-facing-window/",
+   "subject": "What it says a pothos needs",
+   "value_as_published": "200 foot-candles",
+   "quote": "Pothos — good indirect light",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/pothos-south-facing-window/",
+   "subject": "What it says a pothos needs",
+   "value_as_published": "100 foot-candles",
+   "quote": "Pothos — minimum indirect light",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/pothos-south-facing-window/",
    "subject": "What it says a pothos needs",
    "value_as_published": "200 foot-candles",
    "quote": "Pothos — good indirect light",
@@ -3298,6 +3811,24 @@
   {
    "publisher": "houseplantjournal.com",
    "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/prayer-plant-north-facing-window/",
+   "subject": "What it says a prayer plant needs",
+   "value_as_published": "100 FC (20 µmol) foot-candles",
+   "quote": "minimum indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/prayer-plant-north-facing-window/",
+   "subject": "What it says a prayer plant needs",
+   "value_as_published": "200 FC (40 µmol) foot-candles",
+   "quote": "good indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
    "appears_on": "https://growspotapp.com/guides/rubber-plant-east-facing-window/",
    "subject": "What it says a rubber plant needs",
    "value_as_published": "400 FC (80 µmol) foot-candles",
@@ -3308,6 +3839,42 @@
    "publisher": "houseplantjournal.com",
    "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
    "appears_on": "https://growspotapp.com/guides/rubber-plant-east-facing-window/",
+   "subject": "What it says a rubber plant needs",
+   "value_as_published": "800 FC (160 µmol) foot-candles",
+   "quote": "good indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/rubber-plant-north-facing-window/",
+   "subject": "What it says a rubber plant needs",
+   "value_as_published": "400 FC (80 µmol) foot-candles",
+   "quote": "minimum indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/rubber-plant-north-facing-window/",
+   "subject": "What it says a rubber plant needs",
+   "value_as_published": "800 FC (160 µmol) foot-candles",
+   "quote": "good indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/rubber-plant-south-facing-window/",
+   "subject": "What it says a rubber plant needs",
+   "value_as_published": "400 FC (80 µmol) foot-candles",
+   "quote": "minimum indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/rubber-plant-south-facing-window/",
    "subject": "What it says a rubber plant needs",
    "value_as_published": "800 FC (160 µmol) foot-candles",
    "quote": "good indirect light level",
@@ -3329,6 +3896,42 @@
    "subject": "What it says a rubber plant needs",
    "value_as_published": "800 FC (160 µmol) foot-candles",
    "quote": "good indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/snake-plant-east-facing-window/",
+   "subject": "What it says a snake plant needs",
+   "value_as_published": "100 foot-candles",
+   "quote": "Sansevieria — minimum indirect light",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/snake-plant-east-facing-window/",
+   "subject": "What it says a snake plant needs",
+   "value_as_published": "200 foot-candles",
+   "quote": "Sansevieria — good indirect light",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/snake-plant-north-facing-window/",
+   "subject": "What it says a snake plant needs",
+   "value_as_published": "100 foot-candles",
+   "quote": "Sansevieria — minimum indirect light",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/snake-plant-north-facing-window/",
+   "subject": "What it says a snake plant needs",
+   "value_as_published": "200 foot-candles",
+   "quote": "Sansevieria — good indirect light",
    "read_on": "29 August 2026"
   },
   {
@@ -3365,6 +3968,42 @@
    "subject": "What it says a snake plant needs",
    "value_as_published": "200 foot-candles",
    "quote": "Sansevieria — good indirect light",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/spider-plant-north-facing-window/",
+   "subject": "What it says a spider plant needs",
+   "value_as_published": "200 FC (40 µmol) foot-candles",
+   "quote": "minimum indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/spider-plant-north-facing-window/",
+   "subject": "What it says a spider plant needs",
+   "value_as_published": "400 FC (80 µmol) foot-candles",
+   "quote": "good indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/spider-plant-south-facing-window/",
+   "subject": "What it says a spider plant needs",
+   "value_as_published": "200 FC (40 µmol) foot-candles",
+   "quote": "minimum indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/spider-plant-south-facing-window/",
+   "subject": "What it says a spider plant needs",
+   "value_as_published": "400 FC (80 µmol) foot-candles",
+   "quote": "good indirect light level",
    "read_on": "29 August 2026"
   },
   {
@@ -3382,6 +4021,24 @@
    "appears_on": "https://growspotapp.com/guides/spider-plant-west-facing-window/",
    "subject": "What it says a spider plant needs",
    "value_as_published": "400 FC (80 µmol) foot-candles",
+   "quote": "good indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/zz-plant-east-facing-window/",
+   "subject": "What it says a ZZ plant needs",
+   "value_as_published": "100 FC (20 µmol) foot-candles",
+   "quote": "minimum indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/zz-plant-east-facing-window/",
+   "subject": "What it says a ZZ plant needs",
+   "value_as_published": "200 FC (40 µmol) foot-candles",
    "quote": "good indirect light level",
    "read_on": "29 August 2026"
   },
@@ -3404,6 +4061,33 @@
    "read_on": "29 August 2026"
   },
   {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/zz-plant-west-facing-window/",
+   "subject": "What it says a ZZ plant needs",
+   "value_as_published": "100 FC (20 µmol) foot-candles",
+   "quote": "minimum indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantjournal.com",
+   "source_url": "https://www.houseplantjournal.com/bright-indirect-light-requirements-by-plant/",
+   "appears_on": "https://growspotapp.com/guides/zz-plant-west-facing-window/",
+   "subject": "What it says a ZZ plant needs",
+   "value_as_published": "200 FC (40 µmol) foot-candles",
+   "quote": "good indirect light level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-east-facing-window/",
+   "subject": "What it says a fiddle leaf fig needs",
+   "value_as_published": "400–800 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
    "publisher": "houseplantsnook.com",
    "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
    "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-north-facing-window/",
@@ -3416,6 +4100,15 @@
    "publisher": "houseplantsnook.com",
    "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
    "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-south-facing-window/",
+   "subject": "What it says a fiddle leaf fig needs",
+   "value_as_published": "400–800 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-west-facing-window/",
    "subject": "What it says a fiddle leaf fig needs",
    "value_as_published": "400–800 foot-candles",
    "quote": "chart fc level",
@@ -3481,6 +4174,15 @@
    "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-snake-plant-need/",
    "subject": "What it says a snake plant needs",
    "value_as_published": "50–100 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/jade-plant-east-facing-window/",
+   "subject": "What it says a jade plant needs",
+   "value_as_published": "400–800 foot-candles",
    "quote": "chart fc level",
    "read_on": "29 August 2026"
   },
@@ -3559,6 +4261,33 @@
   {
    "publisher": "houseplantsnook.com",
    "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/monstera-west-facing-window/",
+   "subject": "What it says a monstera needs",
+   "value_as_published": "200–400 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/monstera-west-facing-window/",
+   "subject": "What it says a monstera needs",
+   "value_as_published": "50–100 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/orchid-east-facing-window/",
+   "subject": "What it says a orchid needs",
+   "value_as_published": "100–200 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
    "appears_on": "https://growspotapp.com/guides/orchid-south-facing-window/",
    "subject": "What it says a orchid needs",
    "value_as_published": "100–200 foot-candles",
@@ -3571,6 +4300,24 @@
    "appears_on": "https://growspotapp.com/guides/parlor-palm-east-facing-window/",
    "subject": "What it says a parlor palm needs",
    "value_as_published": "100–200 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/peace-lily-east-facing-window/",
+   "subject": "What it says a peace lily needs",
+   "value_as_published": "50–100 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/peace-lily-north-facing-window/",
+   "subject": "What it says a peace lily needs",
+   "value_as_published": "50–100 foot-candles",
    "quote": "chart fc level",
    "read_on": "29 August 2026"
   },
@@ -3613,7 +4360,43 @@
   {
    "publisher": "houseplantsnook.com",
    "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/philodendron-west-facing-window/",
+   "subject": "What it says a philodendron needs",
+   "value_as_published": "200–400 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/philodendron-west-facing-window/",
+   "subject": "What it says a philodendron needs",
+   "value_as_published": "50–100 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
    "appears_on": "https://growspotapp.com/guides/pothos-east-facing-window/",
+   "subject": "What it says a pothos needs",
+   "value_as_published": "50–100 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/pothos-north-facing-window/",
+   "subject": "What it says a pothos needs",
+   "value_as_published": "50–100 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/pothos-south-facing-window/",
    "subject": "What it says a pothos needs",
    "value_as_published": "50–100 foot-candles",
    "quote": "chart fc level",
@@ -3631,7 +4414,34 @@
   {
    "publisher": "houseplantsnook.com",
    "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/prayer-plant-north-facing-window/",
+   "subject": "What it says a prayer plant needs",
+   "value_as_published": "100–200 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
    "appears_on": "https://growspotapp.com/guides/rubber-plant-east-facing-window/",
+   "subject": "What it says a rubber plant needs",
+   "value_as_published": "200–400 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/rubber-plant-north-facing-window/",
+   "subject": "What it says a rubber plant needs",
+   "value_as_published": "200–400 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/rubber-plant-south-facing-window/",
    "subject": "What it says a rubber plant needs",
    "value_as_published": "200–400 foot-candles",
    "quote": "chart fc level",
@@ -3643,6 +4453,24 @@
    "appears_on": "https://growspotapp.com/guides/rubber-plant-west-facing-window/",
    "subject": "What it says a rubber plant needs",
    "value_as_published": "200–400 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/snake-plant-east-facing-window/",
+   "subject": "What it says a snake plant needs",
+   "value_as_published": "50–100 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/snake-plant-north-facing-window/",
+   "subject": "What it says a snake plant needs",
+   "value_as_published": "50–100 foot-candles",
    "quote": "chart fc level",
    "read_on": "29 August 2026"
   },
@@ -3667,6 +4495,24 @@
   {
    "publisher": "houseplantsnook.com",
    "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/spider-plant-north-facing-window/",
+   "subject": "What it says a spider plant needs",
+   "value_as_published": "100–200 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/spider-plant-south-facing-window/",
+   "subject": "What it says a spider plant needs",
+   "value_as_published": "100–200 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
    "appears_on": "https://growspotapp.com/guides/spider-plant-west-facing-window/",
    "subject": "What it says a spider plant needs",
    "value_as_published": "100–200 foot-candles",
@@ -3676,7 +4522,25 @@
   {
    "publisher": "houseplantsnook.com",
    "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/zz-plant-east-facing-window/",
+   "subject": "What it says a ZZ plant needs",
+   "value_as_published": "50–100 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
    "appears_on": "https://growspotapp.com/guides/zz-plant-north-facing-window/",
+   "subject": "What it says a ZZ plant needs",
+   "value_as_published": "50–100 foot-candles",
+   "quote": "chart fc level",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "houseplantsnook.com",
+   "source_url": "https://houseplantsnook.com/light-chart-of-50-popular-houseplants",
+   "appears_on": "https://growspotapp.com/guides/zz-plant-west-facing-window/",
    "subject": "What it says a ZZ plant needs",
    "value_as_published": "50–100 foot-candles",
    "quote": "chart fc level",
@@ -4387,10 +5251,55 @@
   {
    "publisher": "soltech.com",
    "source_url": "https://soltech.com/pages/plant-light-calculator",
+   "appears_on": "https://growspotapp.com/guides/monstera-west-facing-window/",
+   "subject": "What it says a monstera needs",
+   "value_as_published": "80–500 PPFD / DLI",
+   "quote": "Monstera — Photone's published PPFD range, cited by Soltech",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "soltech.com",
+   "source_url": "https://soltech.com/pages/plant-light-calculator",
+   "appears_on": "https://growspotapp.com/guides/monstera-west-facing-window/",
+   "subject": "What it says a monstera needs",
+   "value_as_published": "around 288–325 PPFD / DLI",
+   "quote": "Monstera FAQ — large / extra-large plant PPFD",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "soltech.com",
+   "source_url": "https://soltech.com/pages/plant-light-calculator",
+   "appears_on": "https://growspotapp.com/guides/orchid-east-facing-window/",
+   "subject": "What it says a orchid needs",
+   "value_as_published": "40+ PPFD / DLI",
+   "quote": "minimum fixture PPF to support flowering houseplants",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "soltech.com",
+   "source_url": "https://soltech.com/pages/plant-light-calculator",
    "appears_on": "https://growspotapp.com/guides/orchid-south-facing-window/",
    "subject": "What it says a orchid needs",
    "value_as_published": "40+ PPFD / DLI",
    "quote": "minimum fixture PPF to support flowering houseplants",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "soltech.com",
+   "source_url": "https://soltech.com/pages/plant-light-calculator",
+   "appears_on": "https://growspotapp.com/guides/snake-plant-east-facing-window/",
+   "subject": "What it says a snake plant needs",
+   "value_as_published": "approximately 64–98 PPFD / DLI",
+   "quote": "Snake Plant FAQ — target PPFD by size",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "soltech.com",
+   "source_url": "https://soltech.com/pages/plant-light-calculator",
+   "appears_on": "https://growspotapp.com/guides/snake-plant-north-facing-window/",
+   "subject": "What it says a snake plant needs",
+   "value_as_published": "approximately 64–98 PPFD / DLI",
+   "quote": "Snake Plant FAQ — target PPFD by size",
    "read_on": "29 August 2026"
   },
   {
@@ -4414,10 +5323,28 @@
   {
    "publisher": "staugorchidsociety.org",
    "source_url": "https://staugorchidsociety.org/PDF/Light-KeikiClub.pdf",
+   "appears_on": "https://growspotapp.com/guides/orchid-east-facing-window/",
+   "subject": "What it says a orchid needs",
+   "value_as_published": "about 10,000 foot-candles",
+   "quote": "full sun equivalent, stated as too bright for most orchids",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "staugorchidsociety.org",
+   "source_url": "https://staugorchidsociety.org/PDF/Light-KeikiClub.pdf",
    "appears_on": "https://growspotapp.com/guides/orchid-south-facing-window/",
    "subject": "What it says a orchid needs",
    "value_as_published": "about 10,000 foot-candles",
    "quote": "full sun equivalent, stated as too bright for most orchids",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "theplantrunner.com",
+   "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
+   "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-east-facing-window/",
+   "subject": "What it says a fiddle leaf fig needs",
+   "value_as_published": "1,500–5,000 lux",
+   "quote": "Light-hungry aroids & Ficus divas (Fiddle Leaf Fig, variegated Monstera)",
    "read_on": "29 August 2026"
   },
   {
@@ -4433,6 +5360,15 @@
    "publisher": "theplantrunner.com",
    "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
    "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-south-facing-window/",
+   "subject": "What it says a fiddle leaf fig needs",
+   "value_as_published": "1,500–5,000 lux",
+   "quote": "Light-hungry aroids & Ficus divas (Fiddle Leaf Fig, variegated Monstera)",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "theplantrunner.com",
+   "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
+   "appears_on": "https://growspotapp.com/guides/fiddle-leaf-fig-west-facing-window/",
    "subject": "What it says a fiddle leaf fig needs",
    "value_as_published": "1,500–5,000 lux",
    "quote": "Light-hungry aroids & Ficus divas (Fiddle Leaf Fig, variegated Monstera)",
@@ -4567,6 +5503,42 @@
   {
    "publisher": "theplantrunner.com",
    "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
+   "appears_on": "https://growspotapp.com/guides/monstera-west-facing-window/",
+   "subject": "What it says a monstera needs",
+   "value_as_published": "1,500–5,000 lux",
+   "quote": "Light-hungry aroids & Ficus divas (Fiddle Leaf Fig, variegated Monstera)",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "theplantrunner.com",
+   "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
+   "appears_on": "https://growspotapp.com/guides/monstera-west-facing-window/",
+   "subject": "What it says a monstera needs",
+   "value_as_published": "800–2,000+ lux",
+   "quote": "Standard foliage plants (pothos, Philodendron, Monstera deliciosa …) — a general band, not a single-species figure",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "theplantrunner.com",
+   "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
+   "appears_on": "https://growspotapp.com/guides/peace-lily-east-facing-window/",
+   "subject": "What it says a peace lily needs",
+   "value_as_published": "800–2,000+ lux",
+   "quote": "Standard foliage plants (pothos, Philodendron, Monstera deliciosa …) — a general band, not a single-species figure",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "theplantrunner.com",
+   "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
+   "appears_on": "https://growspotapp.com/guides/peace-lily-north-facing-window/",
+   "subject": "What it says a peace lily needs",
+   "value_as_published": "800–2,000+ lux",
+   "quote": "Standard foliage plants (pothos, Philodendron, Monstera deliciosa …) — a general band, not a single-species figure",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "theplantrunner.com",
+   "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
    "appears_on": "https://growspotapp.com/guides/peace-lily-south-facing-window/",
    "subject": "What it says a peace lily needs",
    "value_as_published": "800–2,000+ lux",
@@ -4603,7 +5575,43 @@
   {
    "publisher": "theplantrunner.com",
    "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
+   "appears_on": "https://growspotapp.com/guides/philodendron-west-facing-window/",
+   "subject": "What it says a philodendron needs",
+   "value_as_published": "1,500–5,000 lux",
+   "quote": "Light-hungry aroids & Ficus divas (Fiddle Leaf Fig, variegated Monstera)",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "theplantrunner.com",
+   "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
+   "appears_on": "https://growspotapp.com/guides/philodendron-west-facing-window/",
+   "subject": "What it says a philodendron needs",
+   "value_as_published": "800–2,000+ lux",
+   "quote": "Standard foliage plants (pothos, Philodendron, Monstera deliciosa …) — a general band, not a single-species figure",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "theplantrunner.com",
+   "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
    "appears_on": "https://growspotapp.com/guides/pothos-east-facing-window/",
+   "subject": "What it says a pothos needs",
+   "value_as_published": "800–2,000+ lux",
+   "quote": "Standard foliage plants (pothos, Philodendron, Monstera deliciosa …) — a general band, not a single-species figure",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "theplantrunner.com",
+   "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
+   "appears_on": "https://growspotapp.com/guides/pothos-north-facing-window/",
+   "subject": "What it says a pothos needs",
+   "value_as_published": "800–2,000+ lux",
+   "quote": "Standard foliage plants (pothos, Philodendron, Monstera deliciosa …) — a general band, not a single-species figure",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "theplantrunner.com",
+   "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
+   "appears_on": "https://growspotapp.com/guides/pothos-south-facing-window/",
    "subject": "What it says a pothos needs",
    "value_as_published": "800–2,000+ lux",
    "quote": "Standard foliage plants (pothos, Philodendron, Monstera deliciosa …) — a general band, not a single-species figure",
@@ -4621,10 +5629,46 @@
   {
    "publisher": "theplantrunner.com",
    "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
+   "appears_on": "https://growspotapp.com/guides/rubber-plant-north-facing-window/",
+   "subject": "What it says a rubber plant needs",
+   "value_as_published": "800–2,000+ lux",
+   "quote": "Standard foliage plants (pothos, Philodendron, Monstera deliciosa …) — a general band, not a single-species figure",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "theplantrunner.com",
+   "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
+   "appears_on": "https://growspotapp.com/guides/rubber-plant-south-facing-window/",
+   "subject": "What it says a rubber plant needs",
+   "value_as_published": "800–2,000+ lux",
+   "quote": "Standard foliage plants (pothos, Philodendron, Monstera deliciosa …) — a general band, not a single-species figure",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "theplantrunner.com",
+   "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
    "appears_on": "https://growspotapp.com/guides/rubber-plant-west-facing-window/",
    "subject": "What it says a rubber plant needs",
    "value_as_published": "800–2,000+ lux",
    "quote": "Standard foliage plants (pothos, Philodendron, Monstera deliciosa …) — a general band, not a single-species figure",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "theplantrunner.com",
+   "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
+   "appears_on": "https://growspotapp.com/guides/snake-plant-east-facing-window/",
+   "subject": "What it says a snake plant needs",
+   "value_as_published": "300–800 lux",
+   "quote": "True low-light crew (ZZ, snake plant, cast-iron plant, some ferns)",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "theplantrunner.com",
+   "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
+   "appears_on": "https://growspotapp.com/guides/snake-plant-north-facing-window/",
+   "subject": "What it says a snake plant needs",
+   "value_as_published": "300–800 lux",
+   "quote": "True low-light crew (ZZ, snake plant, cast-iron plant, some ferns)",
    "read_on": "29 August 2026"
   },
   {
@@ -4648,7 +5692,25 @@
   {
    "publisher": "theplantrunner.com",
    "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
+   "appears_on": "https://growspotapp.com/guides/zz-plant-east-facing-window/",
+   "subject": "What it says a ZZ plant needs",
+   "value_as_published": "300–800 lux",
+   "quote": "True low-light crew (ZZ, snake plant, cast-iron plant, some ferns)",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "theplantrunner.com",
+   "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
    "appears_on": "https://growspotapp.com/guides/zz-plant-north-facing-window/",
+   "subject": "What it says a ZZ plant needs",
+   "value_as_published": "300–800 lux",
+   "quote": "True low-light crew (ZZ, snake plant, cast-iron plant, some ferns)",
+   "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "theplantrunner.com",
+   "source_url": "https://theplantrunner.com/blogs/the-plant-runner-blog/light-made-simple-lux-to-leaf-growth",
+   "appears_on": "https://growspotapp.com/guides/zz-plant-west-facing-window/",
    "subject": "What it says a ZZ plant needs",
    "value_as_published": "300–800 lux",
    "quote": "True low-light crew (ZZ, snake plant, cast-iron plant, some ferns)",
