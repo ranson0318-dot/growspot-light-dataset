@@ -9,6 +9,7 @@ This repository is a mirror. The dataset pages on growspotapp.com are the canoni
 | [`indoor-light-measurements.csv`](data/indoor-light-measurements.csv) · [`.json`](data/indoor-light-measurements.json) | 4 rows summarising 159 readings | 2026-10-03 | [growspotapp.com/data/indoor-light-measurements/](https://growspotapp.com/data/indoor-light-measurements/) | [10.5281/zenodo.22023336](https://doi.org/10.5281/zenodo.22023336) |
 | [`species-light-levels.csv`](data/species-light-levels.csv) · [`.json`](data/species-light-levels.json) | one row per species | 2026-10-13 | [growspotapp.com/data/species-light-levels/](https://growspotapp.com/data/species-light-levels/) | [10.5281/zenodo.22023336](https://doi.org/10.5281/zenodo.22023336) |
 | [`published-light-figures.csv`](data/published-light-figures.csv) · [`.json`](data/published-light-figures.json) | 855 rows | last changed 2026-10-14 | [growspotapp.com/data/published-light-figures/](https://growspotapp.com/data/published-light-figures/) | [10.5281/zenodo.22172762](https://doi.org/10.5281/zenodo.22172762) |
+| [`winter-window-light-index.csv`](data/winter-window-light-index.csv) · [`.json`](data/winter-window-light-index.json) | 50 rows | see file header | [growspotapp.com/data/winter-window-light-index/](https://growspotapp.com/data/winter-window-light-index/) | no DOI yet |
 
 Every CSV starts with a comment line that repeats its snapshot date, licence and attribution, so the provenance stays with the file when it is copied on its own.
 
@@ -32,6 +33,12 @@ Every figure and statement about houseplant light we read while writing the guid
 
 Notes on what the file does not cover, and the column glossary, live on the dataset page: https://growspotapp.com/data/published-light-figures/
 
+### Winter Window Light Index
+
+December sunlight, daylight on the shortest day and the drop since September for the 50 most populous U.S. cities, built from public NASA POWER and U.S. Census data with every input in the file.
+
+Notes on what the file does not cover, and the column glossary, live on the dataset page: https://growspotapp.com/data/winter-window-light-index/
+
 ## One caveat before reusing the published-figures file
 
 The compilation is ours to license. The quoted sentences in it are not: each remains the property of the publisher named in its row, so keep the `source_url` column with the file when you redistribute it.
@@ -43,6 +50,7 @@ GrowSpot (2026). Indoor light datasets for houseplants. growspotapp.com/data/
   Indoor light measurements: https://doi.org/10.5281/zenodo.22023336
   Species light levels: https://doi.org/10.5281/zenodo.22023336
   What the published sources say about indoor light: https://doi.org/10.5281/zenodo.22172762
+  Winter Window Light Index: https://growspotapp.com/data/winter-window-light-index/
 ```
 
 A machine-readable version is in [CITATION.cff](CITATION.cff).
@@ -55,4 +63,4 @@ If you would rather have an answer for one spot than a file to analyse, the [fre
 
 ---
 
-Mirror built 2026-10-14 from the live files at https://growspotapp.com/data/. Licence: [CC BY 4.0](LICENSE).
+Mirror built 2026-10-15 from the live files at https://growspotapp.com/data/. Licence: [CC BY 4.0](LICENSE).
