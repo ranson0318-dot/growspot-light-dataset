@@ -1,4 +1,4 @@
-# GrowSpot species light levels — snapshot 2026-10-19 — CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — attribution: GrowSpot — growspotapp.com
+# GrowSpot species light levels — snapshot 2026-10-22 — CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — attribution: GrowSpot — growspotapp.com
 common_name,scientific_name,light_requirement
 Flowering maple,Abutilon hybridum,high
 Trailing abutilon,Abutilon megapotamicum,high
@@ -173,6 +173,7 @@ Alocasia Cuprea,Alocasia cuprea,medium
 Red Secret / Mirror Plant,Alocasia cuprea 'Red Secret',medium
 Dwarf Elephant Ear / California,Alocasia gageana 'Aurea',medium
 Alocasia heterophylla,Alocasia heterophylla,high
+Black Forest Alocasia,Alocasia infernalis,medium
 Purple Sword Alocasia,Alocasia lauterbachiana,medium
 Tiger Taro,Alocasia longiloba,medium
 Green Splash Elephant Ear,Alocasia macrorrhiza 'Green Splash',high
@@ -286,6 +287,7 @@ French Tarragon,Artemisia dracunculus,very_high
 Bamboo Orchid,Arundina graminifolia,high
 Flask-shaped Ascocentrum,Ascocentrum ampullaceum,high
 Sprenger's Asparagus Fern,Asparagus aethiopicus,medium
+Foxtail Fern,Asparagus densiflorus,high
 Foxtail Fern,Asparagus densiflorus 'Myersii',medium
 Asparagus Fern,Asparagus setaceus,medium
 Epidendrum-like Aspasia,Aspasia epidendroides,medium
@@ -317,6 +319,7 @@ Looking Glass Begonia,Begonia 'Looking Glass',medium
 Lucerna Angel Wing Begonia,Begonia 'Lucerna',medium
 My Special Angel Begonia,Begonia 'My Special Angel',medium
 Pegasus Begonia,Begonia 'Pegasus',medium
+Pink Minx Begonia,Begonia 'Pink Minx',medium
 Silver Limbo Begonia,Begonia 'Silver Limbo',medium
 Sophie Cecile Angel Wing Begonia,Begonia 'Sophie Cecile',medium
 Begonia aconitifolia,Begonia aconitifolia,medium
@@ -694,6 +697,7 @@ Fishbone Prayer Plant,Ctenanthe burle-marxii,medium
 Compressed Ctenanthe,Ctenanthe compressa,medium
 Variegated Ctenanthe,Ctenanthe kummeriana,medium
 Bamburanta,Ctenanthe lubbersiana,medium
+Never-Never Plant,Ctenanthe lubbersiana 'Never-Never',medium
 Never Never Plant,Ctenanthe oppenheimiana,medium
 Never Never Plant Tricolor,Ctenanthe oppenheimiana 'Tricolor',medium
 Ctenanthe pilosa,Ctenanthe pilosa,medium
@@ -988,7 +992,7 @@ Hawaiian Pothos,Epipremnum aureum 'Hawaiian',low
 Jade Pothos,Epipremnum aureum 'Jade',low
 Jessenia Pothos,Epipremnum aureum 'Jessenia',low
 Lemon Meringue Pothos,Epipremnum aureum 'Lemon Meringue',low
-Manjula Pothos,Epipremnum aureum 'Manjula',low
+Manjula Pothos,Epipremnum aureum 'Manjula',medium
 Marble Queen Pothos,Epipremnum aureum 'Marble Queen',low
 Pothos N'Joy,Epipremnum aureum 'N'Joy',medium
 Devil's Ivy / Neon Pothos,Epipremnum aureum 'Neon',medium
@@ -1889,6 +1893,7 @@ Ruby Glow Peperomia,Peperomia graveolens,high
 Ivy-Leaf Peperomia,Peperomia griseoargentea,medium
 Felted Peperomia,Peperomia incana,high
 Peperomia Quito,Peperomia maculosa,medium
+Silver Ripple Peperomia,Peperomia marmorata,medium
 Metallic Peperomia,Peperomia metallica,medium
 Columbian Peperomia,Peperomia metallica var. colombiana,medium
 Jade Necklace Peperomia,Peperomia nivalis,high
@@ -1903,6 +1908,7 @@ Trailing Jade Peperomia,Peperomia rotundifolia,medium
 Peperomia rubella,Peperomia rubella,medium
 Cupid peperomia,Peperomia serpens,medium
 Peperomia Hope,Peperomia tetraphylla,medium
+Ivy Peperomia,Peperomia verschaffeltii,medium
 Peperomia Verticillata (Belly Button),Peperomia verticillata,medium
 Barbados gooseberry,Pereskia aculeata,high
 Leaf cactus,Pereskia bleo,high
@@ -1935,6 +1941,7 @@ Schiller's Moth Orchid,Phalaenopsis schilleriana,medium
 Stuart's Moth Orchid,Phalaenopsis stuartiana,medium
 Violet Moth Orchid,Phalaenopsis violacea,medium
 Philodendron Autumn,Philodendron 'Autumn',medium
+Black Forest Philodendron,Philodendron 'Black Forest',high
 Burle Marx Flame Philodendron,Philodendron 'Burle Marx Flame',high
 Congo Green Philodendron,Philodendron 'Congo Green',medium
 Florida Beauty Philodendron,Philodendron 'Florida Beauty',high
@@ -1988,6 +1995,7 @@ Imbe Philodendron,Philodendron imbe,medium
 Philodendron Mamei,Philodendron mamei,medium
 Fat Boy Philodendron,Philodendron martianum,medium
 Mayo's Philodendron,Philodendron mayoi,medium
+Philodendron McDowell,Philodendron McDowell,high
 Philodendron Melanochrysum,Philodendron melanochrysum,medium
 Paraguay Philodendron,Philodendron paraguayense,medium
 Pastazanum Philodendron,Philodendron pastazanum,medium
@@ -2383,6 +2391,7 @@ False African Violet,Streptocarpus saxorum,medium
 Wendland's Cape primrose,Streptocarpus wendlandii,medium
 Persian Shield,Strobilanthes auriculata,high
 Jacquin's Stromanthe,Stromanthe jacquinii,medium
+Tricolor Stromanthe,Stromanthe sanguinea 'Tricolor',medium
 Triostar Stromanthe,Stromanthe sanguinea 'Triostar',medium
 Common Stromanthe,Stromanthe stromanthoides,medium
 Stromanthe thalia,Stromanthe thalia,medium
@@ -2541,6 +2550,7 @@ Valdez's turbinicarpus,Turbinicarpus valdezianus,very_high
 Chilean guava,Ugni molinae,high
 Chinese elm,Ulmus parvifolia,medium
 Siberian Elm,Ulmus pumila,high
+Amazon Lily,Urceolina amazonica,medium
 Amazon Lily,Urceolina grandiflora,medium
 Fairy aprons bladderwort,Utricularia sandersonii,high
 Blueberry (patio),Vaccinium corymbosum,high

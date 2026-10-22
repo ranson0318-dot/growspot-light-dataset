@@ -5,7 +5,7 @@
   "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
   "attribution": "GrowSpot — growspotapp.com",
   "source_page": "https://growspotapp.com/data/species-light-levels/",
-  "snapshot_date": "2026-10-19",
+  "snapshot_date": "2026-10-22",
   "fields": {
    "common_name": "Common trade name (may repeat across cultivars)",
    "scientific_name": "Binomial, with cultivar where relevant. Unique per row.",
@@ -879,6 +879,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Black Forest Alocasia",
+   "scientific_name": "Alocasia infernalis",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Purple Sword Alocasia",
    "scientific_name": "Alocasia lauterbachiana",
    "light_requirement": "medium"
@@ -1445,6 +1450,11 @@
   },
   {
    "common_name": "Foxtail Fern",
+   "scientific_name": "Asparagus densiflorus",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Foxtail Fern",
    "scientific_name": "Asparagus densiflorus 'Myersii'",
    "light_requirement": "medium"
   },
@@ -1596,6 +1606,11 @@
   {
    "common_name": "Pegasus Begonia",
    "scientific_name": "Begonia 'Pegasus'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Pink Minx Begonia",
+   "scientific_name": "Begonia 'Pink Minx'",
    "light_requirement": "medium"
   },
   {
@@ -3484,6 +3499,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Never-Never Plant",
+   "scientific_name": "Ctenanthe lubbersiana 'Never-Never'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Never Never Plant",
    "scientific_name": "Ctenanthe oppenheimiana",
    "light_requirement": "medium"
@@ -4956,7 +4976,7 @@
   {
    "common_name": "Manjula Pothos",
    "scientific_name": "Epipremnum aureum 'Manjula'",
-   "light_requirement": "low"
+   "light_requirement": "medium"
   },
   {
    "common_name": "Marble Queen Pothos",
@@ -9459,6 +9479,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Silver Ripple Peperomia",
+   "scientific_name": "Peperomia marmorata",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Metallic Peperomia",
    "scientific_name": "Peperomia metallica",
    "light_requirement": "medium"
@@ -9526,6 +9551,11 @@
   {
    "common_name": "Peperomia Hope",
    "scientific_name": "Peperomia tetraphylla",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Ivy Peperomia",
+   "scientific_name": "Peperomia verschaffeltii",
    "light_requirement": "medium"
   },
   {
@@ -9687,6 +9717,11 @@
    "common_name": "Philodendron Autumn",
    "scientific_name": "Philodendron 'Autumn'",
    "light_requirement": "medium"
+  },
+  {
+   "common_name": "Black Forest Philodendron",
+   "scientific_name": "Philodendron 'Black Forest'",
+   "light_requirement": "high"
   },
   {
    "common_name": "Burle Marx Flame Philodendron",
@@ -9952,6 +9987,11 @@
    "common_name": "Mayo's Philodendron",
    "scientific_name": "Philodendron mayoi",
    "light_requirement": "medium"
+  },
+  {
+   "common_name": "Philodendron McDowell",
+   "scientific_name": "Philodendron McDowell",
+   "light_requirement": "high"
   },
   {
    "common_name": "Philodendron Melanochrysum",
@@ -11929,6 +11969,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Tricolor Stromanthe",
+   "scientific_name": "Stromanthe sanguinea 'Tricolor'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Triostar Stromanthe",
    "scientific_name": "Stromanthe sanguinea 'Triostar'",
    "light_requirement": "medium"
@@ -12717,6 +12762,11 @@
    "common_name": "Siberian Elm",
    "scientific_name": "Ulmus pumila",
    "light_requirement": "high"
+  },
+  {
+   "common_name": "Amazon Lily",
+   "scientific_name": "Urceolina amazonica",
+   "light_requirement": "medium"
   },
   {
    "common_name": "Amazon Lily",
