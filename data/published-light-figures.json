@@ -1,12 +1,12 @@
 {
  "_meta": {
   "dataset": "What the published sources actually say about indoor light",
-  "description": "931 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 93 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
+  "description": "940 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 93 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
   "license_compilation": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — applies to this compilation: which sources were read, how the rows are structured, and the links.",
   "license_quotes": "Each quoted sentence remains the property of the publisher named in its row. Quotes are short excerpts reproduced for identification, each with a link to the original page.",
   "attribution": "GrowSpot — growspotapp.com",
   "source_page": "https://growspotapp.com/data/published-light-figures/",
-  "rows": 931,
+  "rows": 940,
   "publishers": 93,
   "fields": {
    "publisher": "Hostname of the publisher, www stripped",
@@ -1598,6 +1598,15 @@
    "publisher": "extension.arizona.edu",
    "source_url": "https://www.extension.arizona.edu/sites/default/files/2024-10/HolidayCacti.pdf",
    "appears_on": "https://growspotapp.com/guides/christmas-cactus-east-facing-window/",
+   "subject": "What it says a Christmas cactus needs",
+   "value_as_published": "at least 15 hours long",
+   "quote": "How long the nights must be for Thanksgiving and Christmas cacti to bloom; University of Arizona Cooperative Extension, Yavapai County, July 2024",
+   "read_on": "22 October 2026"
+  },
+  {
+   "publisher": "extension.arizona.edu",
+   "source_url": "https://www.extension.arizona.edu/sites/default/files/2024-10/HolidayCacti.pdf",
+   "appears_on": "https://growspotapp.com/guides/christmas-cactus-north-facing-window/",
    "subject": "What it says a Christmas cactus needs",
    "value_as_published": "at least 15 hours long",
    "quote": "How long the nights must be for Thanksgiving and Christmas cacti to bloom; University of Arizona Cooperative Extension, Yavapai County, July 2024",
@@ -3308,6 +3317,24 @@
    "publisher": "gardeningsolutions.ifas.ufl.edu",
    "source_url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/christmas-cactus/",
    "appears_on": "https://growspotapp.com/guides/christmas-cactus-east-facing-window/",
+   "subject": "What it says a Christmas cactus needs",
+   "value_as_published": "within six feet",
+   "quote": "How close to place it to a south-, east- or west-facing window",
+   "read_on": "22 October 2026"
+  },
+  {
+   "publisher": "gardeningsolutions.ifas.ufl.edu",
+   "source_url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/christmas-cactus/",
+   "appears_on": "https://growspotapp.com/guides/christmas-cactus-north-facing-window/",
+   "subject": "What it says a Christmas cactus needs",
+   "value_as_published": "at least twelve hours of darkness",
+   "quote": "What it typically needs in order to flower",
+   "read_on": "22 October 2026"
+  },
+  {
+   "publisher": "gardeningsolutions.ifas.ufl.edu",
+   "source_url": "https://gardeningsolutions.ifas.ufl.edu/plants/houseplants/christmas-cactus/",
+   "appears_on": "https://growspotapp.com/guides/christmas-cactus-north-facing-window/",
    "subject": "What it says a Christmas cactus needs",
    "value_as_published": "within six feet",
    "quote": "How close to place it to a south-, east- or west-facing window",
@@ -6331,6 +6358,24 @@
   {
    "publisher": "libanswers.nybg.org",
    "source_url": "https://libanswers.nybg.org/faq/222526",
+   "appears_on": "https://growspotapp.com/guides/christmas-cactus-north-facing-window/",
+   "subject": "What it says a Christmas cactus needs",
+   "value_as_published": "13 hours of uninterrupted darkness",
+   "quote": "What produces buds when the temperature is between 55° and 70°F",
+   "read_on": "22 October 2026"
+  },
+  {
+   "publisher": "libanswers.nybg.org",
+   "source_url": "https://libanswers.nybg.org/faq/222526",
+   "appears_on": "https://growspotapp.com/guides/christmas-cactus-north-facing-window/",
+   "subject": "What it says a Christmas cactus needs",
+   "value_as_published": "at least two hours of winter sun",
+   "quote": "NYBG's light preference for Schlumbergera bridgesii, together with very bright light conditions",
+   "read_on": "22 October 2026"
+  },
+  {
+   "publisher": "libanswers.nybg.org",
+   "source_url": "https://libanswers.nybg.org/faq/222526",
    "appears_on": "https://growspotapp.com/guides/christmas-cactus-west-facing-window/",
    "subject": "What it says a Christmas cactus needs",
    "value_as_published": "13 hours of uninterrupted darkness",
@@ -6458,6 +6503,24 @@
    "publisher": "livelyroot.com",
    "source_url": "https://www.livelyroot.com/blogs/plant-care/christmas-cactus-light-requirements",
    "appears_on": "https://growspotapp.com/guides/christmas-cactus-east-facing-window/",
+   "subject": "What it says a Christmas cactus needs",
+   "value_as_published": "4-6 hours of morning sunlight",
+   "quote": "Daily morning sun, given so the plant avoids prolonged exposure to harsh light",
+   "read_on": "22 October 2026"
+  },
+  {
+   "publisher": "livelyroot.com",
+   "source_url": "https://www.livelyroot.com/blogs/plant-care/christmas-cactus-light-requirements",
+   "appears_on": "https://growspotapp.com/guides/christmas-cactus-north-facing-window/",
+   "subject": "What it says a Christmas cactus needs",
+   "value_as_published": "13+ hours of darkness daily",
+   "quote": "With cooler temperatures, to encourage flowering",
+   "read_on": "22 October 2026"
+  },
+  {
+   "publisher": "livelyroot.com",
+   "source_url": "https://www.livelyroot.com/blogs/plant-care/christmas-cactus-light-requirements",
+   "appears_on": "https://growspotapp.com/guides/christmas-cactus-north-facing-window/",
    "subject": "What it says a Christmas cactus needs",
    "value_as_published": "4-6 hours of morning sunlight",
    "quote": "Daily morning sun, given so the plant avoids prolonged exposure to harsh light",
@@ -7088,6 +7151,24 @@
    "publisher": "site.extension.uga.edu",
    "source_url": "https://site.extension.uga.edu/paulding/2022/12/christmas-or-thanksgiving-cactus/",
    "appears_on": "https://growspotapp.com/guides/christmas-cactus-east-facing-window/",
+   "subject": "What it says a Christmas cactus needs",
+   "value_as_published": "Fourteen hours or more of continuous darkness each day",
+   "quote": "Required before flower bud set, in the same article",
+   "read_on": "22 October 2026"
+  },
+  {
+   "publisher": "site.extension.uga.edu",
+   "source_url": "https://site.extension.uga.edu/paulding/2022/12/christmas-or-thanksgiving-cactus/",
+   "appears_on": "https://growspotapp.com/guides/christmas-cactus-north-facing-window/",
+   "subject": "What it says a Christmas cactus needs",
+   "value_as_published": "around 13 to 16 hours each night",
+   "quote": "Total darkness for the best flowering; UGA Extension county article, December 2022",
+   "read_on": "22 October 2026"
+  },
+  {
+   "publisher": "site.extension.uga.edu",
+   "source_url": "https://site.extension.uga.edu/paulding/2022/12/christmas-or-thanksgiving-cactus/",
+   "appears_on": "https://growspotapp.com/guides/christmas-cactus-north-facing-window/",
    "subject": "What it says a Christmas cactus needs",
    "value_as_published": "Fourteen hours or more of continuous darkness each day",
    "quote": "Required before flower bud set, in the same article",
