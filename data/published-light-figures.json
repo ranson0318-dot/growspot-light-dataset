@@ -1,13 +1,13 @@
 {
  "_meta": {
   "dataset": "What the published sources actually say about indoor light",
-  "description": "949 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 93 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
+  "description": "955 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 94 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
   "license_compilation": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — applies to this compilation: which sources were read, how the rows are structured, and the links.",
   "license_quotes": "Each quoted sentence remains the property of the publisher named in its row. Quotes are short excerpts reproduced for identification, each with a link to the original page.",
   "attribution": "GrowSpot — growspotapp.com",
   "source_page": "https://growspotapp.com/data/published-light-figures/",
-  "rows": 949,
-  "publishers": 93,
+  "rows": 955,
+  "publishers": 94,
   "fields": {
    "publisher": "Hostname of the publisher, www stripped",
    "source_url": "The exact page the sentence was read on",
@@ -2934,6 +2934,33 @@
    "value_as_published": "Trays: a little",
    "quote": "A pebble tray \"can provide a small benefit for humidity\", with the effect \"maximized when used with multiple plants and in rooms with low air circulation\".",
    "read_on": "30 August 2026"
+  },
+  {
+   "publisher": "extension.usu.edu",
+   "source_url": "https://extension.usu.edu/archive/could-you-should-you-keep-your-poinsettia-year-round",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-poinsettia/",
+   "subject": "What it says a poinsettia needs",
+   "value_as_published": "65 to 70 F during the day",
+   "quote": "The daytime half of the same sentence",
+   "read_on": "8 November 2026"
+  },
+  {
+   "publisher": "extension.usu.edu",
+   "source_url": "https://extension.usu.edu/archive/could-you-should-you-keep-your-poinsettia-year-round",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-poinsettia/",
+   "subject": "What it says a poinsettia needs",
+   "value_as_published": "below 50 F",
+   "quote": "Temperatures it should not be exposed to",
+   "read_on": "8 November 2026"
+  },
+  {
+   "publisher": "extension.usu.edu",
+   "source_url": "https://extension.usu.edu/archive/could-you-should-you-keep-your-poinsettia-year-round",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-poinsettia/",
+   "subject": "What it says a poinsettia needs",
+   "value_as_published": "between 55 and 65 F at night",
+   "quote": "The room temperature it does best in after dark",
+   "read_on": "8 November 2026"
   },
   {
    "publisher": "extension.wvu.edu",
@@ -6438,6 +6465,24 @@
   },
   {
    "publisher": "libguides.nybg.org",
+   "source_url": "https://libguides.nybg.org/poinsettia",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-poinsettia/",
+   "subject": "What it says a poinsettia needs",
+   "value_as_published": "55 ° to 65°F night temperatures",
+   "quote": "Where NYBG says it does best at night",
+   "read_on": "8 November 2026"
+  },
+  {
+   "publisher": "libguides.nybg.org",
+   "source_url": "https://libguides.nybg.org/poinsettia",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-poinsettia/",
+   "subject": "What it says a poinsettia needs",
+   "value_as_published": "65 ° to 70°F day temperatures",
+   "quote": "And by day",
+   "read_on": "8 November 2026"
+  },
+  {
+   "publisher": "libguides.nybg.org",
    "source_url": "https://libguides.nybg.org/prayerplant",
    "appears_on": "https://growspotapp.com/guides/prayer-plant-east-facing-window/",
    "subject": "What it says",
@@ -7128,6 +7173,15 @@
    "value_as_published": "Still air is the thing to avoid",
    "quote": "\"Avoid sheltered places, such as against walls or fences, where the air is likely to be still\"",
    "read_on": "30 August 2026"
+  },
+  {
+   "publisher": "rhs.org.uk",
+   "source_url": "https://www.rhs.org.uk/plants/euphorbia/poinsettia/growing-guide",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-poinsettia/",
+   "subject": "What it says a poinsettia needs",
+   "value_as_published": "13-16°C (55-60°F)",
+   "quote": "Its minimum temperature; cooler than that, the RHS says, and the plant drops leaves and bracts",
+   "read_on": "8 November 2026"
   },
   {
    "publisher": "rhs.org.uk",

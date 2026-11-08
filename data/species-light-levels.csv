@@ -1,18 +1,30 @@
-# GrowSpot species light levels — snapshot 2026-10-22 — CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — attribution: GrowSpot — growspotapp.com
+# GrowSpot species light levels — snapshot 2026-11-08 — CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — attribution: GrowSpot — growspotapp.com
 common_name,scientific_name,light_requirement
+Canary Bird Flowering Maple,Abutilon 'Canary Bird',high
 Flowering maple,Abutilon hybridum,high
 Trailing abutilon,Abutilon megapotamicum,high
+Dwarf Chenille Plant,Acalypha herzogiana,high
 Chenille plant,Acalypha hispida,high
 Copperleaf,Acalypha wilkesiana,high
 Fairy Castle Cactus,Acanthocereus tetragonus 'Fairy Castle',very_high
 Pinecone Bromeliad,Acanthostachys strobilacea,high
 Japanese maple,Acer palmatum,high
+Purple Japanese Maple,Acer palmatum 'Atropurpureum',high
 Bloodgood Japanese Maple,Acer palmatum 'Bloodgood',high
 Crimson Queen Laceleaf Maple,Acer palmatum 'Crimson Queen',high
+Deshojo Japanese Maple,Acer palmatum 'Deshojo',high
+Katsura Japanese Maple,Acer palmatum 'Katsura',high
+Mikawa Yatsubusa Japanese Maple,Acer palmatum 'Mikawa Yatsubusa',high
+Coral Bark Japanese Maple,Acer palmatum 'Sango-kaku',high
+Sharp's Pygmy Japanese Maple,Acer palmatum 'Sharp's Pygmy',high
+Lion's Head Japanese Maple,Acer palmatum 'Shishigashira',high
 Achimenes longiflora,Achimenes longiflora,medium
 Superb Acineta,Acineta superba,medium
 Japanese sweet flag,Acorus gramineus,medium
+Golden Variegated Sweet Flag,Acorus gramineus 'Ogon',medium
+Eyelash Fern,Actiniopteris australis,medium
 Orange Ada,Ada aurantiaca,medium
+Spiny Elephant's Foot,Adenia spinosa,very_high
 Arabian Desert Rose,Adenium arabicum,very_high
 Namibian Desert Rose,Adenium boehmianum,very_high
 Impala Lily,Adenium multiflorum,very_high
@@ -20,20 +32,26 @@ Desert Rose,Adenium obesum,very_high
 Swazi Desert Rose,Adenium swazicum,very_high
 Western Maidenhair Fern,Adiantum aleuticum,low
 Southern Maidenhair Fern,Adiantum capillus-veneris,medium
+Trailing Maidenhair Fern,Adiantum caudatum,medium
 Rosy Maidenhair Fern,Adiantum hispidulum,low
+Largeleaf Maidenhair Fern,Adiantum macrophyllum,medium
 Northern Maidenhair Fern,Adiantum pedatum,medium
+Silver Dollar Maidenhair Fern,Adiantum peruvianum,medium
 Delta Maidenhair Fern,Adiantum raddianum,medium
 Brittle Maidenhair Fern,Adiantum tenerum,low
 Christmas Palm,Adonidia merrillii,high
+Plover Eggs Plant,Adromischus cooperi,very_high
 Crinkle Leaf Plant,Adromischus cristatus,high
 Calico Hearts,Adromischus maculatus,high
 Blue Rain Bromeliad,Aechmea 'Blue Rain',medium
+Blue Tango Bromeliad,Aechmea 'Blue Tango',high
 Orange Bromeliad,Aechmea blanchetiana,high
 Wax Torch,Aechmea bromeliifolia,medium
 Tailed Aechmea,Aechmea caudata,high
 Amazonian Zebra Plant,Aechmea chantinii,high
 Brazilian Vase Plant,Aechmea distichantha,high
 Urn Plant,Aechmea fasciata,high
+Primera Urn Plant,Aechmea fasciata 'Primera',high
 Fendler's Aechmea,Aechmea fendleri,high
 Matchstick Bromeliad,Aechmea gamosepala,high
 Mexican Aechmea,Aechmea mexicana,high
@@ -41,7 +59,9 @@ Bare-stemmed Aechmea,Aechmea nudicaulis,high
 Recurved Aechmea,Aechmea recurvata,high
 Weilbach's Aechmea,Aechmea weilbachii,medium
 Kiwi Aeonium (Dream Color),Aeonium 'Kiwi',high
+Lily Pad Aeonium,Aeonium 'Lily Pad',high
 Mardi Gras Aeonium,Aeonium 'Mardi Gras',high
+Pink Witch Aeonium,Aeonium 'Pink Witch',high
 Sunburst / Copper Pinwheel,Aeonium 'Sunburst',high
 Greenovia mountain rose,Aeonium aizoon,high
 Tree Aeonium,Aeonium arboreum,high
@@ -65,17 +85,26 @@ Dinner plate aeonium,Aeonium tabuliforme,high
 Saucer Plant / Dinner Plate Aeonium,Aeonium undulatum,very_high
 Comet Orchid,Aerangis luteoalba,medium
 Fragrant Aerides,Aerides odorata,high
+Mona Lisa Lipstick Plant,Aeschynanthus 'Mona Lisa',high
+Purple Star Lipstick Plant,Aeschynanthus 'Purple Star',high
+Rasta Lipstick Plant,Aeschynanthus 'Rasta',high
+Tangerine Lipstick Plant,Aeschynanthus 'Tangerine',high
+Thai Pink Lipstick Plant,Aeschynanthus 'Thai Pink',high
+Orange Lipstick Plant,Aeschynanthus × splendidus,high
 Black Pagoda Lipstick Plant,Aeschynanthus longicaulis,medium
 Royal red bugler,Aeschynanthus pulcher,medium
 Lipstick plant,Aeschynanthus radicans,high
 Twister Lipstick Plant,Aeschynanthus radicans 'Twister',high
+Variegated Lipstick Plant,Aeschynanthus radicans 'Variegata',high
 African Lily,Agapanthus africanus,high
 Lily of the Nile,Agapanthus praecox,high
 Blue Glow Agave,Agave 'Blue Glow',high
 Century plant,Agave americana,very_high
 Variegated Century Plant,Agave americana 'Marginata',very_high
+White-striped Century Plant,Agave americana 'Mediopicta Alba',very_high
 Caribbean agave,Agave angustifolia,very_high
 Applanata Agave,Agave applanata,very_high
+Cream Spike Agave,Agave applanata 'Cream Spike',very_high
 Foxtail Agave,Agave attenuata,high
 Squid Agave,Agave bracteosa,very_high
 Mescal Ceniza,Agave colorata,very_high
@@ -84,6 +113,7 @@ Variegated Smooth Agave,Agave desmettiana 'Variegata',very_high
 Thread-leaf agave,Agave filifera,very_high
 Spider agave,Agave geminiflora,very_high
 Creme Brulee Agave,Agave guiengola,very_high
+Dwarf Butterfly Agave,Agave isthmensis,very_high
 Thorncrest Agave,Agave lophantha,very_high
 Black-Spined Agave,Agave macroacantha,very_high
 Mountain Agave,Agave montana,very_high
@@ -102,27 +132,41 @@ Floss Flower,Ageratum houstonianum,very_high
 Chinese Perfume Plant,Aglaia odorata,medium
 Crown Fern,Aglaomorpha coronans,medium
 Bear's Paw Fern,Aglaomorpha meyeniana,medium
+Cecilia Chinese Evergreen,Aglaonema 'Cecilia',low
 Creta Chinese Evergreen,Aglaonema 'Creta',low
 Cutlass Chinese Evergreen,Aglaonema 'Cutlass',low
+Diamond Bay Chinese Evergreen,Aglaonema 'Diamond Bay',low
 Emerald Beauty Aglaonema,Aglaonema 'Emerald Beauty',low
+Favonian Chinese Evergreen,Aglaonema 'Favonian',low
 First Diamond Chinese Evergreen,Aglaonema 'First Diamond',low
+Golden Bay Chinese Evergreen,Aglaonema 'Golden Bay',low
+Jubilee Compacta Chinese Evergreen,Aglaonema 'Jubilee Compacta',low
 King of Siam Chinese Evergreen,Aglaonema 'King of Siam',medium
 Lady Valentine Aglaonema,Aglaonema 'Lady Valentine',low
 Maria Aglaonema,Aglaonema 'Maria',low
+Mary Ann Chinese Evergreen,Aglaonema 'Mary Ann',low
+Moonlight Bay Chinese Evergreen,Aglaonema 'Moonlight Bay',low
 Pink Dalmatian Aglaonema,Aglaonema 'Pink Dalmatian',low
 Pink Chinese Evergreen,Aglaonema 'Pink Princess',medium
 Pink Symphony Chinese Evergreen,Aglaonema 'Pink Symphony',medium
 Prestige Chinese Evergreen,Aglaonema 'Prestige',low
+Queen Juliana Chinese Evergreen,Aglaonema 'Queen Juliana',low
 Red Anjamani Chinese Evergreen,Aglaonema 'Red Anjamani',medium
 Red Siam Aglaonema,Aglaonema 'Red Siam',low
 Red Valentine Chinese Evergreen,Aglaonema 'Red Valentine',medium
+Romeo Chinese Evergreen,Aglaonema 'Romeo',low
 Siam Aurora Aglaonema,Aglaonema 'Siam Aurora',low
 Silver Bay Aglaonema,Aglaonema 'Silver Bay',low
+Silver Frost Chinese Evergreen,Aglaonema 'Silver Frost',low
 Silver Queen Aglaonema,Aglaonema 'Silver Queen',low
+Silverado Chinese Evergreen,Aglaonema 'Silverado',low
 Sparkling Sarah Chinese Evergreen,Aglaonema 'Sparkling Sarah',low
 Spring Snow Chinese Evergreen,Aglaonema 'Spring Snow',low
 Chinese Evergreen 'Stripes',Aglaonema 'Stripes',medium
+Super White Chinese Evergreen,Aglaonema 'Super White',low
 Chinese Evergreen Very Red,Aglaonema 'Very Red',medium
+White Rain Chinese Evergreen,Aglaonema 'White Rain',low
+Wishes Chinese Evergreen,Aglaonema 'Wishes',low
 Short-Spathe Aglaonema,Aglaonema brevispathum,low
 Chinese evergreen,Aglaonema commutatum,low
 Spotted Evergreen,Aglaonema costatum,low
@@ -134,67 +178,90 @@ Tricolor Aglaonema,Aglaonema pictum 'Tricolor',low
 Aglaonema Rotundum,Aglaonema rotundum,medium
 Malayan Sword,Aglaonema simplex,low
 Bugleweed,Ajuga reptans,medium
+Corkscrew Albuca,Albuca spiralis,very_high
+Frizzle Sizzle Corkscrew Albuca,Albuca spiralis 'Frizzle Sizzle',very_high
 Imperial bromeliad,Alcantarea imperialis,high
+Tahoma Glacier Orchid,Aliceara 'Tahoma Glacier',medium
 Purple allamanda,Allamanda blanchetii,high
 Golden trumpet (Allamanda),Allamanda cathartica,high
 Bush allamanda,Allamanda schottii,high
+White Lisbon Spring Onion,Allium cepa 'White Lisbon',high
 Welsh Onion / Scallion,Allium fistulosum,high
 Chives,Allium schoenoprasum,high
 Garlic Chives,Allium tuberosum,high
 Antoro Velvet Alocasia,Alocasia 'Antoro Velvet',medium
 Bambino Alocasia,Alocasia 'Bambino',medium
+Alocasia Bisma,Alocasia 'Bisma',high
 Black Zebrina Alocasia,Alocasia 'Black Zebrina',high
 Calidora Elephant Ear,Alocasia 'Calidora',medium
 Corazon Alocasia,Alocasia 'Corazon',medium
 Dark Star Elephant Ear,Alocasia 'Dark Star',high
 Variegated Velvet Alocasia,Alocasia 'Frydek Variegated',high
 Green Velvet Alocasia (micholitziana 'Frydek'),Alocasia 'Frydek',medium
+Golden Bone Alocasia,Alocasia 'Golden Bone',medium
 Jacklyn Alocasia,Alocasia 'Jacklyn',medium
 Low Rider Elephant Ear,Alocasia 'Low Rider',medium
 Maharani Alocasia,Alocasia 'Maharani',medium
+Mayan Mask Alocasia,Alocasia 'Mayan Mask',medium
 Morocco Alocasia,Alocasia 'Morocco',high
 Pink Dragon Alocasia,Alocasia 'Pink Dragon',medium
 Pink Princess Alocasia,Alocasia 'Pink Princess',high
-Portora Upright Elephant Ear,Alocasia 'Portora',medium
+Portora Upright Elephant Ear (Portodora),Alocasia 'Portora',medium
 Regal Shields Alocasia,Alocasia 'Regal Shields',medium
 Sarian Elephant Ear,Alocasia 'Sarian',high
 Variegated Stingray Alocasia,Alocasia 'Stingray Variegata',high
 Stingray Alocasia,Alocasia 'Stingray',medium
 Tiny Dancer Alocasia,Alocasia 'Tiny Dancer',medium
 Venom Alocasia,Alocasia 'Venom',medium
+Yucatan Princess Alocasia,Alocasia 'Yucatan Princess',high
 Alocasia Polly (African Mask),Alocasia × amazonica 'Polly',medium
 African Mask Plant,Alocasia amazonica,medium
 Alocasia Dragon Scale,Alocasia baginda,medium
 Dragon Scale Mint Alocasia,Alocasia baginda 'Dragon Scale Mint',high
 Dragon Scale Alocasia,Alocasia baginda 'Dragon Scale',medium
 Silver Dragon Alocasia,Alocasia baginda 'Silver Dragon',medium
+Green Shield Alocasia,Alocasia clypeolata,high
 Chinese Taro,Alocasia cucullata,high
 Alocasia Cuprea,Alocasia cuprea,medium
 Red Secret / Mirror Plant,Alocasia cuprea 'Red Secret',medium
 Dwarf Elephant Ear / California,Alocasia gageana 'Aurea',medium
 Alocasia heterophylla,Alocasia heterophylla,high
-Black Forest Alocasia,Alocasia infernalis,medium
+Infernalis Alocasia (Black Magic),Alocasia infernalis,medium
 Purple Sword Alocasia,Alocasia lauterbachiana,medium
 Tiger Taro,Alocasia longiloba,medium
-Green Splash Elephant Ear,Alocasia macrorrhiza 'Green Splash',high
-Variegated Giant Taro,Alocasia macrorrhiza 'Variegata',high
 Elephant Ear Alocasia,Alocasia macrorrhizos,high
+Golden Stem Alocasia,Alocasia macrorrhizos 'Lutea',high
+Splash Elephant Ear,Alocasia macrorrhizos 'Splash',high
+Variegated Giant Taro,Alocasia macrorrhizos 'Variegata',high
 Rugged Jewel Alocasia,Alocasia melo,medium
 Alocasia Frydek,Alocasia micholitziana,medium
 Alocasia Nebula,Alocasia nebula,medium
 Giant Taro,Alocasia odora,medium
+Okinawa Silver Alocasia,Alocasia odora 'Okinawa Silver',medium
 Black Elephant Ear,Alocasia plumbea 'Nigrescens',high
 Malaysian Monster,Alocasia portei,medium
+Miri Alocasia,Alocasia reginae,medium
 Black Velvet Alocasia,Alocasia reginula,medium
+Ninja Jewel Alocasia,Alocasia reginula 'Ninja',medium
 Pink Variegated Black Velvet Alocasia,Alocasia reginula 'Pink Splash',high
 Kris Plant,Alocasia sanderiana,medium
+Samar Lance,Alocasia scalprum,high
+Quilted Dreams Alocasia,Alocasia sinuata,medium
 Alocasia Wentii,Alocasia wentii,medium
 Zebrina Alocasia,Alocasia zebrina,high
 Black Gem Aloe,Aloe 'Black Gem',very_high
+Blizzard Aloe,Aloe 'Blizzard',medium
 Blue Elf Aloe,Aloe 'Blue Elf',high
 Christmas Carol Aloe,Aloe 'Christmas Carol',medium
+Crosby's Prolific Aloe,Aloe 'Crosby's Prolific',high
 Delta Lights Aloe,Aloe 'Delta Lights',medium
+Doran Black Aloe,Aloe 'Doran Black',medium
+Firebird Aloe,Aloe 'Firebird',medium
+Firecracker Aloe,Aloe 'Firecracker',medium
+Oik Aloe,Aloe 'Oik',medium
 Pink Blush Aloe,Aloe 'Pink Blush',medium
+Snow Drift Aloe,Aloe 'Snow Drift',medium
+White Fox Aloe,Aloe 'White Fox',medium
 Red Hot Poker Aloe,Aloe aculeata,very_high
 Krantz Aloe,Aloe arborescens,very_high
 Short-leaved Aloe,Aloe brevifolia,very_high
@@ -208,6 +275,7 @@ Tiger Tooth Aloe,Aloe juvenna,high
 Soap Aloe,Aloe maculata,high
 Mountain Aloe,Aloe marlothii,very_high
 Gold Tooth Aloe,Aloe nobilis,high
+Mitre Aloe,Aloe perfoliata,very_high
 Fan Aloe,Aloe plicatilis,high
 Spiral Aloe,Aloe polyphylla,high
 Meadow Aloe,Aloe pratensis,high
@@ -217,9 +285,11 @@ Book Aloe,Aloe suprafoliata,very_high
 Aloe vera,Aloe vera,very_high
 Climbing Aloe,Aloiampelos ciliaris,high
 Lemon Verbena,Aloysia citrodora,high
+Red Ginger,Alpinia purpurata,high
 Shell Ginger,Alpinia zerumbet,high
+Variegated Shell Ginger,Alpinia zerumbet 'Variegata',high
 Peruvian Lily,Alstroemeria,high
-Peruvian Lily,Alstroemeria aurea,high
+Yellow Alstroemeria,Alstroemeria aurea,high
 St. Martin's flower,Alstroemeria ligtu,high
 Calico plant,Alternanthera bettzickiana,high
 Purple Knight Alternanthera,Alternanthera brasiliana 'Purple Knight',high
@@ -228,10 +298,14 @@ Belladonna Lily,Amaryllis belladonna,high
 Anacampseros lanigera,Anacampseros lanigera,very_high
 Love plant,Anacampseros rufescens,very_high
 Sand rose,Anacampseros telephiastrum,very_high
+Sunrise Anacampseros,Anacampseros telephiastrum 'Sunrise',very_high
 Red Pineapple,Ananas bracteatus,high
 Pineapple,Ananas comosus,high
+Champaca Ornamental Pineapple,Ananas comosus 'Champaca',high
 Variegated Pineapple,Ananas comosus 'Variegatus',high
+Mister Fokker Poppy Anemone,Anemone coronaria 'Mister Fokker',high
 Dill,Anethum graveolens,very_high
+Fernleaf Dill,Anethum graveolens 'Fernleaf',very_high
 Angelonia (summer snapdragon),Angelonia angustifolia,very_high
 Darwin's Orchid,Angraecum sesquipedale,high
 Tulip Orchid,Anguloa uniflora,medium
@@ -241,14 +315,24 @@ Velvet jewel orchid (Black jewel),Anoectochilus roxburghii,low
 Leopard Orchid,Ansellia africana,high
 Chervil,Anthriscus cerefolium,medium
 Ace of Spades Anthurium,Anthurium 'Ace of Spades',medium
+Big Bill Anthurium,Anthurium 'Big Bill',medium
 Lady Jane Anthurium (Laceleaf),Anthurium 'Lady Jane',medium
+Princess Amalia Elegance Anthurium,Anthurium 'Princess Amalia Elegance',medium
+Silver Blush Anthurium,Anthurium 'Silver Blush',medium
 Flamingo flower,Anthurium andraeanum,medium
+Alabama Anthurium,Anthurium andraeanum 'Alabama',medium
 Black Love Anthurium,Anthurium andraeanum 'Black Love',medium
+Joli Anthurium,Anthurium andraeanum 'Joli',medium
+Lilli Anthurium,Anthurium andraeanum 'Lilli',medium
 Livium Anthurium (Flamingo Flower),Anthurium andraeanum 'Livium',medium
+Maine Anthurium,Anthurium andraeanum 'Maine',medium
 Obake Anthurium,Anthurium andraeanum 'Obake',medium
 Pink Champion Anthurium (Flamingo Flower),Anthurium andraeanum 'Pink Champion',medium
+Rainbow Champion Anthurium,Anthurium andraeanum 'Rainbow Champion',medium
+Sierra White Anthurium,Anthurium andraeanum 'Sierra White',medium
 White Champion Anthurium,Anthurium andraeanum 'White Champion',medium
 Zizou Anthurium,Anthurium andraeanum 'Zizou',medium
+Baker's Anthurium,Anthurium bakeri,medium
 Anthurium Clarinervium,Anthurium clarinervium,medium
 Anthurium Crystallinum,Anthurium crystallinum,medium
 Forget's Anthurium,Anthurium forgetii,medium
@@ -257,8 +341,11 @@ Birds Nest Anthurium,Anthurium hookeri,medium
 Anthurium Magnificum,Anthurium magnificum,medium
 Anthurium Pedatoradiatum (Fingers),Anthurium pedatoradiatum,medium
 Hanging anthurium,Anthurium pendens,medium
+Plowmanii Anthurium,Anthurium plowmanii,medium
+Fruffles Anthurium,Anthurium plowmanii 'Fruffles',medium
 Radicans Anthurium,Anthurium radicans,medium
 Anthurium Radicans x Crystallinum,Anthurium radicans × crystallinum,medium
+Radicans x Luxurians Anthurium,Anthurium radicans × luxurians,medium
 Regal Anthurium,Anthurium regale,medium
 Pigtail Anthurium,Anthurium scherzerianum,medium
 Bird's Nest Anthurium,Anthurium superbum,medium
@@ -272,6 +359,7 @@ East Indian Holly Fern,Arachniodes simplicior,low
 Norfolk Island Pine,Araucaria heterophylla,medium
 Strawberry tree,Arbutus unedo,high
 Ardisia coral berry,Ardisia crenata,medium
+Queen Star Coral Berry,Ardisia crenata 'Queen Star',medium
 Ardisia crispa,Ardisia crispa,medium
 Spreading ardisia (dwarf),Ardisia humilis,medium
 Marguerite daisy,Argyranthemum frutescens,high
@@ -287,16 +375,25 @@ French Tarragon,Artemisia dracunculus,very_high
 Bamboo Orchid,Arundina graminifolia,high
 Flask-shaped Ascocentrum,Ascocentrum ampullaceum,high
 Sprenger's Asparagus Fern,Asparagus aethiopicus,medium
-Foxtail Fern,Asparagus densiflorus,high
 Foxtail Fern,Asparagus densiflorus 'Myersii',medium
+Sicklethorn Asparagus,Asparagus falcatus,medium
 Asparagus Fern,Asparagus setaceus,medium
 Epidendrum-like Aspasia,Aspasia epidendroides,medium
 Cast iron plant,Aspidistra elatior,low
+Asahi Cast Iron Plant,Aspidistra elatior 'Asahi',low
 Milky Way Cast Iron Plant,Aspidistra elatior 'Milky Way',low
-Crispy Wave Fern,Asplenium antiquum,medium
+Japanese Bird's Nest Fern,Asplenium antiquum,medium
+Crissie Bird's Nest Fern,Asplenium antiquum 'Crissie',medium
+Hurricane Bird's Nest Fern,Asplenium antiquum 'Hurricane',medium
+Leslie Crested Bird's Nest Fern,Asplenium antiquum 'Leslie',medium
+Osaka Bird's Nest Fern,Asplenium antiquum 'Osaka',medium
 Crow's Nest Fern,Asplenium australasicum,low
 Mother Fern,Asplenium bulbiferum,medium
 Bird's nest fern,Asplenium nidus,low
+Avis Bird's Nest Fern,Asplenium nidus 'Avis',low
+Champion's Bird's Nest Fern,Asplenium nidus 'Campio',low
+Cobra Bird's Nest Fern,Asplenium nidus 'Cobra',low
+Crispy Wave Fern,Asplenium nidus 'Crispy Wave',medium
 Hart's Tongue Fern,Asplenium scolopendrium,low
 Maidenhair Spleenwort,Asplenium trichomanes,low
 Star Cactus,Astrophytum asterias,very_high
@@ -306,31 +403,57 @@ Coahuila Bishop's Cap,Astrophytum coahuilense,very_high
 Bishop's Cap Cactus,Astrophytum myriostigma,very_high
 Monk's Hood Cactus,Astrophytum ornatum,very_high
 Senile Star Cactus,Astrophytum senile,very_high
+Crotonifolia Spotted Laurel,Aucuba japonica 'Crotonifolia',low
+Rozannie Japanese Laurel,Aucuba japonica 'Rozannie',low
+Cane Cactus,Austrocylindropuntia cylindrica,very_high
 Eve's Needle Cactus,Austrocylindropuntia subulata,very_high
 Neem Tree,Azadirachta indica,high
 Lemon myrtle,Backhousia citriodora,high
 Hedge bamboo,Bambusa multiplex,high
+Alphonse Karr Bamboo,Bambusa multiplex 'Alphonse Karr',high
 Coral Creeper,Barleria repens,high
+Red Ponytail Palm,Beaucarnea guatemalensis,very_high
 Ponytail palm,Beaucarnea recurvata,very_high
+Black Magic Angel Wing Begonia,Begonia 'Black Magic',medium
+Silky Lustre Begonia,Begonia 'Blazing Sun',medium
+Camouflage Begonia,Begonia 'Camouflage',medium
+Cracklin Rosie Angel Wing Begonia,Begonia 'Cracklin Rosie',medium
 Dragon Wing Begonia,Begonia 'Dragon Wing',medium
 Fedor Rex Begonia,Begonia 'Fedor',medium
+Forever Autumn Begonia,Begonia 'Forever Autumn',medium
 Gryphon Begonia,Begonia 'Gryphon',medium
+Hairy Thing Begonia,Begonia 'Hairy Thing',medium
+Hugh McLauchlan Rex Begonia,Begonia 'Hugh McLauchlan',medium
+Beleaf Inca Flame Begonia,Begonia 'Inca Flame',medium
+Beleaf Inca Night Begonia,Begonia 'Inca Night',medium
 Looking Glass Begonia,Begonia 'Looking Glass',medium
 Lucerna Angel Wing Begonia,Begonia 'Lucerna',medium
+Beleaf Maori Haze Begonia,Begonia 'Maori Haze',medium
+Marmaduke Begonia,Begonia 'Marmaduke',medium
 My Special Angel Begonia,Begonia 'My Special Angel',medium
+Neon Splash Begonia,Begonia 'Neon Splash',medium
 Pegasus Begonia,Begonia 'Pegasus',medium
 Pink Minx Begonia,Begonia 'Pink Minx',medium
+Princess of Hanover Rex Begonia,Begonia 'Princess of Hanover',medium
+Red Kiss Rex Begonia,Begonia 'Red Kiss',medium
+Red Tango Rex Begonia,Begonia 'Red Tango',medium
+Rumba Rex Begonia,Begonia 'Rumba',medium
+Salsa Rex Begonia,Begonia 'Salsa',medium
 Silver Limbo Begonia,Begonia 'Silver Limbo',medium
+Snow Capped Begonia,Begonia 'Snow Capped',medium
 Sophie Cecile Angel Wing Begonia,Begonia 'Sophie Cecile',medium
+Spitfire Rex Begonia,Begonia 'Spitfire',medium
+Rieger Begonia / Elatior Begonia,Begonia × hiemalis,medium
+Borias Rieger Begonia,Begonia × hiemalis 'Borias',medium
 Begonia aconitifolia,Begonia aconitifolia,medium
 Begonia Amphioxus,Begonia amphioxus,medium
 Begonia (Bolivian),Begonia boliviensis,medium
+Bonfire Begonia,Begonia boliviensis 'Bonfire',medium
 Eyelash Begonia,Begonia bowerae,medium
 Tiger Begonia,Begonia bowerae 'Tiger',medium
 Begonia Brevirimosa (Exotica),Begonia brevirimosa,medium
 Angel Wing Begonia,Begonia coccinea,medium
 Maple-leaf Begonia,Begonia dregei,medium
-Rieger Begonia,Begonia elatior,medium
 Beefsteak Begonia,Begonia erythrophylla,medium
 Fernleaf begonia,Begonia foliosa,medium
 Fuchsia begonia,Begonia fuchsioides,medium
@@ -340,9 +463,16 @@ Polka Dot Begonia,Begonia maculata,medium
 Iron Cross Begonia,Begonia masoniana,medium
 Metallic leaf begonia,Begonia metallica,medium
 Rex Begonia,Begonia rex,medium
+Ballet Rex Begonia,Begonia rex 'Ballet',medium
 Escargot Begonia,Begonia rex 'Escargot',medium
+Fireflush Rex Begonia,Begonia rex 'Fireflush',medium
 Fireworks Begonia,Begonia rex 'Fireworks',medium
+Flamenco Rex Begonia,Begonia rex 'Flamenco',medium
 Jurassic Begonia,Begonia rex 'Jurassic Silver Swirl',medium
+Jurassic Watermelon Rex Begonia,Begonia rex 'Jurassic Watermelon',medium
+Red Robin Rex Begonia,Begonia rex 'Red Robin',medium
+Tornado Rex Begonia,Begonia rex 'Tornado',medium
+Yamileth Rex Begonia,Begonia rex 'Yamileth',medium
 Wax begonia,Begonia semperflorens,medium
 Pink Spotted Begonia,Begonia serratipetala,medium
 Sun Changing Begonia,Begonia solimutata,medium
@@ -357,6 +487,7 @@ Marble Bertolonia,Bertolonia marmorata,medium
 Bright Lights Rainbow Chard,Beta vulgaris 'Bright Lights',high
 Bidens (tickseed),Bidens ferulifolia,high
 Harrison's Bifrenaria,Bifrenaria harrisoniae,medium
+Hallelujah Billbergia,Billbergia 'Hallelujah',high
 Pleasing Billbergia,Billbergia amoena,medium
 Queen's Tears,Billbergia nutans,medium
 Flaming Torch,Billbergia pyramidalis,high
@@ -365,6 +496,8 @@ Zebra Billbergia,Billbergia zebrina,high
 Little Tree plant,Biophytum sensitivum,medium
 Bismarck Palm,Bismarckia nobilis,high
 Dwarf Tree Fern,Blechnum gibbum,medium
+Barbara Karst Bougainvillea,Bougainvillea 'Barbara Karst',very_high
+Pink Pixie Bougainvillea,Bougainvillea 'Pink Pixie',very_high
 Hybrid bougainvillea,Bougainvillea buttiana,very_high
 Bougainvillea (Paperflower),Bougainvillea glabra,very_high
 Great bougainvillea,Bougainvillea spectabilis,very_high
@@ -373,12 +506,17 @@ Bottle Tree,Brachychiton populneus,high
 Narrow leaved Bottle Tree,Brachychiton rupestris,high
 Swan River daisy,Brachyscome iberidifolia,very_high
 Cut-leaf daisy,Brachyscome multifida,high
+Mexican Blue Palm,Brahea armata,very_high
 Lady of the Night,Brassavola nodosa,high
+Rex Spider Orchid,Brassia 'Rex',medium
 Tailed Spider Orchid,Brassia caudata,medium
 Giroud's Spider Orchid,Brassia gireoudiana,medium
 Spider Orchid,Brassia verrucosa,medium
+Dwarf Blue Curled Vates Kale,Brassica oleracea 'Dwarf Blue Curled Vates',high
+Mei Qing Choi Baby Bok Choy,Brassica rapa 'Mei Qing Choi',high
 Snowbush,Breynia disticha,high
 Snow Bush,Breynia disticha 'Roseo-picta',high
+Hawaiian Palm,Brighamia insignis,high
 Paper Mulberry,Broussonetia papyrifera,high
 Browallia (bush violet),Browallia speciosa,medium
 White angel's trumpet,Brugmansia arborea,high
@@ -394,19 +532,24 @@ Medusa Orchid,Bulbophyllum medusae,medium
 Pindo Palm,Butia odorata,high
 Common boxwood,Buxus sempervirens,high
 Rainbow plant,Byblis liniflora,very_high
+Pride of Barbados,Caesalpinia pulcherrima,very_high
 White Mosaic Caladium,Caladium 'White Mosaic',medium
 Caladium,Caladium bicolor,medium
 Aaron Caladium,Caladium bicolor 'Aaron',medium
 Candidum Caladium (Angel Wings),Caladium bicolor 'Candidum',medium
 Carolyn Whorton Caladium,Caladium bicolor 'Carolyn Whorton',medium
 Fannie Munson Caladium,Caladium bicolor 'Fannie Munson',medium
+Florida Moonlight Caladium,Caladium bicolor 'Florida Moonlight',medium
 Florida Sweetheart Caladium,Caladium bicolor 'Florida Sweetheart',medium
 Frieda Hemple Caladium,Caladium bicolor 'Frieda Hemple',medium
 Gingerland Caladium (strap-leaf),Caladium bicolor 'Gingerland',medium
 Humboldt's Caladium,Caladium bicolor 'Humboldtii',medium
+Lemon Blush Caladium,Caladium bicolor 'Lemon Blush',medium
 Miss Muffet Caladium,Caladium bicolor 'Miss Muffet',medium
+Pink Beauty Caladium,Caladium bicolor 'Pink Beauty',medium
 Pink Splash Caladium,Caladium bicolor 'Pink Splash',medium
 Postman Joyner Caladium,Caladium bicolor 'Postman Joyner',medium
+Raspberry Moon Caladium,Caladium bicolor 'Raspberry Moon',medium
 Red Flash Caladium,Caladium bicolor 'Red Flash',medium
 Strawberry Star Caladium,Caladium bicolor 'Strawberry Star',medium
 White Christmas Caladium,Caladium bicolor 'White Christmas',medium
@@ -415,6 +558,8 @@ Miniature Caladium,Caladium humboldtii,medium
 Hilo Beauty Caladium,Caladium praetermissum 'Hilo Beauty',medium
 Florida Caladium,Caladium schomburgkii,medium
 Caladium steudneriifolium,Caladium steudneriifolium,medium
+Feather Reed Grass,Calamagrostis × acutiflora,high
+Karl Foerster Feather Reed Grass,Calamagrostis × acutiflora 'Karl Foerster',high
 Clothed Calanthe,Calanthe vestita,medium
 Tall Calathea,Calathea altissima,medium
 Capitate Calathea,Calathea capitata,medium
@@ -426,35 +571,50 @@ Calathea (Peacock plant),Calathea makoyana,medium
 Round Leaf Calathea,Calathea orbifolia,medium
 Silver Calathea,Calathea picturata 'Argentea',medium
 Calathea Timothei,Calathea timothei,medium
-Zebra Plant Classic,Calathea zebrina,medium
 Florist's Calceolaria,Calceolaria herbeohybrida,medium
 Calendula (Pot Marigold),Calendula officinalis,high
+Superbells Lemon Slice Calibrachoa,Calibrachoa 'Superbells Lemon Slice',high
 Calibrachoa (million bells),Calibrachoa parviflora,high
+Surinam Powder Puff,Calliandra surinamensis,high
 Basket Plant,Callisia fragrans,high
 Bolivian Jew,Callisia gentlei,high
 Chain Plant,Callisia navicularis,high
 Turtle Vine,Callisia repens,high
 Pink Lady Turtle Vine,Callisia repens 'Pink Lady',high
 Heather,Calluna vulgaris,high
+Donation Camellia,Camellia × williamsii 'Donation',medium
 Japanese camellia,Camellia japonica,medium
 Carpathian Bellflower,Campanula carpatica,high
 Italian Bellflower,Campanula isophylla,high
 Dalmatian bellflower,Campanula portenschlagiana,high
 Gabiroba,Campomanesia xanthocarpa,very_high
 Linden's Canistrum,Canistrum lindenii,medium
+Tropicanna Black Canna,Canna 'Lon01',high
+Tropicanna Canna,Canna 'Phasion',high
 Canna lily,Canna hybrida,high
 Ornamental Chili Pepper,Capsicum annuum,very_high
+Black Pearl Ornamental Pepper,Capsicum annuum 'Black Pearl',very_high
 California Wonder Bell Pepper,Capsicum annuum 'California Wonder',very_high
+Chilly Chili Ornamental Pepper,Capsicum annuum 'Chilly Chili',very_high
 Jalapeño Pepper,Capsicum annuum 'Jalapeño',very_high
+Lunchbox Red Snack Pepper,Capsicum annuum 'Lunchbox Red',very_high
+Medusa Ornamental Pepper,Capsicum annuum 'Medusa',very_high
+Thai Hot Pepper,Capsicum annuum 'Thai Hot',very_high
 Aji Amarillo Pepper,Capsicum baccatum,very_high
 Habanero Pepper,Capsicum chinense,very_high
 Tabasco Pepper,Capsicum frutescens,very_high
 Rocoto / Manzano Pepper,Capsicum pubescens,very_high
+Ice Dance Japanese Sedge,Carex 'Ice Dance',medium
 Leatherleaf sedge,Carex buchananii,high
 New Zealand Hair Sedge,Carex comans,high
+Frosted Curls Sedge,Carex comans 'Frosted Curls',high
 Japanese Sedge,Carex oshimensis,medium
+Evergold Japanese Sedge,Carex oshimensis 'Evergold',medium
+Everillo Japanese Sedge,Carex oshimensis 'Everillo',medium
+Red Hook Sedge,Carex punicea,high
 Papaya,Carica papaya,very_high
 Natal Plum,Carissa macrocarpa,high
+Panama Hat Plant,Carludovica palmata,medium
 Fukien tea,Carmona retusa,high
 Korean hornbeam,Carpinus turczaninowii,high
 Fishtail Palm,Caryota mitis,medium
@@ -483,6 +643,10 @@ Wheat Celosia,Celosia spicata,high
 European Hackberry,Celtis australis,high
 Common Hackberry,Celtis occidentalis,high
 Fountain grass,Cenchrus alopecuroides,very_high
+Hameln Dwarf Fountain Grass,Cenchrus alopecuroides 'Hameln',very_high
+Little Bunny Dwarf Fountain Grass,Cenchrus alopecuroides 'Little Bunny',very_high
+Crimson Fountain Grass,Cenchrus setaceus,very_high
+Fireworks Variegated Red Fountain Grass,Cenchrus setaceus 'Fireworks',very_high
 Purple Fountain Grass,Cenchrus setaceus 'Rubrum',very_high
 Old Man Cactus,Cephalocereus senilis,very_high
 Australian pitcher plant (Albany),Cephalotus follicularis,high
@@ -505,21 +669,28 @@ Chain of Hearts variegated,Ceropegia woodii 'Variegata',high
 Bacopa (water hyssop),Chaenostoma cordatum,high
 Ellwood's Lawson Cypress,Chamaecyparis lawsoniana 'Ellwoodii',high
 Hinoki cypress,Chamaecyparis obtusa,high
+Dwarf Hinoki Cypress,Chamaecyparis obtusa 'Nana Gracilis',high
 Cat Palm,Chamaedorea cataractarum,medium
 Areca Bamboo Palm,Chamaedorea costaricana,medium
 Parlor palm,Chamaedorea elegans,low
+Whale Tail Palm,Chamaedorea ernesti-augusti,low
 Metallic Palm,Chamaedorea metallica,low
 Hardy Parlor Palm,Chamaedorea radicalis,medium
 Bamboo Palm,Chamaedorea seifrizii,medium
 Pacaya Palm,Chamaedorea tepejilote,medium
 Roman Chamomile,Chamaemelum nobile,high
 European Fan Palm,Chamaerops humilis,very_high
+Vulcano Dwarf Fan Palm,Chamaerops humilis 'Vulcano',very_high
+Blue Mediterranean Fan Palm,Chamaerops humilis var. argentea,high
+Flamethrower Palm,Chambeyronia macrocarpa,medium
 Fire Flash,Chlorophytum amaniense,medium
 Fire Flash / Mandarin Plant,Chlorophytum amaniense 'Fire Flash',medium
 Saint Bernard's Lily,Chlorophytum bichetii,medium
 Cape Spider Plant,Chlorophytum capense,medium
 Spider plant,Chlorophytum comosum,medium
+Atlantic Spider Plant,Chlorophytum comosum 'Atlantic',medium
 Curly Spider Plant,Chlorophytum comosum 'Bonnie',medium
+Hawaiian Spider Plant,Chlorophytum comosum 'Hawaiian',medium
 Marginatum Spider Plant,Chlorophytum comosum 'Marginatum',medium
 Ocean Spider Plant,Chlorophytum comosum 'Ocean',medium
 Variegated Spider Plant,Chlorophytum comosum 'Variegatum',medium
@@ -530,9 +701,13 @@ Florist's Chrysanthemum,Chrysanthemum morifolium,high
 Mexican Tree Fern,Cibotium schiedei,low
 Kangaroo Vine,Cissus antarctica,medium
 Rex Begonia Vine,Cissus discolor,medium
+Veldt Grape,Cissus quadrangularis,high
 Grape Ivy,Cissus rhombifolia,medium
 Ellen Danica Grape Ivy,Cissus rhombifolia 'Ellen Danica',medium
 Miniature Grape Ivy,Cissus striata,medium
+Yuzu,Citrus × junos,very_high
+Otaheite Orange,Citrus × limonia 'Otaheite',very_high
+Improved Meyer Lemon,Citrus × meyeri 'Improved Meyer',very_high
 Key Lime,Citrus aurantiifolia,very_high
 Australian Finger Lime,Citrus australasica,very_high
 Bergamot Orange,Citrus bergamia,very_high
@@ -544,40 +719,62 @@ Persian Lime,Citrus latifolia,very_high
 Sweet Lime,Citrus limetta,very_high
 Lemon tree,Citrus limon,very_high
 Eureka Lemon,Citrus limon 'Eureka',very_high
+Ponderosa Lemon,Citrus limon 'Ponderosa',very_high
 Pink Lemonade Lemon,Citrus limon 'Variegated Pink',very_high
 Pomelo,Citrus maxima,very_high
 Citron / Buddha's Hand,Citrus medica,very_high
 Calamondin,Citrus microcarpa,very_high
+Variegated Calamondin,Citrus microcarpa 'Variegata',very_high
 Grapefruit,Citrus paradisi,very_high
 Mandarin Orange,Citrus reticulata,very_high
 Pixie Mandarin,Citrus reticulata 'Pixie',very_high
 Sweet Orange,Citrus sinensis,very_high
 Satsuma Mandarin,Citrus unshiu,very_high
+Owari Satsuma Mandarin,Citrus unshiu 'Owari',very_high
 Centipede Orchid,Cleisostoma scolopendrifolium,medium
 Firecracker Cactus,Cleistocactus baumannii,very_high
 Monkey Tail Cactus,Cleistocactus colademononis,very_high
 Silver Torch Cactus,Cleistocactus strausii,very_high
 Golden Rat Tail Cactus,Cleistocactus winteri,very_high
 Clematis,Clematis,high
+Rebecca Clematis,Clematis 'Evipo016',high
+Cezanne Clematis,Clematis 'Evipo023',high
+Nelly Moser Clematis,Clematis 'Nelly Moser',high
+Piilu Clematis (Little Duckling),Clematis 'Piilu',high
+The President Clematis,Clematis 'The President',high
 Livingstone Daisy,Cleretum bellidiforme,very_high
 Clerodendrum Bleeding Heart,Clerodendrum thomsoniae,high
 Blue butterfly bush / blue glory bower,Clerodendrum ugandense,high
 Bush Lily,Clivia miniata,medium
+Yellow Bush Lily,Clivia miniata var. citrina,medium
 Green-tip Forest Lily,Clivia nobilis,medium
 Autograph Tree,Clusia rosea,high
+Cup and Saucer Vine,Cobaea scandens,high
 California Fishhook Cactus,Cochemiea dioica,very_high
 Amazon Cochleanthes,Cochleanthes amazonica,low
 Coconut Palm,Cocos nucifera,high
 Croton,Codiaeum variegatum,high
+Andrew Croton,Codiaeum variegatum 'Andrew',high
+Banana Croton,Codiaeum variegatum 'Banana',high
+Bush on Fire Croton,Codiaeum variegatum 'Bush on Fire',high
+Eleanor Roosevelt Croton,Codiaeum variegatum 'Eleanor Roosevelt',high
 Excellent Croton,Codiaeum variegatum 'Excellent',high
 Gold Dust Croton,Codiaeum variegatum 'Gold Dust',high
+Gold Star Croton,Codiaeum variegatum 'Gold Star',high
+Lauren's Rainbow Croton,Codiaeum variegatum 'Lauren's Rainbow',high
 Magnificent Croton,Codiaeum variegatum 'Magnificent',high
 Mammy Croton,Codiaeum variegatum 'Mammy',high
+Mother and Daughter Croton,Codiaeum variegatum 'Mother and Daughter',high
 Mrs. Iceton Croton,Codiaeum variegatum 'Mrs. Iceton',high
 Norma Croton,Codiaeum variegatum 'Norma',high
 Oakleaf Croton,Codiaeum variegatum 'Oakleaf',high
 Petra Croton,Codiaeum variegatum 'Petra',high
+Red Iceton Croton,Codiaeum variegatum 'Red Iceton',high
 Sunny Star Croton,Codiaeum variegatum 'Sunny Star',high
+Superstar Croton,Codiaeum variegatum 'Superstar',high
+Tamara Croton,Codiaeum variegatum 'Tamara',high
+Victoria Gold Bell Croton,Codiaeum variegatum 'Victoria Gold Bell',high
+Yellow Iceton Croton,Codiaeum variegatum 'Yellow Iceton',high
 Zanzibar Croton,Codiaeum variegatum 'Zanzibar',high
 Crested Coelogyne,Coelogyne cristata,medium
 Fringed Coelogyne,Coelogyne fimbriata,medium
@@ -596,23 +793,34 @@ Wasabi coleus (ColorBlaze),Coleus scutellarioides 'Wasabi',high
 Wizard coleus (Wizard series),Coleus scutellarioides 'Wizard Velvet Red',high
 Jenningsii Taro,Colocasia affinis,medium
 Elephant Ear Colocasia,Colocasia esculenta,high
+Black Beauty Elephant Ear,Colocasia esculenta 'Black Beauty',high
 Black Coral Taro,Colocasia esculenta 'Black Coral',high
 Variegated Black Coral Taro,Colocasia esculenta 'Black Coral' variegated,high
 Black Magic Taro,Colocasia esculenta 'Black Magic',high
 Blue Hawaii Elephant Ear,Colocasia esculenta 'Blue Hawaii',high
 Coffee Cups Elephant Ear,Colocasia esculenta 'Coffee Cups',high
+Diamond Head Elephant Ear,Colocasia esculenta 'Diamond Head',high
+Hawaiian Punch Elephant Ear,Colocasia esculenta 'Hawaiian Punch',high
 Illustris Elephant Ear,Colocasia esculenta 'Illustris',high
+Jack's Giant Elephant Ear,Colocasia esculenta 'Jack's Giant',high
+Maui Gold Elephant Ear,Colocasia esculenta 'Maui Gold',high
 Mojito Taro,Colocasia esculenta 'Mojito',high
+Pink China Elephant Ear,Colocasia esculenta 'Pink China',high
 Silver Dollar Taro,Colocasia fallax,medium
 Giant Elephant Ear,Colocasia gigantea,medium
+Early Bird Columnea,Columnea 'Early Bird',medium
+Merlot Columnea,Columnea 'Merlot',medium
 Columnea / Flying Goldfish Plant,Columnea gloriosa,medium
 Showy Comparettia,Comparettia speciosa,medium
+Bamboo Fern,Coniogramme emeiensis,medium
+Golden Zebra Bamboo Fern,Coniogramme emeiensis 'Golden Zebra',medium
 Living pebbles,Conophytum bilobum,very_high
 Button plant,Conophytum calculus,very_high
 Cone plant,Conophytum minutum,very_high
 Heart Cone Plant,Conophytum obcordellum,high
 Window Cone Plant,Conophytum pellucidum,high
 Grape Cone Plant,Conophytum uviforme,high
+Road Kill Cactus,Consolea rubescens,very_high
 Silverbush,Convolvulus cneorum,very_high
 Blue Rock Bindweed,Convolvulus sabatius,very_high
 Copiapoa,Copiapoa cinerea,very_high
@@ -621,19 +829,32 @@ Dwarf copiapoa,Copiapoa humilis,very_high
 Hypogaea copiapoa,Copiapoa hypogaea,very_high
 Tenuissima copiapoa,Copiapoa tenuissima,very_high
 Mirror plant,Coprosma repens,high
+Charlie Boy Cordyline,Cordyline 'Ric01',high
 Cabbage Palm,Cordyline australis,high
 Red Star Cabbage Palm (spike plant),Cordyline australis 'Red Star',high
+Pink Passion Cordyline,Cordyline australis 'Seipin',high
+Southern Splendour Cordyline,Cordyline australis 'Southern Splendour',high
 Variegated Cabbage Palm,Cordyline australis 'Torbay Dazzler',high
 Ti Plant,Cordyline fruticosa,high
+Candy Cane Ti Plant,Cordyline fruticosa 'Candy Cane',high
 Chocolate Queen Ti Plant,Cordyline fruticosa 'Chocolate Queen',high
+Florida Red Ti Plant,Cordyline fruticosa 'Florida Red',high
 Kiwi Ti Plant,Cordyline fruticosa 'Kiwi',high
+Mambo Ti Plant,Cordyline fruticosa 'Mambo',high
+Maria Ti Plant,Cordyline fruticosa 'Maria',high
+Morning Sunshine Ti Plant,Cordyline fruticosa 'Morning Sunshine',high
+Pink Diamond Ti Plant,Cordyline fruticosa 'Pink Diamond',high
 Red Sister Ti Plant,Cordyline fruticosa 'Red Sister',high
+Tango Ti Plant,Cordyline fruticosa 'Tango',high
 Cilantro / Coriander,Coriandrum sativum,high
+Calypso Cilantro,Coriandrum sativum 'Calypso',high
+Ice Plant,Corpuscularia lehmannii,very_high
 Bucket Orchid,Coryanthes macrantha,medium
 Elephant's Tooth Cactus,Coryphantha elephantidens,very_high
 Chocolate Cosmos,Cosmos atrosanguineus,high
 Cosmos,Cosmos bipinnatus,very_high
 Sulfur Cosmos,Cosmos sulphureus,high
+Red Button Ginger,Costus woodsonii,medium
 Large pig's ear,Cotyledon barbeyi,very_high
 Bell cotyledon,Cotyledon campanulata,high
 Elise's cotyledon,Cotyledon eliseae,high
@@ -645,15 +866,19 @@ Cliff cotyledon,Cotyledon pendens,high
 Bear's Paw,Cotyledon tomentosa,high
 Velvet cotyledon,Cotyledon velutina,very_high
 Wood's cotyledon,Cotyledon woodii,high
+Baby's Necklace Crassula,Crassula 'Baby's Necklace',high
+Jade Necklace Crassula,Crassula 'Jade Necklace',high
+Moonglow Crassula,Crassula 'Moonglow',very_high
+Springtime Crassula,Crassula 'Springtime',high
 Alston's crassula,Crassula alstonii,very_high
 Silver Dollar Plant / Rattlesnake,Crassula arborescens,very_high
+Ripple Jade,Crassula arborescens subsp. undulatifolia,very_high
 Aus crassula,Crassula ausensis,very_high
 Rattlesnake tail,Crassula barklyi,very_high
 Short-leaf crassula,Crassula brevifolia,very_high
 Red Pagoda / Shark's Tooth,Crassula capitella,very_high
 Campfire Crassula,Crassula capitella 'Campfire',very_high
 Koppie crassula,Crassula columnaris,very_high
-Red pagoda,Crassula corymbulosa,very_high
 Plakkie crassula,Crassula cotyledonis,high
 Deceptive crassula,Crassula deceptor,very_high
 Tiger jade,Crassula exilis,high
@@ -669,10 +894,13 @@ Jade plant,Crassula ovata,very_high
 Crosby's Compact Jade (Dwarf Red Jade),Crassula ovata 'Crosby's Compact',very_high
 Gollum Jade / ET's Fingers,Crassula ovata 'Gollum',very_high
 Hobbit Jade,Crassula ovata 'Hobbit',very_high
+Lemon & Lime Jade,Crassula ovata 'Lemon & Lime',very_high
 Sunset Jade,Crassula ovata 'Sunset',very_high
 Variegated Jade Plant,Crassula ovata 'Variegata',very_high
 Calico kitten,Crassula pellucida,high
+Little Missy Crassula,Crassula pellucida 'Little Missy',high
 String of Buttons,Crassula perforata,high
+Giant String of Buttons,Crassula perforata 'Ivory Towers',high
 Buddha's Temple,Crassula pyramidalis,very_high
 Rosary vine crassula,Crassula rupestris,high
 Variegated trailing jade,Crassula sarmentosa,medium
@@ -689,23 +917,33 @@ Starfish Plant,Cryptanthus acaulis,medium
 Marbled Earth Star,Cryptanthus beuckeri,medium
 Earth Star,Cryptanthus bivittatus,medium
 Pink Earth Star,Cryptanthus bivittatus 'Pink Starlite',medium
+Red Star Earth Star,Cryptanthus bivittatus 'Red Star',medium
 Rainbow star,Cryptanthus bromelioides,medium
 Zonatus earth star,Cryptanthus zonatus,medium
+Elaine Earth Star,Cryptanthus zonatus 'Elaine',medium
+Compactstar Ctenanthe,Ctenanthe 'Compactstar',medium
 Golden Mosaic Ctenanthe,Ctenanthe 'Golden Mosaic',medium
 Ctenanthe amabilis,Ctenanthe amabilis,medium
 Fishbone Prayer Plant,Ctenanthe burle-marxii,medium
+Amagris Ctenanthe,Ctenanthe burle-marxii 'Amagris',medium
 Compressed Ctenanthe,Ctenanthe compressa,medium
 Variegated Ctenanthe,Ctenanthe kummeriana,medium
 Bamburanta,Ctenanthe lubbersiana,medium
-Never-Never Plant,Ctenanthe lubbersiana 'Never-Never',medium
 Never Never Plant,Ctenanthe oppenheimiana,medium
 Never Never Plant Tricolor,Ctenanthe oppenheimiana 'Tricolor',medium
 Ctenanthe pilosa,Ctenanthe pilosa,medium
 Grey Star Ctenanthe,Ctenanthe setosa,medium
 Cucumber,Cucumis sativus,very_high
+Bush Champion Cucumber,Cucumis sativus 'Bush Champion',very_high
+Patio Snacker Cucumber,Cucumis sativus 'Patio Snacker',very_high
+Quick Snack Cucumber,Cucumis sativus 'Quick Snack',very_high
+Spacemaster Cucumber,Cucumis sativus 'Spacemaster',very_high
+Midnight Courgette / Zucchini,Cucurbita pepo 'Midnight',very_high
+Vermillionaire Firecracker Plant,Cuphea 'Vermillionaire',high
 Mexican heather,Cuphea hyssopifolia,high
 Cigar Flower,Cuphea ignea,high
 Bat-faced cuphea,Cuphea llavea,high
+Monterey Cypress,Cupressus macrocarpa,high
 Lemon Cypress,Cupressus macrocarpa 'Goldcrest',high
 Siam tulip,Curcuma alismatifolia,high
 Turmeric,Curcuma longa,medium
@@ -718,14 +956,19 @@ Blue chalksticks curio,Curio repens,very_high
 Variegated String of Pearls,Curio rowleyanus 'Variegata',high
 Blue Chalksticks,Curio talinoides,high
 Teddy Bear Vine,Cyanotis beddomei,medium
+Kitten Ears / Pussy Ears,Cyanotis somaliensis,high
 Tree Fern,Cyathea cooperi,medium
 Sago palm,Cycas revoluta,high
 Hardy cyclamen,Cyclamen coum,medium
 Ivy-leaved cyclamen,Cyclamen hederifolium,medium
 Florist's Cyclamen,Cyclamen persicum,medium
+Halios Cyclamen,Cyclamen persicum 'Halios',medium
+Latinia Cyclamen,Cyclamen persicum 'Latinia',medium
+Metis Mini Cyclamen,Cyclamen persicum 'Metis',medium
 Alpine cyclamen,Cyclamen purpurascens,medium
 Swan Orchid,Cycnoches chlorochilon,high
 Red-lipped Cymbidiella,Cymbidiella rhodochila,high
+Golden Elf Cymbidium,Cymbidium 'Golden Elf',high
 Aloe-leafed Cymbidium,Cymbidium aloifolium,high
 Devon Cymbidium,Cymbidium devonianum,medium
 Golden Thread Orchid,Cymbidium ensifolium,high
@@ -737,35 +980,50 @@ Low's Cymbidium,Cymbidium lowianum,high
 Giant Boat-lip Orchid,Cymbidium madidum,high
 Tracy's Cymbidium,Cymbidium tracyanum,high
 Lemongrass,Cymbopogon citratus,high
+East Indian Lemongrass,Cymbopogon flexuosus,very_high
 Citronella Grass,Cymbopogon nardus,high
 Dwarf umbrella sedge,Cyperus alternifolius,medium
 Yellow Nutsedge,Cyperus esculentus,high
 Umbrella Plant,Cyperus involucratus,high
 Rice Flatsedge,Cyperus iria,high
 Papyrus Sedge,Cyperus papyrus,high
+King Tut Egyptian Papyrus,Cyperus papyrus 'King Tut',high
 Purple Nutsedge,Cyperus rotundus,high
 Holly Fern,Cyrtomium falcatum,low
 Japanese Holly Fern,Cyrtomium fortunei,low
 Cigar Orchid,Cyrtopodium punctatum,high
 Arched Cyrtorchis,Cyrtorchis arcuata,medium
+Lipstick Palm,Cyrtostachys renda,high
 Brittle bladder fern,Cystopteris fragilis,low
+Gallery Art Deco Dahlia,Dahlia 'Gallery Art Deco',high
 Garden dahlia,Dahlia pinnata,high
 Poet's Laurel,Danae racemosa,medium
 Winter daphne,Daphne odora,high
+Variegated Winter Daphne,Daphne odora 'Aureomarginata',high
 Cobra lily,Darlingtonia californica,high
 Desert Spoon,Dasylirion wheeleri,very_high
+Parisienne Carrot,Daucus carota 'Parisienne',high
 Hare's Foot Fern,Davallia canariensis,medium
+Toothed Rabbit's Foot Fern,Davallia denticulata,medium
 Rabbit's Foot Fern,Davallia fejeensis,medium
 Japanese Rabbit's Foot Fern,Davallia mariesii,medium
+Possum Tail Fern,Davallia pentaphylla,medium
 Polynesian Foot Fern,Davallia solida,medium
 Squirrel's Foot Fern,Davallia trichomanoides,medium
 Dwarf rabbit's foot fern,Davallia tyermannii,medium
+Cat Claw Fern,Davallia tyermannii 'Sekka',medium
 German Ivy,Delairea odorata,medium
+Royal Poinciana,Delonix regia,very_high
+Fire Spinner Ice Plant,Delosperma 'P001S',very_high
 Purple Ice Plant,Delosperma cooperi,very_high
 Pickle Plant,Delosperma echinatum,very_high
+Hardy Yellow Ice Plant,Delosperma nubigenum,very_high
+Hibiki Dendrobium,Dendrobium 'Hibiki',high
+Sa-Nook Purple Happiness Dendrobium,Dendrobium 'Sapuha',high
 Honey-scented Dendrobium,Dendrobium aggregatum,high
 Unscented Dendrobium,Dendrobium anosmum,high
 Hooded Orchid,Dendrobium aphyllum,high
+Berry Oda Dendrobium,Dendrobium Berry 'Oda',high
 Purple Cooktown Orchid,Dendrobium bigibbum,high
 Golden Bow Dendrobium,Dendrobium chrysotoxum,high
 Pigeon Orchid,Dendrobium crumenatum,high
@@ -783,6 +1041,7 @@ Cooktown Orchid,Dendrobium phalaenopsis,high
 Toothbrush Orchid,Dendrobium secundum,high
 Rock Lily,Dendrobium speciosum,high
 Spectacular Dendrobium,Dendrobium spectabile,high
+Spring Dream Apollon Dendrobium,Dendrobium Spring Dream 'Apollon',high
 Pinecone Dendrobium,Dendrobium thyrsiflorum,high
 Queen Victoria's Dendrobium,Dendrobium victoriae-reginae,medium
 Chain Orchid,Dendrochilum filiforme,medium
@@ -790,16 +1049,24 @@ Dwarf Bromeliad,Deuterocohnia brevifolia,very_high
 Flax Lily,Dianella tasmanica,high
 Carnation,Dianthus caryophyllus,high
 China pink,Dianthus chinensis,high
+Wild Pink,Dianthus subacaulis,very_high
 Twinspur (diascia),Diascia barberae,high
 Silver ponysfoot,Dichondra argentea,high
 Mahogany Fern,Didymochlaena truncatula,low
 Camouflage Dumb Cane,Dieffenbachia 'Camouflage',medium
+Cougar Dumb Cane,Dieffenbachia 'Cougar',medium
+Delilah Dieffenbachia,Dieffenbachia 'Delilah',medium
 Exotica Dumb Cane,Dieffenbachia 'Exotica',medium
 Honeydew Dumb Cane,Dieffenbachia 'Honeydew',medium
+Mary Dumb Cane,Dieffenbachia 'Mary',medium
+Panther Dieffenbachia,Dieffenbachia 'Panther',medium
 Reflector Dumb Cane,Dieffenbachia 'Reflector',medium
+Sarah Dumb Cane,Dieffenbachia 'Sarah',medium
 Sparkles Dumb Cane,Dieffenbachia 'Sparkles',medium
 Star Bright Dumb Cane,Dieffenbachia 'Star Bright',medium
+Sterling Dumb Cane,Dieffenbachia 'Sterling',medium
 Tiki Dumb Cane (Tropical Tiki),Dieffenbachia 'Tiki',medium
+Triumph Dumb Cane,Dieffenbachia 'Triumph',medium
 Tropic Marianne Dumb Cane,Dieffenbachia 'Tropic Marianne',medium
 Tropic Snow Dumb Cane,Dieffenbachia 'Tropic Snow',medium
 Spotted Dumb Cane,Dieffenbachia amoena,medium
@@ -807,43 +1074,74 @@ Camille Dumb Cane,Dieffenbachia maculata 'Camille',medium
 Oersted's Dumb Cane,Dieffenbachia oerstedii,medium
 Travelling Plant,Dieffenbachia parlatorei,medium
 Dumb cane,Dieffenbachia seguine,medium
+Carina Dumb Cane,Dieffenbachia seguine 'Carina',medium
 Compact Dumb Cane,Dieffenbachia seguine 'Compacta',medium
+Crocodile Dieffenbachia,Dieffenbachia seguine 'Crocodile',medium
 Green Magic Dumb Cane,Dieffenbachia seguine 'Green Magic',medium
+Rebecca Dumb Cane,Dieffenbachia seguine 'Rebecca',medium
 Fortnight Lily,Dietes bicolor,high
 Large Wild Iris,Dietes grandiflora,high
 African Iris,Dietes iridioides,high
 Longan,Dimocarpus longan,high
 Venus flytrap,Dionaea muscipula,very_high
+Red Dragon Venus Flytrap,Dionaea muscipula 'Akai Ryu',very_high
+B52 Venus Flytrap,Dionaea muscipula 'B52',very_high
+DC XL Venus Flytrap,Dionaea muscipula 'DC XL',very_high
+Maroon Monster Venus Flytrap,Dionaea muscipula 'FTS Maroon Monster',very_high
+Red Piranha Venus Flytrap,Dionaea muscipula 'Red Piranha',very_high
+Virgin's Palm,Dioon edule,high
 Elephant's foot,Dioscorea elephantipes,high
+Wild Arugula,Diplotaxis tenuifolia,very_high
 Red Disa,Disa uniflora,medium
 Bengal Dischidia,Dischidia bengalensis,medium
 Imbricata Dischidia,Dischidia imbricata,high
 Button Orchid / Dischidia,Dischidia nummularia,medium
 Geri Dischidia,Dischidia oiantha,medium
+Variegated Dischidia Oiantha,Dischidia oiantha 'Variegata',medium
 Ant Plant Dischidia,Dischidia ovata,medium
 Million Hearts,Dischidia ruscifolia,medium
 Ant Plant Dischidia,Dischidia vidalii,high
 Disc cactus,Discocactus heptacanthus,very_high
 Horst's disco cactus,Discocactus horstii,high
 Bahia disco cactus,Discocactus zehntneri,very_high
+Red Orchid Cactus,Disocactus ackermannii,high
 Fishbone Cactus,Disocactus anguliger,medium
 Rasp Fern,Doodia media,medium
+Hand Fern,Doryopteris pedata,medium
 Large-Leaved Dragon Tree,Dracaena aletriformis,medium
 Cylindrical Snake Plant,Dracaena angolensis,medium
 Starfish Snake Plant,Dracaena angolensis 'Boncel',medium
 Tree Dracaena,Dracaena arborea,medium
 Dwarf Sansevieria,Dracaena ballyi,medium
-Ribbon Plant,Dracaena braunii,medium
 Socotra Dragon Tree,Dracaena cinnabari,high
-Compact Dracaena,Dracaena compacta,medium
 Limelight Dracaena,Dracaena deremensis 'Limelight',medium
 Canary Islands Dragon Tree,Dracaena draco,high
 Corn plant,Dracaena fragrans,medium
+Art Dracaena,Dracaena fragrans 'Art',medium
+Burley Dracaena,Dracaena fragrans 'Burley',medium
+Cintho Dracaena,Dracaena fragrans 'Cintho',medium
+Janet Craig Compacta Dracaena,Dracaena fragrans 'Compacta',medium
+Dorado Dracaena,Dracaena fragrans 'Dorado',medium
+Gold Star Dracaena,Dracaena fragrans 'Gold Star',medium
+Golden Coast Dracaena,Dracaena fragrans 'Golden Coast',medium
+Golden Heart Dracaena,Dracaena fragrans 'Golden Heart',medium
+Hawaiian Sunshine Dracaena,Dracaena fragrans 'Hawaiian Sunshine',medium
+Jade Jewel Dracaena,Dracaena fragrans 'Jade Jewel',medium
 Janet Craig Dracaena,Dracaena fragrans 'Janet Craig',medium
+Janet Lind Dracaena,Dracaena fragrans 'Janet Lind',medium
 Lemon Lime Dracaena,Dracaena fragrans 'Lemon Lime',medium
 Lemon Surprise Dracaena,Dracaena fragrans 'Lemon Surprise',medium
+Lisa Cane Dracaena,Dracaena fragrans 'Lisa',medium
+Malaika Dracaena,Dracaena fragrans 'Malaika',medium
+Marley Dracaena,Dracaena fragrans 'Marley',medium
 Corn Plant / Mass Cane,Dracaena fragrans 'Massangeana',medium
+Rikki Dracaena,Dracaena fragrans 'Rikki',medium
+Tornado Dracaena,Dracaena fragrans 'Tornado',medium
+Twister Dracaena,Dracaena fragrans 'Twister',medium
+Ulises Dracaena,Dracaena fragrans 'Ulises',medium
 Warneckii Dracaena,Dracaena fragrans 'Warneckii',medium
+White Aspen Dracaena,Dracaena fragrans 'White Aspen',medium
+White Jewel Dracaena,Dracaena fragrans 'White Jewel',medium
 Goldie's Dracaena,Dracaena goldieana,medium
 Rhino Grass,Dracaena hanningtonii,high
 Bowstring Hemp,Dracaena hyacinthoides,medium
@@ -851,28 +1149,39 @@ Liberian Snake Plant,Dracaena liberica,medium
 Dragon tree,Dracaena marginata,medium
 "Red-edged Dracaena, Dragon Tree",Dracaena marginata 'Bicolor',high
 Colorama Dragon Tree,Dracaena marginata 'Colorama',medium
+Kiwi Dragon Tree,Dracaena marginata 'Kiwi',medium
+Magenta Dragon Tree,Dracaena marginata 'Magenta',medium
+Sunray Dragon Tree,Dracaena marginata 'Sunray',medium
+Tarzan Dragon Tree,Dracaena marginata 'Tarzan',medium
 Rainbow Dragon Tree,Dracaena marginata 'Tricolor',medium
 Whale Fin Snake Plant,Dracaena masoniana,medium
 Star Sansevieria,Dracaena pearsonii,high
 Spotted Dragon Plant,Dracaena phrynioides,medium
 Pleomele,Dracaena reflexa,medium
+Anita Dracaena,Dracaena reflexa 'Anita',medium
 Song of India,Dracaena reflexa 'Song of India',medium
 Song of Jamaica,Dracaena reflexa 'Song of Jamaica',medium
 Lucky Bamboo,Dracaena sanderiana,medium
 Northern Large-Leaved Dragon Tree,Dracaena steudneri,medium
 Gold Dust Dracaena,Dracaena surculosa,medium
+Florida Beauty Dracaena,Dracaena surculosa 'Florida Beauty',medium
 Snake plant,Dracaena trifasciata,low
 Bantel's Sensation Snake Plant,Dracaena trifasciata 'Bantel's Sensation',low
 Black Coral Snake Plant,Dracaena trifasciata 'Black Coral',low
 Black Gold Snake Plant,Dracaena trifasciata 'Black Gold',low
 Black Birds Nest Snake Plant,Dracaena trifasciata 'Black Hahnii',medium
+Black Jack Snake Plant,Dracaena trifasciata 'Black Jack',low
+Black Robusta Snake Plant,Dracaena trifasciata 'Black Robusta',low
 Fernwood Snake Plant (Fernwood Mikado),Dracaena trifasciata 'Fernwood',low
+Futura Robusta Snake Plant,Dracaena trifasciata 'Futura Robusta',low
 Dwarf Snake Plant,Dracaena trifasciata 'Futura Superba',medium
+Golden Flame Snake Plant,Dracaena trifasciata 'Golden Flame',low
 Golden Hahnii Snake Plant,Dracaena trifasciata 'Golden Hahnii',low
 Bird's Nest Snake Plant,Dracaena trifasciata 'Hahnii',low
 Jade Bird's Nest Sansevieria,Dracaena trifasciata 'Jade Hahnii',medium
 Variegated Snake Plant,Dracaena trifasciata 'Laurentii',medium
 Moonshine Snake Plant,Dracaena trifasciata 'Moonshine',low
+Night Owl Snake Plant,Dracaena trifasciata 'Night Owl',low
 Sayuri Snake Plant,Dracaena trifasciata 'Sayuri',low
 Twisted Sister Snake Plant,Dracaena trifasciata 'Twist',low
 Whitney Snake Plant,Dracaena trifasciata 'Whitney',low
@@ -883,7 +1192,9 @@ Sticky sundew,Drosera adelae,medium
 African sundew,Drosera aliciae,very_high
 English Sundew,Drosera anglica,very_high
 Forked sundew,Drosera binata,very_high
+Marston Dragon Sundew,Drosera binata 'Marston Dragon',very_high
 Cape sundew,Drosera capensis,high
+Albino Cape Sundew,Drosera capensis 'Albino',high
 Pink Sundew,Drosera capillaris,very_high
 Thread-leaf sundew,Drosera filiformis,very_high
 Brazilian sundew,Drosera graminifolia,very_high
@@ -904,6 +1215,7 @@ Bluff lettuce,Dudleya farinosa,very_high
 Lance-leaved liveforever,Dudleya lanceolata,very_high
 Chalk lettuce,Dudleya pulverulenta,very_high
 Golden dewdrop,Duranta erecta,high
+Geisha Girl Golden Dewdrop,Duranta erecta 'Geisha Girl',high
 Pineapple Dyckia,Dyckia brevifolia,very_high
 Foster's Dyckia,Dyckia fosteriana,very_high
 Cabada Palm,Dypsis cabadae,medium
@@ -911,13 +1223,28 @@ Triangle Palm,Dypsis decaryi,high
 Areca palm,Dypsis lutescens,high
 Epazote,Dysphania ambrosioides,high
 Afterglow Echeveria,Echeveria 'Afterglow',very_high
+Arctic Ice Echeveria,Echeveria 'Arctic Ice',very_high
+Azulita Echeveria,Echeveria 'Azulita',very_high
 Black Prince,Echeveria 'Black Prince',very_high
+Blue Atoll Echeveria,Echeveria 'Blue Atoll',very_high
+Blue Curls Echeveria,Echeveria 'Blue Curls',very_high
+Blue Prince Echeveria,Echeveria 'Blue Prince',very_high
 Chroma Echeveria,Echeveria 'Chroma',very_high
+Cubic Frost Echeveria,Echeveria 'Cubic Frost',very_high
+Dark Vader Echeveria,Echeveria 'Dark Vader',very_high
+Doris Taylor Echeveria,Echeveria 'Doris Taylor',very_high
+Dusty Rose Echeveria,Echeveria 'Dusty Rose',very_high
 Blue Rose Echeveria,Echeveria 'Imbricata',very_high
+Lime n' Chile Echeveria,Echeveria 'Lime n' Chile',very_high
 Lola Echeveria,Echeveria 'Lola',very_high
+Melaco Echeveria,Echeveria 'Melaco',very_high
 Neon Breakers,Echeveria 'Neon Breakers',very_high
+New Black Echeveria,Echeveria 'New Black',very_high
 Perle von Nürnberg,Echeveria 'Perle von Nürnberg',very_high
 Raindrops Echeveria,Echeveria 'Raindrops',very_high
+Ramillete Echeveria,Echeveria 'Ramillete',very_high
+Vampire Red Ball Echeveria,Echeveria 'Vampire Red Ball',very_high
+Water Ripple Echeveria,Echeveria 'Water Ripple',very_high
 Black Echeveria,Echeveria affinis,very_high
 Lipstick Echeveria,Echeveria agavoides,very_high
 Amoena Echeveria,Echeveria amoena,very_high
@@ -954,6 +1281,7 @@ Topsy Turvy Echeveria,Echeveria runyonii 'Topsy Turvy',very_high
 Blue Echeveria,Echeveria secunda,very_high
 Powder Puff / Mexican Firecracker,Echeveria setosa,very_high
 Mexican Hens,Echeveria shaviana,very_high
+Fire and Ice Echeveria,Echeveria subrigida,very_high
 Toliman Echeveria,Echeveria tolimanensis,very_high
 Golden Barrel Cactus,Echinocactus grusonii,very_high
 Giant barrel cactus,Echinocactus platyacanthus,very_high
@@ -961,12 +1289,14 @@ Strawberry Hedgehog Cactus,Echinocereus engelmannii,very_high
 Ladyfinger Cactus,Echinocereus pentalophus,very_high
 Rainbow Hedgehog Cactus,Echinocereus rigidissimus,very_high
 Claret Cup Cactus,Echinocereus triglochidiatus,very_high
+Rose Quartz Peanut Cactus,Echinopsis 'Rose Quartz',very_high
 Hooked Sea Urchin Cactus,Echinopsis ancistrophora,very_high
 Golden Easter Lily Cactus,Echinopsis aurea,very_high
 Argentine Giant Cactus,Echinopsis candicans,very_high
 Peanut Cactus,Echinopsis chamaecereus,very_high
 Hedgehog Cactus,Echinopsis eyriesii,very_high
 Red Torch Cactus,Echinopsis huascha,very_high
+Bolivian Torch Cactus,Echinopsis lageniformis,very_high
 Sea Urchin Cactus,Echinopsis oxygona,very_high
 San Pedro Cactus,Echinopsis pachanoi,very_high
 Torch Cactus,Echinopsis spachiana,very_high
@@ -979,32 +1309,46 @@ Heart-lipped Encyclia,Encyclia cordigera,high
 Florida Butterfly Orchid,Encyclia tampensis,high
 Abyssinian Banana,Ensete ventricosum,high
 Red Abyssinian Banana,Ensete ventricosum 'Maurelii',high
+Rene Marques Orchid,Epicattleya 'Rene Marques',high
 Crucifix Orchid,Epidendrum ibaguense,high
 Ground-rooting Epidendrum,Epidendrum radicans,high
+Vista Sun Orchid Cactus,Epiphyllum 'Vista Sun',medium
 Hooker's Orchid Cactus,Epiphyllum hookeri,medium
+Curly Locks Orchid Cactus,Epiphyllum hookeri subsp. guatemalense 'Monstrosa',medium
 Orchid Cactus,Epiphyllum oxypetalum,medium
 Climbing Cactus,Epiphyllum phyllanthus,medium
+Dwarf Orchid Cactus,Epiphyllum pumilum,high
 Silver Streak Pothos,Epipremnum amplissimum,medium
+Variegated Silver Streak Pothos,Epipremnum amplissimum 'Variegata',medium
 Golden pothos,Epipremnum aureum,low
+Champs-Élysées Pothos,Epipremnum aureum 'Champs-Élysées',low
 Glacier Pothos,Epipremnum aureum 'Glacier',low
 Global Green Pothos,Epipremnum aureum 'Global Green',low
 Hawaiian Pothos,Epipremnum aureum 'Hawaiian',low
 Jade Pothos,Epipremnum aureum 'Jade',low
 Jessenia Pothos,Epipremnum aureum 'Jessenia',low
 Lemon Meringue Pothos,Epipremnum aureum 'Lemon Meringue',low
+Lemon Top Pothos,Epipremnum aureum 'Lemon Top',low
 Manjula Pothos,Epipremnum aureum 'Manjula',medium
+Marble Prince Pothos,Epipremnum aureum 'Marble Prince',low
 Marble Queen Pothos,Epipremnum aureum 'Marble Queen',low
 Pothos N'Joy,Epipremnum aureum 'N'Joy',medium
+Neon Joy Pothos,Epipremnum aureum 'Neon Joy',low
 Devil's Ivy / Neon Pothos,Epipremnum aureum 'Neon',medium
 Pearls and Jade Pothos,Epipremnum aureum 'Pearls and Jade',medium
+Shangri La Pothos,Epipremnum aureum 'Shangri La',low
 Snow Queen Pothos,Epipremnum aureum 'Snow Queen',low
 Dragon Tail Plant,Epipremnum pinnatum,medium
 Variegated Cebu Blue Pothos,Epipremnum pinnatum 'Albo Variegata',high
 Baltic Blue Pothos,Epipremnum pinnatum 'Baltic Blue',medium
 Cebu Blue Pothos,Epipremnum pinnatum 'Cebu Blue',medium
-Shangri La Pothos,Epipremnum pinnatum 'Shangri La',medium
+Krabi Pothos,Epipremnum pinnatum 'Krabi',medium
+Pinnatum Marble Pothos,Epipremnum pinnatum 'Marble',medium
 Skeleton Key Pothos,Epipremnum pinnatum 'Skeleton Key',medium
+Yellow Sunrise Pothos,Epipremnum pinnatum 'Yellow Sunrise',medium
 Flame Violet,Episcia cupreata,medium
+Pink Panther Flame Violet,Episcia cupreata 'Pink Panther',medium
+Silver Skies Flame Violet,Episcia cupreata 'Silver Skies',medium
 Lace flower vine,Episcia dianthiflora,medium
 Rough Horsetail,Equisetum hyemale,high
 Eranthemum,Eranthemum pulchellum,medium
@@ -1013,21 +1357,33 @@ Winter heath,Erica carnea,high
 Cape heath,Erica gracilis,high
 Mexican Fleabane,Erigeron karvinskianus,high
 Arugula,Eruca vesicaria,high
+Culantro,Eryngium foetidum,high
 Bowles's Mauve Wallflower,Erysimum 'Bowles's Mauve',high
 Wallflower,Erysimum cheiri,high
 Beehive cactus,Escobaria vivipara,very_high
 Snow Pole Cactus,Espostoa lanata,very_high
+Peruvian Old Lady Cactus,Espostoa melanostele,very_high
 Cider Gum,Eucalyptus gunnii,very_high
+Bicolor Pineapple Lily,Eucomis bicolor,high
 Pineapple Lily,Eucomis comosa,high
+Sparkling Burgundy Pineapple Lily,Eucomis comosa 'Sparkling Burgundy',high
 Surinam Cherry,Eugenia uniflora,high
 Guinea Orchid,Eulophia guineensis,medium
+Eulychnia Castanea,Eulychnia castanea,very_high
+Unicorn Cactus,Eulychnia castanea 'Spiralis',very_high
 Wintercreeper,Euonymus fortunei,high
 Japanese spindle,Euonymus japonicus,high
+Green Rocket Japanese Spindle,Euonymus japonicus 'Green Rocket',high
+Paloma Blanca Euonymus,Euonymus japonicus 'Lankveld03',high
 Diamond Frost Euphorbia,Euphorbia 'Diamond Frost',high
+Princettia Poinsettia,Euphorbia 'Princettia',high
+Miniature Saguaro,Euphorbia aeruginosa,very_high
+Tanzanian Zipper Plant,Euphorbia anoplia,very_high
 Pine Cone Euphorbia,Euphorbia bupleurifolia,high
 Medusa's Head,Euphorbia caput-medusae,high
 Decary's Euphorbia,Euphorbia decaryi,medium
 Pincushion Euphorbia,Euphorbia enopla,high
+Pincushion Euphorbia,Euphorbia ferox,very_high
 Medusa's Head,Euphorbia flanaganii,very_high
 Francois' Euphorbia,Euphorbia francoisii,medium
 Cow's Horn,Euphorbia grandicornis,high
@@ -1035,27 +1391,44 @@ Pinecone Plant,Euphorbia guentheri,very_high
 African Milk Barrel,Euphorbia horrida,very_high
 Cowboy Cactus,Euphorbia ingens,very_high
 Coral Cactus,Euphorbia lactea,high
+White Ghost Cactus,Euphorbia lactea 'White Ghost',high
 Madagascar Jewel,Euphorbia leuconeura,high
 Corncob Cactus,Euphorbia mammillaris,high
+Variegated Corncob Cactus,Euphorbia mammillaris 'Variegata',high
 Crown of Thorns,Euphorbia milii,high
+Peppermint Candy Crown of Thorns,Euphorbia milii 'Peppermint Candy',high
 Indian Spurge Tree,Euphorbia neriifolia,high
 Baseball Plant,Euphorbia obesa,very_high
 Zigzag Euphorbia,Euphorbia pseudocactus,high
 Poinsettia,Euphorbia pulcherrima,high
+Autumn Leaves Poinsettia,Euphorbia pulcherrima 'Autumn Leaves',high
+Ice Punch Poinsettia,Euphorbia pulcherrima 'Ice Punch',high
+Premium Picasso Poinsettia,Euphorbia pulcherrima 'Premium Picasso',high
+Prestige Red Poinsettia,Euphorbia pulcherrima 'Prestige Red',high
+Tapestry Poinsettia,Euphorbia pulcherrima 'Tapestry',high
+Winter Rose Poinsettia,Euphorbia pulcherrima 'Winter Rose',high
 Moroccan Mound,Euphorbia resinifera,very_high
+Monadenium Ritchiei,Euphorbia ritchiei,very_high
 Starfish Euphorbia,Euphorbia stellata,high
+Suzanne's Spurge,Euphorbia susannae,very_high
 Sticks on Fire / Pencil Cactus,Euphorbia tirucalli,high
 Devil's backbone,Euphorbia tithymaloides,high
 African Milk Tree,Euphorbia trigona,high
 Red African Milk Tree,Euphorbia trigona 'Rubra',high
+Tucurrique Spurge,Euphorbia tucurriquensis,high
+African Milk Bush,Euphorbia umbellata,high
+Wasabi,Eutrema japonicum,medium
 Blue Daze,Evolvulus glomeratus,very_high
 Persian violet,Exacum affine,medium
+Leopard Plant,Farfugium japonicum,medium
+Spotted Leopard Plant,Farfugium japonicum 'Aureomaculatum',medium
 Umbrella Bamboo,Fargesia murielae,medium
+Jumbo Umbrella Bamboo,Fargesia murielae 'Jumbo',medium
 Green Panda Bamboo,Fargesia rufa,high
 Chilean Bromeliad,Fascicularia bicolor,high
-Botanical Wonder,Fatshedera lizei,medium
 Japanese aralia,Fatsia japonica,medium
 Spider's Web Japanese Aralia,Fatsia japonica 'Spider's Web',medium
+Variegated Japanese Aralia,Fatsia japonica 'Variegata',medium
 Taiwan Fatsia,Fatsia polycarpa,medium
 Bossche's Jaws,Faucaria bosscheana,high
 Cat's Jaws,Faucaria felina,high
@@ -1064,13 +1437,16 @@ Tiger Jaws,Faucaria tigrina,very_high
 Blue Marguerite,Felicia amelloides,very_high
 Baby Toes,Fenestraria rhopalophylla,very_high
 Arizona Barrel Cactus,Ferocactus cylindraceus,very_high
+Sonora Barrel Cactus,Ferocactus echidne,very_high
 Emory's Barrel Cactus,Ferocactus emoryi,very_high
 Blue Barrel Cactus,Ferocactus glaucescens,very_high
 Turk's Head Barrel Cactus,Ferocactus hamatacanthus,very_high
 Devil's Tongue Barrel,Ferocactus latispinus,very_high
 Mexican Lime Cactus,Ferocactus pilosus,very_high
+Coast Barrel Cactus,Ferocactus viridescens,very_high
 Fishhook Barrel Cactus,Ferocactus wislizeni,very_high
 Blue fescue,Festuca glauca,very_high
+Elijah Blue Fescue,Festuca glauca 'Elijah Blue',very_high
 Council Tree,Ficus altissima,high
 Yellow Gem Ficus,Ficus altissima 'Yellow Gem',high
 Clown Fig,Ficus aspera,high
@@ -1078,10 +1454,20 @@ Roxburgh Fig,Ficus auriculata,high
 Audrey Ficus,Ficus benghalensis,high
 Ficus Audrey (banyan fig),Ficus benghalensis 'Audrey',high
 Weeping fig,Ficus benjamina,high
+Danielle Weeping Fig,Ficus benjamina 'Danielle',high
+Golden King Weeping Fig,Ficus benjamina 'Golden King',high
+Kinky Weeping Fig,Ficus benjamina 'Kinky',high
+Natasja Dwarf Weeping Fig,Ficus benjamina 'Natasja',high
 Variegated weeping fig,Ficus benjamina 'Starlight',high
+Too Little Ficus,Ficus benjamina 'Too Little',high
+Twilight Weeping Fig,Ficus benjamina 'Twilight',high
 Willow Leaf Fig,Ficus binnendijkii,high
 Edible Fig,Ficus carica,very_high
 Brown Turkey Fig,Ficus carica 'Brown Turkey',high
+Chicago Hardy Fig,Ficus carica 'Chicago Hardy',very_high
+Fignomenal Dwarf Fig,Ficus carica 'Fignomenal',very_high
+Little Miss Figgy Fig,Ficus carica 'Little Miss Figgy',very_high
+Petite Negra Fig,Ficus carica 'Petite Negra',very_high
 African Fig Tree,Ficus cyathistipula,high
 Highland Breadfruit Fig,Ficus dammaropsis,high
 Mistletoe Fig,Ficus deltoidea,high
@@ -1090,52 +1476,79 @@ Abidjan Rubber Plant,Ficus elastica 'Abidjan',high
 Belize Rubber Plant,Ficus elastica 'Belize',high
 Burgundy Rubber Tree,Ficus elastica 'Burgundy',high
 Decora Rubber Plant,Ficus elastica 'Decora',high
+Melany Rubber Plant,Ficus elastica 'Melany',high
 Robusta Rubber Plant,Ficus elastica 'Robusta',high
 Ruby Rubber Plant,Ficus elastica 'Ruby',high
 Schrijveriana Rubber Plant,Ficus elastica 'Schrijveriana',high
 Variegated Rubber Tree,Ficus elastica 'Tineke',high
 Fiddle leaf fig,Ficus lyrata,high
 Bambino Fiddle Leaf Fig,Ficus lyrata 'Bambino',high
+Little Sunshine Fiddle Leaf Fig,Ficus lyrata 'Little Sunshine',high
+Variegated Fiddle Leaf Fig,Ficus lyrata 'Variegata',high
 Banana-Leaf Fig,Ficus maclellandii,high
 Alii fig (banana-leaf / long-leaf fig),Ficus maclellandii 'Alii',high
+Amstel King Fig,Ficus maclellandii 'Amstel King',high
 Moreton Bay Fig,Ficus macrophylla,high
 Indian Laurel Fig,Ficus microcarpa,high
 Ginseng ficus (ginseng fig bonsai),Ficus microcarpa 'Ginseng',high
+Green Island Ficus,Ficus microcarpa 'Green Island',high
+Moclame Indian Laurel Fig,Ficus microcarpa 'Moclame',high
 Natal Fig,Ficus natalensis,high
 Willow leaf fig / Mexican fig,Ficus nerifolia,high
 Rock Fig,Ficus petiolaris,high
 Creeping Fig,Ficus pumila,medium
-Oakleaf Creeping Fig,Ficus pumila 'Quercifolia',medium
+Arina Creeping Fig,Ficus pumila 'Arina',medium
+Bellus Creeping Fig,Ficus pumila 'Bellus',medium
+Curly Creeping Fig,Ficus pumila 'Curly',medium
+Dorty Creeping Fig,Ficus pumila 'Dorty',medium
+Miniature Creeping Fig,Ficus pumila 'Minima',medium
+String of Frogs / Oakleaf Creeping Fig,Ficus pumila 'Quercifolia',medium
 Variegated creeping fig,Ficus pumila 'Snowflake',medium
+White Sunny Creeping Fig,Ficus pumila 'White Sunny',medium
 Spotted Creeping Fig,Ficus punctata,medium
-Variegated Creeping Fig,Ficus radicans,medium
 Sacred Fig,Ficus religiosa,high
 Tiger bark ficus / Taiwan ficus,Ficus retusa,high
 Port Jackson Fig,Ficus rubiginosa,high
 Rooting Fig,Ficus sagittata,medium
+Variegated Trailing Fig,Ficus sagittata 'Variegata',medium
 Willow leaf ficus,Ficus salicaria,high
-String of Frogs,Ficus thunbergii,medium
 Tikoua Fig,Ficus tikoua,medium
 Triangle Fig,Ficus triangularis,high
 Variegated triangle-leaf fig,Ficus triangularis 'Variegata',high
 Umbrella Fig,Ficus umbellata,high
+Blueberry Leaf Fig,Ficus vaccinioides,high
 Common Red-stem Fig,Ficus variegata,high
 Vasta Fig,Ficus vasta,high
 Villous Fig,Ficus villosa,medium
 Nerve plant,Fittonia albivenis,medium
+Angel Snow Nerve Plant,Fittonia albivenis 'Angel Snow',medium
 White Nerve Plant,Fittonia albivenis 'Argyroneura',medium
 Black Star nerve plant,Fittonia albivenis 'Black Star',medium
+Fortissimo Nerve Plant,Fittonia albivenis 'Fortissimo',medium
 Frankie Nerve Plant,Fittonia albivenis 'Frankie',medium
 Josan Nerve Plant,Fittonia albivenis 'Josan',medium
+Juanita Nerve Plant,Fittonia albivenis 'Juanita',medium
 Nerve Plant (Mini White),Fittonia albivenis 'Mini White',medium
 Pink Angel Nerve Plant,Fittonia albivenis 'Pink Angel',medium
-Pink Nerve Plant,Fittonia albivenis 'Pink Forest Flame',medium
+Pink Forest Flame Nerve Plant,Fittonia albivenis 'Pink Forest Flame',medium
+Pink Star Nerve Plant,Fittonia albivenis 'Pink Star',medium
 Red Anne nerve plant,Fittonia albivenis 'Red Anne',medium
+Red Star Nerve Plant,Fittonia albivenis 'Red Star',medium
+Ruby Red Nerve Plant,Fittonia albivenis 'Ruby Red',medium
+Ruby Nerve Plant,Fittonia albivenis 'Ruby',medium
+Skeleton Nerve Plant,Fittonia albivenis 'Skeleton',medium
+Stripes Forever Nerve Plant,Fittonia albivenis 'Stripes Forever',medium
 Superba Nerve Plant,Fittonia albivenis 'Superba',medium
 White Anne nerve plant,Fittonia albivenis 'White Anne',medium
+White Star Nerve Plant,Fittonia albivenis 'White Star',medium
+White Tiger Nerve Plant,Fittonia albivenis 'White Tiger',medium
 Bronze Fennel,Foeniculum vulgare 'Purpureum',very_high
+Mara des Bois Strawberry,Fragaria × ananassa 'Mara des Bois',high
+Ozark Beauty Strawberry,Fragaria × ananassa 'Ozark Beauty',high
 Strawberry,Fragaria ananassa,high
+Albion Strawberry,Fragaria ananassa 'Albion',high
 Woodland Strawberry,Fragaria vesca,medium
+Alexandria Alpine Strawberry,Fragaria vesca 'Alexandria',medium
 Dwarf frailea,Frailea castanea,high
 Cataphract frailea,Frailea cataphracta,very_high
 Pygmy frailea,Frailea pygmaea,high
@@ -1144,6 +1557,11 @@ Common Freesia,Freesia refracta,high
 Florist's freesia,Freesia x hybrida,high
 Crown imperial,Fritillaria imperialis,high
 Snake's head fritillary,Fritillaria meleagris,medium
+Dark Eyes Fuchsia,Fuchsia 'Dark Eyes',medium
+Dollar Princess Fuchsia,Fuchsia 'Dollar Princess',medium
+Marinka Fuchsia,Fuchsia 'Marinka',medium
+Swingtime Fuchsia,Fuchsia 'Swingtime',medium
+Winston Churchill Fuchsia,Fuchsia 'Winston Churchill',medium
 Bolivian fuchsia,Fuchsia boliviana,medium
 Brilliant fuchsia,Fuchsia fulgens,medium
 Hardy fuchsia,Fuchsia magellanica,medium
@@ -1154,8 +1572,16 @@ Mauritius hemp,Furcraea foetida,high
 Bauer's Galeandra,Galeandra baueri,high
 Hawaiian gardenia,Gardenia brighamii,high
 Gardenia,Gardenia jasminoides,high
+August Beauty Gardenia,Gardenia jasminoides 'August Beauty',high
+Kleim's Hardy Gardenia,Gardenia jasminoides 'Kleim's Hardy',high
+Mystery Gardenia,Gardenia jasminoides 'Mystery',high
+Radicans Gardenia,Gardenia jasminoides 'Radicans',high
+Everblooming Gardenia,Gardenia jasminoides 'Veitchii',high
 Tahitian gardenia,Gardenia taitensis,high
 White gardenia,Gardenia thunbergia,high
+Flow Gasteraloe,Gasteraloe 'Flow',medium
+Green Ice Gasteraloe,Gasteraloe 'Green Ice',medium
+Royal Highness Gasteraloe,Gasteraloe 'Royal Highness',medium
 Little Warty Gasteria,Gasteria 'Little Warty',high
 Dune Gasteria,Gasteria acinacifolia,medium
 Gasteria batesiana,Gasteria batesiana,medium
@@ -1171,19 +1597,25 @@ Prickly Heath,Gaultheria mucronata,high
 Wintergreen,Gaultheria procumbens,medium
 Treasure flower (gazania),Gazania rigens,high
 Seersucker Plant,Geogenanthus poeppigii,medium
+Garvinea Sweet Glow Gerbera,Gerbera 'Sweet Glow',high
 Pin cushion gerbera,Gerbera ambigua,high
 Hilton daisy,Gerbera aurantiaca,high
 Gerbera Daisy,Gerbera jamesonii,high
 Green-leaved gerbera,Gerbera viridifolia,high
 Bridal Veil Plant,Gibasis pellucida,medium
+Ginkgo / Maidenhair Tree,Ginkgo biloba,high
 Glory Lily,Gloriosa superba,high
 Calathea Beauty Star,Goeppertia 'Beauty Star',medium
 Calathea Flamestar,Goeppertia 'Flamestar',medium
 Calathea Misto,Goeppertia 'Misto',medium
+Pink Star Calathea,Goeppertia 'Pink Star',medium
+Stella Calathea,Goeppertia 'Stella',medium
 Calathea White Fusion,Goeppertia 'White Fusion',medium
 Goeppertia bachemiana,Goeppertia bachemiana,medium
 Calathea Freddie,Goeppertia concinna,medium
 Eternal Flame Plant,Goeppertia crocata,medium
+Candela Eternal Flame Calathea,Goeppertia crocata 'Candela',medium
+Helen Kennedy Calathea,Goeppertia dressleri 'Helen Kennedy',medium
 Calathea Vittata,Goeppertia elliptica,medium
 Calathea Eximia,Goeppertia eximia,medium
 Calathea Fasciata,Goeppertia fasciata,medium
@@ -1191,11 +1623,12 @@ Blue Grass Calathea,Goeppertia fucata,medium
 Network Calathea,Goeppertia kegeljanii,medium
 Calathea Network,Goeppertia kegeljanii 'Network',medium
 Leopard Calathea,Goeppertia leopardina,medium
-Calathea White Fusion,Goeppertia lietzei,medium
+Calathea Lietzei,Goeppertia lietzei,medium
 Calathea Yellow Fusion,Goeppertia lietzei 'Yellow Fusion',medium
 Goeppertia loeseneri,Goeppertia loeseneri,medium
-Calathea Maui Queen,Goeppertia louisae,medium
+Calathea Louisae,Goeppertia louisae,medium
 Calathea 'Maui Queen',Goeppertia louisae 'Maui Queen',medium
+Thai Beauty Calathea,Goeppertia louisae 'Thai Beauty',medium
 White Star Calathea,Goeppertia majestica,medium
 Peacock Plant,Goeppertia makoyana,medium
 Mini Maranta Calathea,Goeppertia micans,medium
@@ -1209,16 +1642,22 @@ Calathea Dottie,Goeppertia roseopicta 'Dottie',medium
 Calathea Medallion,Goeppertia roseopicta 'Medallion',medium
 Calathea Princess Jessie,Goeppertia roseopicta 'Princess Jessie',medium
 Calathea Rosy,Goeppertia roseopicta 'Rosy',medium
+Calathea Silvia,Goeppertia roseopicta 'Silvia',medium
 Furry Feather Calathea,Goeppertia rufibarba,medium
+Wavestar Calathea,Goeppertia rufibarba 'Wavestar',medium
 Calathea Sanderiana,Goeppertia sanderiana,medium
 Wavy-Leaf Calathea,Goeppertia undulata,medium
 Calathea Veitchiana,Goeppertia veitchiana,medium
 Velvet Calathea,Goeppertia warscewiczii,medium
 Calathea Wiotii,Goeppertia wiotii,medium
+Zebra Calathea,Goeppertia zebrina,medium
 Globe Amaranth,Gomphrena globosa,high
 Helmeted Gongora,Gongora galeata,medium
 Tiger Aloe / Partridge Breast Aloe,Gonialoe variegata,high
+Caterpillar Fern,Goniophlebium formosanum,medium
+E.T. Fern,Goniophlebium formosanum 'Cristatum',medium
 Scribbled Grammatophyllum,Grammatophyllum scriptum,high
+Murasaki Graptopetalum,Graptopetalum 'Murasaki',very_high
 Lavender Pebbles,Graptopetalum amethystinum,very_high
 Beautiful Graptopetalum,Graptopetalum bellum,very_high
 Filifera Graptopetalum,Graptopetalum filiferum,very_high
@@ -1229,16 +1668,29 @@ Pink Ghost Plant,Graptopetalum pentandrum,very_high
 San Francisco River Leatherpetal,Graptopetalum rusbyi,very_high
 Beautiful Graptopetalum,Graptopetalum superbum,very_high
 Caricature plant,Graptophyllum pictum,high
+Alpenglow Graptosedum,Graptosedum 'Alpenglow',very_high
 California Sunset,Graptosedum 'California Sunset',very_high
+Francesco Baldi Graptosedum,Graptosedum 'Francesco Baldi',very_high
 Debbie Graptoveria,Graptoveria 'Debbie',very_high
 Fred Ives Graptoveria,Graptoveria 'Fred Ives',very_high
+Moonglow Graptoveria,Graptoveria 'Moonglow',very_high
+Opalina Graptoveria,Graptoveria 'Opalina',very_high
 Porcelain Plant,Graptoveria 'Titubans',very_high
 Rose succulent,Greenovia dodrantalis,high
+Lavender Star Flower,Grewia occidentalis,high
 Orange Guarianthe,Guarianthe aurantiaca,high
 Skinner's Cattleya,Guarianthe skinneri,high
+Hope Guzmania,Guzmania 'Durahop',medium
+Hilda Guzmania,Guzmania 'Hilda',medium
+Jazz Guzmania,Guzmania 'Jazz',medium
+Luna Guzmania,Guzmania 'Luna',medium
+Ostara Guzmania,Guzmania 'Ostara',medium
+Rana Guzmania,Guzmania 'Rana',medium
 Cone-headed Guzmania,Guzmania conifera,medium
 Loose-flowered Guzmania,Guzmania dissitiflora,medium
 Scarlet Star,Guzmania lingulata,medium
+Intro Guzmania,Guzmania lingulata 'Intro',medium
+Tempo Guzmania,Guzmania lingulata 'Tempo',medium
 West Indian Tufted Airplant,Guzmania monostachia,medium
 Mosaic Vase Plant,Guzmania musaica,medium
 Guzmania sanguinea,Guzmania sanguinea,medium
@@ -1251,7 +1703,6 @@ Spider Cactus,Gymnocalycium denudatum,high
 Gibbous Chin Cactus,Gymnocalycium gibbosum,high
 Sea-green chin cactus,Gymnocalycium horstii,high
 Chin Cactus,Gymnocalycium mihanovichii,high
-Moon Cactus,Gymnocalycium mihanovichii friedrichii,high
 Moon cactus (grafted Hibotan),Gymnocalycium mihanovichii var. friedrichii,high
 Pflanz's chin cactus,Gymnocalycium pflanzii,high
 Rotund chin cactus,Gymnocalycium quehlianum,high
@@ -1259,8 +1710,12 @@ Ragged chin cactus,Gymnocalycium ragonesei,high
 Saglione's chin cactus,Gymnocalycium saglionis,high
 Five-leaf ginseng,Gynostemma pentaphyllum,medium
 Purple Passion Plant,Gynura aurantiaca,high
+Variegated Purple Passion Plant,Gynura aurantiaca 'Variegata',high
 Japanese forest grass,Hakonechloa macra,medium
+All Gold Japanese Forest Grass,Hakonechloa macra 'All Gold',medium
+Golden Variegated Japanese Forest Grass,Hakonechloa macra 'Aureola',medium
 Catclaw Cactus,Hamatocactus uncinatus,very_high
+Purple Coral Pea / Australian Lilac,Hardenbergia violacea,high
 Easter Cactus,Hatiora gaertneri,medium
 Drunkard's Dream,Hatiora salicornioides,high
 Spiderweb Haworthia,Haworthia arachnoidea,medium
@@ -1277,9 +1732,12 @@ Springbok Haworthia,Haworthia springbokvlakensis,medium
 Horse's Teeth,Haworthia truncata,medium
 Turgid Haworthia,Haworthia turgida,medium
 Zebra haworthia,Haworthiopsis attenuata,high
+Concolor Zebra Plant,Haworthiopsis attenuata 'Concolor',high
 Coarctate Haworthia,Haworthiopsis coarctata,medium
-Zebra Haworthia / Zebra Plant,Haworthiopsis fasciata,medium
+Zebra Haworthia (Fasciata),Haworthiopsis fasciata,medium
+Big Band Zebra Plant,Haworthiopsis fasciata 'Big Band',medium
 Super White Zebra Haworthia,Haworthiopsis fasciata 'Super White',medium
+Blue Haworthia,Haworthiopsis glauca,high
 Fairy Washboard,Haworthiopsis limifolia,medium
 Black Haworthia,Haworthiopsis nigra,medium
 Pearl Plant,Haworthiopsis pumila,high
@@ -1295,11 +1753,13 @@ English ivy,Hedera helix,medium
 Eva English Ivy,Hedera helix 'Eva',medium
 Glacier English Ivy,Hedera helix 'Glacier',medium
 Gold Child Ivy,Hedera helix 'Gold Child',medium
+Gold Dust Ivy,Hedera helix 'Gold Dust',medium
 Ivalace Ivy,Hedera helix 'Ivalace',medium
 Mint Kolibri Ivy,Hedera helix 'Mint Kolibri',medium
 Needlepoint Ivy,Hedera helix 'Needlepoint',medium
 Goldheart Ivy,Hedera helix 'Oro di Bogliasco',medium
 Pittsburgh Ivy,Hedera helix 'Pittsburgh',medium
+Yellow Ripple Ivy,Hedera helix 'Yellow Ripple',medium
 Atlantic Ivy,Hedera hibernica,medium
 Sun pitcher (heliamphora),Heliamphora minor,very_high
 Marsh pitcher plant,Heliamphora nutans,high
@@ -1309,19 +1769,37 @@ Maximilian sunflower,Helianthus maximiliani,very_high
 Jerusalem Artichoke,Helianthus tuberosus,very_high
 Curry Plant,Helichrysum italicum,very_high
 Licorice plant,Helichrysum petiolare,very_high
+Parrot's Heliconia,Heliconia psittacorum,high
 Garden heliotrope,Heliotropium arborescens,high
 Christmas rose,Helleborus niger,medium
+Christmas Carol Christmas Rose,Helleborus niger 'Christmas Carol',medium
 Purple Waffle Plant,Hemigraphis alternata,medium
 Heart Fern,Hemionitis arifolia,medium
 Umbrella tree,Heptapleurum actinophyllum,medium
-Hawaiian umbrella tree,Heptapleurum arboricola,medium
+Alpine Schefflera,Heptapleurum alpinum,high
 Gold Capella Umbrella Tree,Heptapleurum arboricola 'Gold Capella',medium
-Variegated Dwarf Umbrella Tree,Heptapleurum arboricola 'Variegata',high
+Red Yucca,Hesperaloe parviflora,very_high
+Obsidian Coral Bells,Heuchera 'Obsidian',medium
 Palace Purple Coral Bells,Heuchera 'Palace Purple',medium
 Coral Bells,Heuchera sanguinea,medium
 Cranberry hibiscus,Hibiscus acetosella,high
 Chinese Hibiscus,Hibiscus rosa-sinensis,high
+Brilliant Hibiscus,Hibiscus rosa-sinensis 'Brilliant',high
+Fiesta Hibiscus,Hibiscus rosa-sinensis 'Fiesta',high
+Hula Girl Hibiscus,Hibiscus rosa-sinensis 'Hula Girl',high
+Painted Lady Hibiscus,Hibiscus rosa-sinensis 'Painted Lady',high
+Snow Queen Hibiscus,Hibiscus rosa-sinensis 'Snow Queen',high
+The Path Hibiscus,Hibiscus rosa-sinensis 'The Path',high
 Japanese lantern hibiscus,Hibiscus schizopetalus,high
+Apple Blossom Amaryllis,Hippeastrum 'Apple Blossom',high
+Christmas Gift Amaryllis,Hippeastrum 'Christmas Gift',high
+Clown Amaryllis,Hippeastrum 'Clown',high
+Exotic Star Amaryllis,Hippeastrum 'Exotic Star',high
+Ferrari Amaryllis,Hippeastrum 'Ferrari',high
+Minerva Amaryllis,Hippeastrum 'Minerva',high
+Picasso Amaryllis,Hippeastrum 'Picasso',high
+Red Lion Amaryllis,Hippeastrum 'Red Lion',high
+Samba Amaryllis,Hippeastrum 'Samba',high
 Spider amaryllis,Hippeastrum cybister,high
 Amaryllis,Hippeastrum hybridum,high
 Papilio amaryllis,Hippeastrum papilio,high
@@ -1335,15 +1813,22 @@ Emerald Gem,Homalomena lindenii,medium
 Trailing Homalomena,Homalomena pendula,medium
 Red Shield Homalomena,Homalomena rubescens,medium
 Silver Shield,Homalomena wallisii,medium
+Blue Mouse Ears Hosta,Hosta 'Blue Mouse Ears',low
+Patriot Hosta,Hosta 'Patriot',low
 Curly Palm,Howea belmoreana,medium
 Kentia Palm,Howea forsteriana,medium
 Hoya Mathilde,Hoya 'Mathilde',high
 Hoya Minibelle,Hoya 'Minibelle',high
+Hoya Rebecca,Hoya 'Rebecca',high
 Hoya Rosita,Hoya 'Rosita',high
+Hoya 'Sea Stones',Hoya 'Sea Stones',high
+Hoya Sunrise,Hoya 'Sunrise',high
 Hoya Australis,Hoya australis,high
 Hoya Lisa,Hoya australis 'Lisa',high
 Wax Flower Hoya,Hoya bella,high
 Bilobata hoya,Hoya bilobata,medium
+Hoya Brevialata,Hoya brevialata,high
+Burton's Hoya,Hoya burtoniae,high
 Callistophylla Hoya,Hoya callistophylla,high
 Wax plant (Hoya),Hoya carnosa,high
 Hoya Chelsea,Hoya carnosa 'Chelsea',high
@@ -1353,43 +1838,85 @@ Hindu Rope Plant,Hoya carnosa 'Compacta',high
 Krimson Princess Hoya,Hoya carnosa 'Krimson Princess',high
 Wax Plant Krinkle Kurl,Hoya carnosa 'Krinkle 8',high
 Krimson Queen (Tricolor) Wax Plant,Hoya carnosa 'Tricolor',high
+Hoya Caudata,Hoya caudata,high
+Vietnamese Wax Plant,Hoya crassipetiolata,high
 Cumingiana Hoya,Hoya cumingiana,high
 Hoya Curtisii,Hoya curtisii,high
+Hoya Elliptica,Hoya elliptica,high
 Finlaysonii Hoya,Hoya finlaysonii,high
+Hoya Fungii,Hoya fungii,high
+Hoya Heuschkeliana,Hoya heuschkeliana,high
 Imbricate Hoya,Hoya imbricata,high
+Narrow-Leaf Hoya,Hoya kentiana,high
 Sweetheart Hoya,Hoya kerrii,high
+Reverse Variegated Sweetheart Hoya,Hoya kerrii 'Reverse Variegata',high
+Splash Sweetheart Hoya,Hoya kerrii 'Splash',high
 Heartleaf Hoya / Sweetheart Vine,Hoya kerrii 'Variegata',high
 Hoya Krohniana,Hoya krohniana,high
+Hoya Eskimo,Hoya krohniana 'Eskimo',high
 Hoya Lacunosa,Hoya lacunosa,high
+Royal Flush Hoya,Hoya lacunosa 'Royal Flush',high
+Snow Caps Hoya,Hoya lacunosa 'Snow Caps',high
 Dinner Plate Hoya,Hoya latifolia,high
+Pot of Gold Hoya,Hoya latifolia 'Pot of Gold',high
 Hoya Linearis,Hoya linearis,high
 Hoya Macrophylla,Hoya macrophylla,high
 Hoya Albomarginata,Hoya macrophylla 'Albomarginata',high
+Hoya Memoria (Gracilis),Hoya memoria,high
+Hoya Mindorensis,Hoya mindorensis,high
 Hoya Multiflora (Shooting Star),Hoya multiflora,high
+Hoya Nummularioides,Hoya nummularioides,high
 Hoya Obovata,Hoya obovata,high
+Variegated Hoya Obovata,Hoya obovata 'Variegata',high
+Hoya Obscura,Hoya obscura,high
+Fragrant Wax Plant,Hoya odorata,high
 Pachyclada Hoya,Hoya pachyclada,high
+Small-Flowered Hoya,Hoya parviflora,high
 Fishtail hoya,Hoya polyneura,medium
+Fuzzy Hoya,Hoya puber,high
 Wax Flower Hoya,Hoya pubicalyx,high
+Red Button Hoya,Hoya pubicalyx 'Red Button',high
 Hoya Royal Hawaiian Purple,Hoya pubicalyx 'Royal Hawaiian Purple',high
+Hoya Pubicalyx Splash,Hoya pubicalyx 'Splash',high
 Hoya Retusa,Hoya retusa,high
+Hoya Serpens,Hoya serpens,medium
 String Bean Hoya,Hoya shepherdii,high
 Sigillatis Hoya,Hoya sigillatis,high
-Hoya Sunrise,Hoya sunrise,high
+Hoya Acuta (Parasitica),Hoya verticillata,high
+Black Margin Hoya,Hoya verticillata 'Black Margin',high
 Bird's Nest Hoya,Hoya wayetii,high
+Hoya Wayetii Tricolor,Hoya wayetii 'Tricolor',high
+Red Dragon Flower,Huernia schneideriana,high
 Lifesaver Plant,Huernia zebrina,high
 Guineafowl Orchid,Huntleya meleagris,low
 Roaring Meg / Brazilian tassel fern,Huperzia phlegmaria,medium
 Tassel fern,Huperzia squarrosa,medium
 Dutch hyacinth,Hyacinthus orientalis,high
+Carnegie Hyacinth,Hyacinthus orientalis 'Carnegie',high
+Delft Blue Hyacinth,Hyacinthus orientalis 'Delft Blue',high
+Jan Bos Hyacinth,Hyacinthus orientalis 'Jan Bos',high
+Pink Pearl Hyacinth,Hyacinthus orientalis 'Pink Pearl',high
 Bigleaf hydrangea,Hydrangea macrophylla,medium
+Endless Summer The Original Hydrangea,Hydrangea macrophylla 'Bailmer',medium
+Bobo Panicle Hydrangea,Hydrangea paniculata 'Ilvobo',high
+Little Lime Hydrangea,Hydrangea paniculata 'Jane',high
 Limelight Hydrangea,Hydrangea paniculata 'Limelight',high
+Back in Black Stonecrop,Hylotelephium 'Back in Black',high
+Dazzleberry Stonecrop,Hylotelephium 'Dazzleberry',high
+Lime Zinger Stonecrop,Hylotelephium 'Lime Zinger',high
+Matrona Stonecrop,Hylotelephium 'Matrona',high
+Purple Emperor Stonecrop,Hylotelephium telephium 'Purple Emperor',high
 Bottle Palm,Hyophorbe lagenicaulis,high
+Spindle Palm,Hyophorbe verschaffeltii,high
 Polka dot plant,Hypoestes phyllostachya,medium
 Confetti Polka Dot Plant,Hypoestes phyllostachya 'Confetti',medium
 Pink Polka Dot Plant,Hypoestes phyllostachya 'Pink Splash',medium
 Red Polka Dot Plant,Hypoestes phyllostachya 'Red Splash',medium
+Rose Splash Polka Dot Plant,Hypoestes phyllostachya 'Rose Splash',medium
+Polka Dot Plant,Hypoestes phyllostachya 'Splash Pink',medium
 White Polka Dot Plant,Hypoestes phyllostachya 'White Splash',medium
 Yerba mate,Ilex paraguariensis,high
+SunPatiens Compact Orange Impatiens,Impatiens 'SunPatiens Compact Orange',medium
 Garden Balsam,Impatiens balsamina,high
 New Guinea impatiens,Impatiens hawkeri,medium
 Congo Cockatoo,Impatiens niamniamensis,medium
@@ -1398,31 +1925,46 @@ Poor Man's Rhododendron,Impatiens sodenii,medium
 Busy Lizzie impatiens,Impatiens walleriana,medium
 Japanese Blood Grass,Imperata cylindrica 'Rubra',high
 Elecampane,Inula helenium,high
+Moonflower,Ipomoea alba,high
 Sweet Potato,Ipomoea batatas,high
 Black Sweet Potato Vine,Ipomoea batatas 'Blackie',high
 Chartreuse Sweet Potato Vine,Ipomoea batatas 'Marguerite',high
+Spanish Flag,Ipomoea lobata,very_high
 Common morning glory,Ipomoea purpurea,high
+Cypress Vine,Ipomoea quamoclit,very_high
+Heavenly Blue Morning Glory,Ipomoea tricolor 'Heavenly Blue',high
 Bloodleaf,Iresine herbstii,high
 Linden's Bloodleaf,Iresine lindenii,high
+Katharine Hodgkin Dwarf Iris,Iris 'Katharine Hodgkin',high
 Reticulated iris,Iris reticulata,high
+Harmony Dwarf Iris,Iris reticulata 'Harmony',high
 Fiber Optic Grass,Isolepis cernua,high
 Blue Star Laurentia,Isotoma axillaris,high
 Ixora,Ixora coccinea,high
+Nora Grant Ixora,Ixora coccinea 'Nora Grant',high
 Dusty miller,Jacobaea maritima,high
 Spanish jasmine,Jasminum grandiflorum,high
-Star jasmine,Jasminum multiflorum,high
+Downy Jasmine,Jasminum multiflorum,high
 Common jasmine,Jasminum officinale,high
 Pink Jasmine,Jasminum polyanthum,high
 Arabian Jasmine,Jasminum sambac,high
+Belle of India Arabian Jasmine,Jasminum sambac 'Belle of India',high
+Grand Duke of Tuscany Arabian Jasmine,Jasminum sambac 'Grand Duke of Tuscany',high
+Maid of Orleans Arabian Jasmine,Jasminum sambac 'Maid of Orleans',high
+Peregrina / Spicy Jatropha,Jatropha integerrima,high
 Buddha Belly Plant,Jatropha podagrica,high
 Arrow Jumellea,Jumellea sagittata,medium
 Corkscrew Rush,Juncus effusus 'Spiralis',high
+Hard Rush,Juncus inflexus,high
+Blue Mohawk Rush,Juncus inflexus 'Blue Mohawk',high
 Japanese Garden Juniper,Juniperus procumbens,high
+Green Mound Juniper / Dwarf Japanese Garden Juniper,Juniperus procumbens 'Nana',high
 Blue Star Juniper,Juniperus squamata 'Blue Star',high
 Justicia Plume Flower,Justicia aurea,high
 Shrimp Plant,Justicia brandegeeana,high
 Flamingo Plant,Justicia carnea,medium
 Felt Bush / Velvet Leaf,Kalanchoe beharensis,high
+Fang Kalanchoe (Fang Felt Bush),Kalanchoe beharensis 'Fang',high
 Flaming Katy / Florist Kalanchoe,Kalanchoe blossfeldiana,high
 Calandiva Kalanchoe,Kalanchoe blossfeldiana 'Calandiva',high
 Silver teaspoons,Kalanchoe bracteata,very_high
@@ -1437,14 +1979,17 @@ Pink Butterflies Kalanchoe,Kalanchoe houghtonii 'Pink Butterflies',very_high
 Desert surprise,Kalanchoe humilis,high
 Cutleaf Kalanchoe,Kalanchoe laciniata,high
 Christmas tree plant,Kalanchoe laetivirens,high
+Milky Widow's Thrill,Kalanchoe laxiflora,high
 Long-flowered kalanchoe,Kalanchoe longiflora,high
 Paddle Plant / Flapjacks,Kalanchoe luciae,very_high
+Variegated Paddle Plant (Fantastic Kalanchoe),Kalanchoe luciae 'Fantastic',very_high
 Chandelier flowers,Kalanchoe manginii,high
 Pearl bluff kalanchoe,Kalanchoe marmorata,high
+Marnier's Kalanchoe,Kalanchoe marnieriana,high
 Millot kalanchoe,Kalanchoe millotii,high
 Beaver tail,Kalanchoe nyikae,very_high
 Cup Kalanchoe / Copper Spoons,Kalanchoe orgyalis,high
-Cup kalanchoe,Kalanchoe pinnata,high
+Cathedral Bells / Miracle Leaf,Kalanchoe pinnata,high
 Blooming boxes,Kalanchoe prolifera,high
 Flower dust plant,Kalanchoe pumila,high
 Pies from heaven,Kalanchoe rhombopilosa,high
@@ -1453,42 +1998,63 @@ Walking kalanchoe,Kalanchoe synsepala,high
 Paddle plant,Kalanchoe thyrsiflora,high
 Panda Plant,Kalanchoe tomentosa,high
 Chocolate Soldier Panda Plant,Kalanchoe tomentosa 'Chocolate Soldier',high
+Teddy Bear Panda Plant,Kalanchoe tomentosa 'Teddy Bear',high
 Mountain Laurel,Kalmia latifolia,high
 Kleinia grantii,Kleinia grantii,very_high
+Canary Island Candle Plant,Kleinia neriifolia,very_high
+Longwood Kohleria,Kohleria 'Longwood',medium
 Tree gloxinia,Kohleria eriantha,medium
 Cape cowslip,Lachenalia aloides,high
 Lachenalia bulbifera,Lachenalia bulbifera,high
 Lettuce,Lactuca sativa,high
+Buttercrunch Lettuce,Lactuca sativa 'Buttercrunch',high
 Curly lettuce,Lactuca sativa 'Crispa',very_high
+Little Gem Lettuce,Lactuca sativa 'Little Gem',high
 Lollo Rosso Lettuce,Lactuca sativa 'Lollo Rosso',high
+Tom Thumb Lettuce,Lactuca sativa 'Tom Thumb',high
 Two-edged Laelia,Laelia anceps,high
 Purple Laelia,Laelia purpurata,high
 Dusky Laelia,Laelia tenebrosa,high
 Spotted Deadnettle,Lamium maculatum,medium
 Lantana,Lantana camara,very_high
+Bandana Cherry Lantana,Lantana camara 'Bandana Cherry',very_high
+Luscious Berry Blend Lantana,Lantana camara 'Luscious Berry Blend',very_high
 Trailing lantana,Lantana montevidensis,very_high
+Karoo Rose,Lapidaria margaretae,very_high
+Red Latan Palm,Latania lontaroides,high
 Sweet pea,Lathyrus odoratus,high
+Pink Cupid Patio Sweet Pea,Lathyrus odoratus 'Pink Cupid',high
 Bay Laurel,Laurus nobilis,high
 English Lavender,Lavandula angustifolia,very_high
+Hidcote English Lavender,Lavandula angustifolia 'Hidcote',very_high
+Munstead English Lavender,Lavandula angustifolia 'Munstead',very_high
 French Lavender,Lavandula dentata,very_high
 Lavandin,Lavandula intermedia,very_high
+Phenomenal Lavender,Lavandula intermedia 'Phenomenal',very_high
 Portuguese Lavender,Lavandula latifolia,very_high
 French Lavender,Lavandula stoechas,very_high
+Silver Squill,Ledebouria socialis,high
 Bicton Orchid,Lemboglossum bictoniense,medium
 Green Penny Fern,Lemmaphyllum microphyllum,medium
 Lepanthopsis astrophora,Lepanthopsis astrophora,medium
 Hurricane Cactus,Lepismium cruciforme,high
 Manuka,Leptospermum scoparium,high
 Shasta Daisy,Leucanthemum superbum,high
+Agave Cactus,Leuchtenbergia principis,very_high
 Cushion moss / pillow moss,Leucobryum glaucum,low
 Cushion bush,Leucophyta brownii,very_high
 Drooping Laurel,Leucothoe fontanesiana,medium
 Siskiyou Lewisia,Lewisia cotyledon,very_high
 Ruffled Fan Palm,Licuala grandis,medium
+Sumawong's Fan Palm,Licuala peltata,medium
+Oval-leaf Privet,Ligustrum ovalifolium,high
 Fire Lily,Lilium bulbiferum,high
 Easter Lily,Lilium longiflorum,high
 Nerved Twayblade,Liparis nervosa,low
+Mexican Oregano,Lippia origanoides,very_high
 Lilyturf,Liriope muscari,medium
+Big Blue Lilyturf,Liriope muscari 'Big Blue',medium
+Variegated Lilyturf,Liriope muscari 'Variegata',medium
 Pebble Plant,Lithops aucampiae,very_high
 Bromfield's Living Stone,Lithops bromfieldii,very_high
 Dorothy's Living Stone,Lithops dorotheae,very_high
@@ -1500,6 +2066,7 @@ Split Rock / Living Stones,Lithops karasmontana,very_high
 Living Stones,Lithops lesliei,very_high
 Marble Living Stone,Lithops marmorata,very_high
 Optica Living Stone,Lithops optica,very_high
+Rubra Living Stone,Lithops optica 'Rubra',very_high
 Truncate Living Stone,Lithops pseudotruncatella,very_high
 Salt-dwelling Living Stone,Lithops salicola,very_high
 Villet's Living Stone,Lithops villetii,very_high
@@ -1511,19 +2078,25 @@ Sweet alyssum,Lobularia maritima,high
 Braided Orchid,Lockhartia oerstedii,medium
 Spiny-headed Mat-rush,Lomandra longifolia,high
 Common Honeysuckle,Lonicera periclymenum,high
+Rhubarb and Custard Honeysuckle,Lonicera periclymenum 'Rhubarb and Custard',high
 False peyote,Lophophora diffusa,very_high
 Peyote,Lophophora williamsii,very_high
 Chinese fringe flower,Loropetalum chinense,high
+Fire Dance Chinese Fringe Flower,Loropetalum chinense 'Fire Dance',high
 Parrot's beak,Lotus berthelotii,very_high
 Jewel Orchid,Ludisia discolor,low
+Splenriet Flaming Sword,Lutheria splendens 'Splenriet',medium
 Aromatic Lycaste,Lycaste aromatica,medium
 Skinner's Lycaste,Lycaste skinneri,medium
 Blue potato bush,Lycianthes rantonnetii,high
 Golden Globes,Lysimachia congestiflora,high
 Creeping Jenny,Lysimachia nummularia,high
 Golden jewel orchid,Macodes petola,low
+Banana Shrub,Magnolia figo,high
+Singapore Holly,Malpighia coccigera,high
 Siberian Crab Apple,Malus baccata,high
 Dwarf Apple (patio),Malus domestica,high
+Blushing Delight Columnar Apple,Malus domestica 'Blushing Delight',high
 Turk's Cap Mallow,Malvaviscus arboreus,high
 Backeberg's Pincushion,Mammillaria backebergiana,very_high
 Powder Puff Cactus,Mammillaria bocasana,very_high
@@ -1533,11 +2106,15 @@ Mother of Hundreds,Mammillaria compressa,very_high
 Pincushion Cactus,Mammillaria crinita,very_high
 Bird's Nest Cactus,Mammillaria decipiens subsp. camptotricha,very_high
 Golden Pincushion,Mammillaria elongata,very_high
+Copper King Ladyfinger Cactus,Mammillaria elongata 'Copper King',very_high
 Brain Cactus,Mammillaria elongata cristata,very_high
 Twin Spined Cactus,Mammillaria geminispina,very_high
 Thimble Cactus,Mammillaria gracilis,very_high
+Caterpillar Thimble Cactus,Mammillaria gracilis 'Oruga',very_high
 Mammillaria gracilis fragilis,Mammillaria gracilis fragilis,very_high
 Old Lady Cactus,Mammillaria hahniana,very_high
+Halbinger's Pincushion,Mammillaria halbingeri,very_high
+Finger Cactus,Mammillaria longimamma,very_high
 Mexican Pincushion,Mammillaria magnimamma,very_high
 Thumb Cactus,Mammillaria matudae,very_high
 Owl Eyes Cactus,Mammillaria parkinsonii,very_high
@@ -1551,10 +2128,15 @@ Sphere Pincushion,Mammillaria sphaerica,very_high
 Spiny Pincushion Cactus,Mammillaria spinosissima,very_high
 Un Pico Cactus,Mammillaria spinosissima 'Un Pico',very_high
 Rose Pincushion,Mammillaria zeilmanniana,very_high
+Sun Parasol Giant Crimson Mandevilla,Mandevilla 'Sun Parasol Giant Crimson',high
+Sundaville Red Mandevilla,Mandevilla 'Sundaville Red',high
 White mandevilla,Mandevilla boliviensis,high
 Chilean jasmine,Mandevilla laxa,high
 Brazilian Jasmine,Mandevilla sanderi,high
+Diamantina Opal Yellow Dipladenia,Mandevilla sanderi 'Diamantina Opal Yellow',high
 Pink mandevilla (Brazilian jasmine),Mandevilla splendens,high
+Lavender Lady Mangave,Mangave 'Lavender Lady',high
+Mission to Mars Mangave,Mangave 'Mission to Mars',high
 Mango,Mangifera indica,high
 Garlic vine,Mansoa alliacea,high
 Arrowroot,Maranta arundinacea,medium
@@ -1562,11 +2144,15 @@ Crested Maranta,Maranta cristata,medium
 Prayer plant,Maranta leuconeura,medium
 Fascinator Prayer Plant,Maranta leuconeura 'Fascinator',medium
 Lemon Lime Maranta,Maranta leuconeura 'Lemon Lime',medium
+Light Veins Prayer Plant,Maranta leuconeura 'Light Veins',medium
+Silver Band Prayer Plant,Maranta leuconeura 'Silver Band',medium
 Red Prayer Plant,Maranta leuconeura var. erythroneura,medium
 Green Prayer Plant / Rabbit's Foot Prayer Plant,Maranta leuconeura var. kerchoveana,medium
+Variegated Rabbit's Foot Prayer Plant,Maranta leuconeura var. kerchoveana 'Variegata',medium
 Black Maranta,Maranta leuconeura var. massangeana,medium
 Night-Flowering Maranta,Maranta noctiflora,medium
 Rectangle-leaf Marcgravia,Marcgravia rectiflora,medium
+Rainbow Marcgravia,Marcgravia sintenisii,medium
 Shingle plant Marcgravia,Marcgravia umbellata,medium
 Scarlet Masdevallia,Masdevallia coccinea,low
 Dwarf masdevallia,Masdevallia floribunda,medium
@@ -1586,24 +2172,37 @@ Turk's Cap Cactus,Melocactus matanzanus,very_high
 Cucamelon,Melothria scabra,very_high
 Variegated Ginger Mint,Mentha × gracilis 'Variegata',medium
 Chocolate Mint,Mentha × piperita 'Chocolate',medium
+Orange Mint,Mentha × piperita 'Orange',medium
+Swiss Mint,Mentha × piperita 'Swiss',medium
 Mojito mint,Mentha × villosa,high
+Banana Mint,Mentha arvensis 'Banana',medium
 Peppermint,Mentha piperita,medium
 Pennyroyal,Mentha pulegium,medium
 Corsican Mint,Mentha requienii,medium
 Spearmint,Mentha spicata,medium
+Curly Mint,Mentha spicata 'Crispa',medium
+Kentucky Colonel Spearmint,Mentha spicata 'Kentucky Colonel',medium
+Moroccan Mint,Mentha spicata 'Moroccan',medium
 Apple Mint,Mentha suaveolens,medium
 Pineapple Mint,Mentha suaveolens 'Variegata',medium
 Baby Sun Rose,Mesembryanthemum cordifolium,very_high
+Miniature Asian Violet,Metapetrocosmea tamiana,medium
 Kangaroo Paw Fern,Microsorum diversifolium,medium
 Crocodile Fern,Microsorum musifolium,medium
 Climbing Bird's Nest Fern,Microsorum punctatum,medium
+Dragon's Wing Fern,Microsorum punctatum 'Dragon's Wing',medium
+Crested Fishtail Fern,Microsorum punctatum 'Grandiceps',medium
 Wart Fern,Microsorum scolopendria,medium
+Blue Oil Fern,Microsorum thailandicum,medium
 Clowes' Miltonia,Miltonia clowesii,medium
 Showy Miltonia,Miltonia spectabilis,medium
 Pansy Orchid,Miltoniopsis phalaenopsis,medium
 Roezl's Pansy Orchid,Miltoniopsis roezlii,medium
 Pansy Orchid,Miltoniopsis vexillaria,medium
 Sensitive Plant,Mimosa pudica,high
+Maiden Grass,Miscanthus sinensis,high
+Morning Light Maiden Grass,Miscanthus sinensis 'Morning Light',high
+African Gardenia,Mitriostigma axillare,high
 Mountain houseleek monanthes,Monanthes polyphylla,medium
 Monstera Esqueleto,Monstera 'Esqueleto',medium
 Monstera Peru,Monstera 'Peru',medium
@@ -1613,17 +2212,15 @@ Indonesian Marble Adanson's Monstera,Monstera adansonii 'Indonesian Marble',medi
 Mint Variegated Swiss Cheese Plant,Monstera adansonii 'Mint Variegata',high
 Mint Monstera Adansonii,Monstera adansonii 'Mint',medium
 Variegated Monstera Adansonii,Monstera adansonii 'Variegata',medium
-Alba Variegated Monstera,Monstera borsigiana 'Alba',high
 Swiss cheese plant (Monstera),Monstera deliciosa,medium
-White Variegated Swiss Cheese Plant,Monstera deliciosa 'Alba',high
-Albo Variegated Monstera,Monstera deliciosa 'Albo Borsigiana',high
 Albo Variegata Monstera,Monstera deliciosa 'Albo Variegata',medium
-Yellow Variegated Monstera,Monstera deliciosa 'Aurea Variegata',high
 Aurea Variegata Monstera,Monstera deliciosa 'Aurea',medium
 Variegated Monstera Borsigiana,Monstera deliciosa 'Borsigiana Variegata',medium
 Swiss Cheese Plant (Borsigiana),Monstera deliciosa 'Borsigiana',high
+Golden Compact Monstera,Monstera deliciosa 'Golden Compact',medium
 Mint Monstera,Monstera deliciosa 'Mint',high
 Thai Constellation Monstera,Monstera deliciosa 'Thai Constellation',high
+White Monster Monstera,Monstera deliciosa 'White Monster',medium
 Monstera Dubia,Monstera dubia,medium
 Monstera Lechleriana,Monstera lechleriana,medium
 Monstera Obliqua,Monstera obliqua,medium
@@ -1632,16 +2229,23 @@ Silver Monstera,Monstera siltepecana,medium
 Monstera Spruceana,Monstera spruceana,medium
 Monstera Standleyana,Monstera standleyana,medium
 Monstera Standleyana Albo,Monstera standleyana 'Albo Variegata',medium
+Monstera Subpinnata,Monstera subpinnata,medium
 Goblin Orchid,Mormodes ignea,high
-Dwarf Everbearing Mulberry,Morus rotundiloba,high
+Dwarf Mulberry,Morus rotundiloba,high
+Red Mulberry,Morus rubra,high
 Maidenhair Vine / Wire Vine,Muehlenbeckia complexa,high
 Curry Leaf Tree,Murraya koenigii,very_high
 Orange jasmine,Murraya paniculata,high
+Blue Java Banana,Musa 'Blue Java',high
+Siam Ruby Banana,Musa 'Siam Ruby',high
 Dwarf Banana,Musa acuminata,high
 Variegated Banana,Musa acuminata 'Ae Ae',high
+Dwarf Cavendish Banana,Musa acuminata 'Dwarf Cavendish',high
+Super Dwarf Cavendish Banana,Musa acuminata 'Super Dwarf Cavendish',high
 Japanese Hardy Banana,Musa basjoo,high
 Pink Velvet Banana,Musa velutina,high
 Grape hyacinth,Muscari armeniacum,high
+Chinese Dwarf Banana,Musella lasiocarpa,high
 Forget-me-not,Myosotis sylvatica,high
 Baja California Candelabra Cactus,Myrtillocactus cochal,very_high
 Blue Candle Cactus,Myrtillocactus geometrizans,very_high
@@ -1650,10 +2254,20 @@ Dwarf myrtle,Myrtus communis,high
 Cape Mystacidium,Mystacidium capense,medium
 Heavenly bamboo,Nandina domestica,high
 Firepower Heavenly Bamboo,Nandina domestica 'Firepower',high
+Obsession Nandina,Nandina domestica 'Seika',high
+Twilight Heavenly Bamboo,Nandina domestica 'Twilight',high
+Erlicheer Double Daffodil,Narcissus 'Erlicheer',high
+Grand Soleil d'Or Tazetta Daffodil,Narcissus 'Grand Soleil d'Or',high
+Minnow Miniature Daffodil,Narcissus 'Minnow',high
 Tête-à-tête Miniature Daffodil,Narcissus 'Tête-à-tête',high
 Paperwhite narcissus,Narcissus papyraceus,high
+Ziva Paperwhite,Narcissus papyraceus 'Ziva',high
 Bunch-flowered Narcissus,Narcissus tazetta,high
 Mexican feather grass,Nassella tenuissima,very_high
+Black Gold Goldfish Plant,Nematanthus 'Black Gold',medium
+Black Magic Goldfish Plant,Nematanthus 'Black Magic',medium
+Christmas Holly Goldfish Plant,Nematanthus 'Christmas Holly',medium
+Tropicana Goldfish Plant,Nematanthus 'Tropicana',medium
 Goldfish Plant,Nematanthus gregarius,medium
 Guppy Plant,Nematanthus wettsteinii,high
 Trailing nemesia,Nemesia caerulea,high
@@ -1665,6 +2279,7 @@ Nemesia,Nemesia strumosa,high
 Cape Snapdragon,Nemesia versicolor,high
 Wind Orchid,Neofinetia falcata,medium
 Fireball Bromeliad,Neoregelia 'Fireball',high
+Hannibal Lecter Bromeliad,Neoregelia 'Hannibal Lecter',high
 Flask Bromeliad,Neoregelia ampullacea,high
 Blushing Bromeliad,Neoregelia carolinae,high
 Tricolor Blushing Bromeliad,Neoregelia carolinae 'Tricolor',high
@@ -1675,12 +2290,16 @@ John's Bromeliad,Neoregelia johannis,high
 Marbled Bromeliad,Neoregelia marmorata,high
 Few-flowered Neoregelia,Neoregelia pauciflora,high
 Fingernail Plant,Neoregelia spectabilis,high
+Gaya Pitcher Plant,Nepenthes 'Gaya',high
+Lady Luck Pitcher Plant,Nepenthes 'Lady Luck',medium
+Miranda Pitcher Plant,Nepenthes 'Miranda',high
+Rebecca Soper Pitcher Plant,Nepenthes 'Rebecca Soper',high
 Ventrata Pitcher Plant,Nepenthes × ventrata,high
 Tropical pitcher plant (winged Nepenthes),Nepenthes alata,high
 Red-leaved pitcher plant,Nepenthes ampullaria,medium
 Two-spurred pitcher plant,Nepenthes bicalcarata,high
 Burbidge's pitcher plant,Nepenthes burbidgeae,high
-Toothed pitcher plant,Nepenthes glabrata,high
+Glabrata pitcher plant,Nepenthes glabrata,high
 Slender pitcher plant,Nepenthes gracilis,high
 Fanged pitcher plant,Nepenthes hamata,high
 Khasi Hills pitcher plant,Nepenthes khasiana,high
@@ -1705,11 +2324,16 @@ Toothed Sword Fern,Nephrolepis acutifolia,medium
 Giant Sword Fern,Nephrolepis biserrata,medium
 Lemon Button Fern,Nephrolepis cordifolia,medium
 Boston fern,Nephrolepis exaltata,medium
+Compact Boston Fern,Nephrolepis exaltata 'Compacta',medium
 Fluffy Ruffle Fern,Nephrolepis exaltata 'Fluffy Ruffles',medium
+Green Fantasy Boston Fern,Nephrolepis exaltata 'Green Fantasy',medium
+Green Lady Fern,Nephrolepis exaltata 'Green Lady',medium
+Petticoat Boston Fern,Nephrolepis exaltata 'Petticoat',medium
 Tiger Fern,Nephrolepis exaltata 'Tiger Fern',medium
 Fishtail Sword Fern,Nephrolepis falcata,medium
 Sword Fern,Nephrolepis hirsutula,medium
 Kimberly Queen Fern,Nephrolepis obliterata,medium
+Jester's Crown Fern,Nephrolepis obliterata 'Jester's Crown',medium
 Weeping Sword Fern,Nephrolepis pendula,medium
 Bowden Lily,Nerine bowdenii,high
 Oleander,Nerium oleander,very_high
@@ -1721,7 +2345,13 @@ Beargrass,Nolina microcarpa,high
 Lemon basil,Ocimum × africanum,very_high
 Pesto Perpetuo Basil,Ocimum × africanum 'Pesto Perpetuo',very_high
 Sweet Basil,Ocimum basilicum,very_high
+Boxwood Basil,Ocimum basilicum 'Boxwood',very_high
+Cinnamon Basil,Ocimum basilicum 'Cinnamon',very_high
 Purple Basil,Ocimum basilicum 'Dark Opal',very_high
+Everleaf Emerald Towers Basil,Ocimum basilicum 'Everleaf Emerald Towers',very_high
+Genovese Basil,Ocimum basilicum 'Genovese',very_high
+Red Rubin Basil,Ocimum basilicum 'Red Rubin',very_high
+Siam Queen Thai Basil,Ocimum basilicum 'Siam Queen',very_high
 Greek Bush Basil,Ocimum basilicum 'Spicy Globe',very_high
 Thai Basil,Ocimum basilicum var. thyrsiflora,high
 African Basil,Ocimum gratissimum,high
@@ -1730,6 +2360,10 @@ Holy Basil (Tulsi),Ocimum tenuiflorum,very_high
 Crisped Odontoglossum,Odontoglossum crispum,medium
 Gaura,Oenothera lindheimeri,very_high
 European Olive,Olea europaea,very_high
+Arbequina Olive Tree,Olea europaea 'Arbequina',very_high
+Little Ollie Dwarf Olive,Olea europaea 'Montra',very_high
+Gower Ramsey Dancing Lady Orchid,Oncidesa 'Gower Ramsey',high
+Sweet Sugar Dancing Lady Orchid,Oncidesa 'Sweet Sugar',high
 Sharry Baby Orchid,Oncidium 'Sharry Baby',high
 Twinkle Orchid,Oncidium 'Twinkle',medium
 Dancing Lady Orchid,Oncidium altissimum,high
@@ -1741,8 +2375,12 @@ Pink Dancing Lady,Oncidium ornithorhynchum,medium
 Golden Shower Orchid,Oncidium sphacelatum,high
 Tiger Oncidium,Oncidium tigrinum,high
 Varicose Oncidium,Oncidium varicosum,high
+Nelly Isler Orchid,Oncidopsis 'Nelly Isler',medium
+Wildcat Orchid,Oncostele 'Wildcat',high
 Cambria Orchid,Oncostele Cambria 'Plush',medium
+Elephant Tree,Operculicarya decaryi,very_high
 Mondo Grass,Ophiopogon japonicus,medium
+Dwarf Mondo Grass,Ophiopogon japonicus 'Nana',medium
 Black Mondo Grass,Ophiopogon planiscapus 'Nigrescens',medium
 Beavertail Cactus,Opuntia basilaris,very_high
 Prickly Pear Cactus,Opuntia ficus-indica,very_high
@@ -1750,21 +2388,28 @@ Bunny Ears Cactus,Opuntia microdasys,very_high
 White Bunny Ears Cactus,Opuntia microdasys 'Albata',very_high
 Joseph's Coat Cactus,Opuntia monacantha 'Variegata',very_high
 Cinnamon Cactus,Opuntia rufida,very_high
+Opuntia salmiana,Opuntia salmiana,very_high
 Santa Rita Prickly Pear,Opuntia santa-rita,very_high
+Starfish Flower,Orbea variegata,very_high
 Old Man of the Andes,Oreocereus celsianus,very_high
+Old Man of the Mountain Cactus,Oreocereus trollii,very_high
 Italian Oregano,Origanum × majoricum,very_high
 Dittany of Crete,Origanum dictamnus,high
 Sweet Marjoram,Origanum majorana,very_high
 Greek Oregano,Origanum onites,high
+Za'atar (Syrian Oregano),Origanum syriacum,very_high
 Common Oregano,Origanum vulgare,very_high
 Golden Oregano,Origanum vulgare 'Aureum',very_high
+Hot and Spicy Oregano,Origanum vulgare 'Hot and Spicy',very_high
 Greek Oregano,Origanum vulgare subsp. hirtum,very_high
 Sun star,Ornithogalum dubium,very_high
 Dwarf Chinese dunce cap,Orostachys boehmeri,high
+Fringed Dunce Cap,Orostachys fimbriata,very_high
 Chinese dunce cap,Orostachys iwarenge,high
 Spinosa orostachys,Orostachys spinosa,very_high
 Zebra Orthophytum,Orthophytum gurkenii,high
 Rice,Oryza sativa,very_high
+Orange Sweet Olive,Osmanthus fragrans var. aurantiacus,high
 African daisy (osteospermum),Osteospermum ecklonis,high
 Cape daisy,Osteospermum jucundum,high
 Little tree othonna,Othonna arbuscula,very_high
@@ -1807,8 +2452,16 @@ Saunders' Pachypodium,Pachypodium saundersii,very_high
 Succulent Pachypodium,Pachypodium succulentum,very_high
 Cardinal's Guard,Pachystachys coccinea,high
 Yellow shrimp plant,Pachystachys lutea,high
+Jeweled Crown Pachyveria,Pachyveria 'Clavifolia',very_high
 Powder puff pachyveria,Pachyveria glauca,very_high
+Pandan,Pandanus amaryllifolius,high
+Screw Pine,Pandanus tectorius,high
+Variegated Screw Pine,Pandanus tectorius 'Veitchii',high
 Bower of beauty (Pandorea),Pandorea jasminoides,high
+Switch Grass,Panicum virgatum,very_high
+Shenandoah Switch Grass,Panicum virgatum 'Shenandoah',very_high
+Maudiae Slipper Orchid,Paphiopedilum 'Maudiae',low
+Pinocchio Slipper Orchid,Paphiopedilum 'Pinocchio',low
 Golden Slipper Orchid,Paphiopedilum armeniacum,low
 Egg-in-a-Nest Orchid,Paphiopedilum bellatulum,low
 Callous Slipper Orchid,Paphiopedilum callosum,low
@@ -1829,6 +2482,7 @@ Hairy Slipper Orchid,Paphiopedilum villosum,low
 Buining's parodia,Parodia buiningii,very_high
 Golden Spine Ball Cactus,Parodia chrysacanthion,high
 Parodia crassigibba,Parodia crassigibba,very_high
+Parodia erubescens,Parodia erubescens,very_high
 Scarlet Ball Cactus,Parodia haselbergii,very_high
 Golden Ball Cactus,Parodia leninghausii,very_high
 Notocactus Ball Cactus,Parodia magnifica,very_high
@@ -1839,12 +2493,16 @@ Silver ball cactus,Parodia scopa,high
 Lemon ball cactus,Parodia warasii,very_high
 Notocactus / blue ball cactus,Parodia werdermanniana,very_high
 Parodia werneri,Parodia werneri,very_high
+Amethyst Passion Flower,Passiflora 'Amethyst',high
 Wing-stemmed passionflower,Passiflora alata,high
 Blue passionflower,Passiflora caerulea,high
+White Passion Flower,Passiflora caerulea 'Constance Eliott',high
 Red passionflower,Passiflora coccinea,high
 Purple Passionfruit,Passiflora edulis,very_high
 Passiflora racemosa,Passiflora racemosa,high
 Crimson passionflower / scarlet flame,Passiflora vitifolia,high
+Attar of Roses Scented Geranium,Pelargonium 'Attar of Roses',high
+Chocolate Mint Scented Geranium,Pelargonium 'Chocolate Peppermint',medium
 Citronella Geranium,Pelargonium 'Citrosa',high
 Hybrid Pelargonium,Pelargonium × hybridum,high
 Sorrel Geranium,Pelargonium acetosum,high
@@ -1866,6 +2524,7 @@ Regal geranium,Pelargonium x domesticum,high
 Variegated Geranium,Pelargonium x hortorum 'Variegatum',high
 Horseshoe Geranium,Pelargonium zonale,high
 Hatchet cactus,Pelecyphora aselliformis,very_high
+Australian Sickle Fern,Pellaea falcata,medium
 Button Fern,Pellaea rotundifolia,medium
 Trailing watermelon begonia,Pellionia pulchra,medium
 Brazilian Pellionia / Trailing Watermelon Begonia,Pellionia repens,medium
@@ -1874,42 +2533,60 @@ Hope Peperomia,Peperomia 'Hope',medium
 Napoli Nights Peperomia,Peperomia 'Napoli Nights',medium
 Pepperspot Peperomia,Peperomia 'Pepperspot',medium
 Ruby Cascade Peperomia,Peperomia 'Ruby Cascade',medium
+San Marino Peperomia,Peperomia 'San Marino',medium
 Peperomia albovittata,Peperomia albovittata,medium
 Piccolo Banda Peperomia,Peperomia albovittata 'Piccolo Banda',medium
+Peperomia Rana Verde,Peperomia albovittata 'Rana Verde',medium
 Beetle Peperomia,Peperomia angulata,medium
+Dark Green Beetle Peperomia,Peperomia angulata 'Rocca Scuro',medium
 Watermelon peperomia,Peperomia argyreia,medium
 Peperomia blanda,Peperomia blanda,medium
 Emerald Ripple Peperomia,Peperomia caperata,medium
+Abricos Peperomia,Peperomia caperata 'Abricos',medium
+Burbella Peperomia,Peperomia caperata 'Burbella',medium
+Cayenne Peperomia,Peperomia caperata 'Cayenne',medium
 Peperomia Frost,Peperomia caperata 'Frost',medium
+Red Luna Peperomia,Peperomia caperata 'Red Luna',medium
 Peperomia Rosso,Peperomia caperata 'Rosso',medium
+Santiago Peperomia,Peperomia caperata 'Santiago',medium
 Schumi Red Peperomia,Peperomia caperata 'Schumi Red',medium
 Red-edge Peperomia,Peperomia clusiifolia,medium
 Tricolor Peperomia,Peperomia clusiifolia 'Ginny',medium
 Rainbow Peperomia (Jelly / Tricolor),Peperomia clusiifolia 'Rainbow',medium
 Columnar Peperomia,Peperomia columella,high
+Prayer Pepper,Peperomia dolabriformis,high
 Peperomia Ferreyrae (Happy Bean),Peperomia ferreyrae,high
 Wax privet,Peperomia glabella,medium
 Ruby Glow Peperomia,Peperomia graveolens,high
 Ivy-Leaf Peperomia,Peperomia griseoargentea,medium
+Isabella Peperomia,Peperomia hoffmannii,medium
 Felted Peperomia,Peperomia incana,high
+Japanese Peperomia,Peperomia japonica,medium
 Peperomia Quito,Peperomia maculosa,medium
-Silver Ripple Peperomia,Peperomia marmorata,medium
+Silver Heart Peperomia,Peperomia marmorata,medium
 Metallic Peperomia,Peperomia metallica,medium
 Columbian Peperomia,Peperomia metallica var. colombiana,medium
 Jade Necklace Peperomia,Peperomia nivalis,high
 Baby rubber plant (Peperomia),Peperomia obtusifolia,medium
+Golden Gate Peperomia,Peperomia obtusifolia 'Golden Gate',medium
+Lemon Lime Peperomia,Peperomia obtusifolia 'Lemon Lime',medium
 Variegated Peperomia,Peperomia obtusifolia 'Variegata',medium
 Peperomia Pixie Lime,Peperomia orba,medium
+Variegated Teardrop Peperomia,Peperomia orba 'Variegata',medium
+Peperomia Perciliata,Peperomia perciliata,medium
+White Cloud Peperomia,Peperomia perciliata 'White Cloud',medium
 Raindrop Peperomia,Peperomia polybotrya,medium
 String of Turtles,Peperomia prostrata,medium
 Parallel Peperomia,Peperomia puteolata,medium
-Peperomia Rana Verde,Peperomia rana verde,medium
 Trailing Jade Peperomia,Peperomia rotundifolia,medium
 Peperomia rubella,Peperomia rubella,medium
 Cupid peperomia,Peperomia serpens,medium
+Variegated Cupid Peperomia,Peperomia serpens 'Variegata',medium
 Peperomia Hope,Peperomia tetraphylla,medium
-Ivy Peperomia,Peperomia verschaffeltii,medium
+Bibi Peperomia,Peperomia trinervula 'Bibi',medium
+Sweetheart Peperomia,Peperomia verschaffeltii,medium
 Peperomia Verticillata (Belly Button),Peperomia verticillata,medium
+Red Log Peperomia,Peperomia verticillata 'Red Log',medium
 Barbados gooseberry,Pereskia aculeata,high
 Leaf cactus,Pereskia bleo,high
 Rose cactus,Pereskia grandifolia,high
@@ -1917,13 +2594,20 @@ Cineraria,Pericallis cruenta,medium
 Florist's cineraria,Pericallis hybrida,medium
 Shiso (Perilla),Perilla frutescens,high
 Avocado,Persea americana,high
+Little Cado Dwarf Avocado,Persea americana 'Wurtz',high
 Vietnamese Coriander,Persicaria odorata,medium
 Flat-leaf Parsley,Petroselinum crispum,high
 Curly Parsley,Petroselinum crispum 'Moss Curled',high
 Night Sky Petunia,Petunia 'Night Sky',high
+Supertunia Vista Bubblegum Petunia,Petunia 'Supertunia Vista Bubblegum',high
+Surfinia Purple Trailing Petunia,Petunia 'Surfinia Purple',high
+Wave Purple Classic Petunia,Petunia 'Wave Purple Classic',high
 Garden Petunia,Petunia hybrida,high
 Violet-flowered Petunia,Petunia integrifolia,high
+Bolivian Forest Cactus,Pfeiffera boliviana,medium
 Nun's Orchid,Phaius tankervilleae,medium
+Mini Mark Moth Orchid,Phalaenopsis 'Mini Mark',medium
+Sogo Vivien Mini Moth Orchid,Phalaenopsis 'Sogo Vivien',medium
 Moth Orchid,Phalaenopsis amabilis,medium
 Aphrodite Moth Orchid,Phalaenopsis aphrodite,medium
 Bellina Orchid,Phalaenopsis bellina,medium
@@ -1939,26 +2623,33 @@ Beautiful Moth Orchid,Phalaenopsis pulcherrima,medium
 Sander's Moth Orchid,Phalaenopsis sanderiana,medium
 Schiller's Moth Orchid,Phalaenopsis schilleriana,medium
 Stuart's Moth Orchid,Phalaenopsis stuartiana,medium
+Liodoro Moth Orchid,Phalaenopsis Sweet Memory 'Liodoro',medium
 Violet Moth Orchid,Phalaenopsis violacea,medium
+Porch Pick Bush Bean,Phaseolus vulgaris 'Porch Pick',high
+Orange Stonecrop,Phedimus kamtschaticus,very_high
 Philodendron Autumn,Philodendron 'Autumn',medium
-Black Forest Philodendron,Philodendron 'Black Forest',high
 Burle Marx Flame Philodendron,Philodendron 'Burle Marx Flame',high
+Calkins Gold Philodendron,Philodendron 'Calkins Gold',medium
 Congo Green Philodendron,Philodendron 'Congo Green',medium
 Florida Beauty Philodendron,Philodendron 'Florida Beauty',high
 Florida Philodendron,Philodendron 'Florida',medium
-Golden Crocodile Philodendron,Philodendron 'Golden Crocodile',medium
-Golden Goddess Philodendron,Philodendron 'Golden Goddess',medium
+Golden Crocodile / Golden Saw Philodendron,Philodendron 'Golden Crocodile',medium
+Golden Dragon Philodendron,Philodendron 'Golden Dragon',medium
+Golden Goddess / Malay Gold Philodendron,Philodendron 'Golden Goddess',medium
 Hope Selloum,Philodendron 'Hope',medium
 Jose Buono Philodendron,Philodendron 'Jose Buono',high
 Little Hope Philodendron,Philodendron 'Little Hope',medium
 McColley's Finale,Philodendron 'McColley's Finale',medium
+Philodendron McDowell,Philodendron 'McDowell',high
 Moonlight Philodendron,Philodendron 'Moonlight',medium
+Orange Marmalade Philodendron,Philodendron 'Orange Marmalade',medium
 Painted Lady Philodendron,Philodendron 'Painted Lady',medium
 Paraiso Verde Philodendron,Philodendron 'Paraiso Verde',medium
 Pink Congo Philodendron,Philodendron 'Pink Congo',medium
 Prince of Orange Philodendron,Philodendron 'Prince of Orange',medium
 Ring of Fire Philodendron,Philodendron 'Ring of Fire',medium
 Rojo Congo Philodendron,Philodendron 'Rojo Congo',medium
+Splendid Philodendron,Philodendron 'Splendid',medium
 Sun Red Philodendron,Philodendron 'Sun Red',medium
 Super Atom Philodendron,Philodendron 'Super Atom',high
 Billietiae Philodendron,Philodendron billietiae,medium
@@ -1974,6 +2665,7 @@ Black Cardinal Philodendron,Philodendron erubescens 'Black Cardinal',medium
 Imperial Green Philodendron,Philodendron erubescens 'Imperial Green',medium
 Imperial Red Philodendron,Philodendron erubescens 'Imperial Red',medium
 Pink Princess Philodendron,Philodendron erubescens 'Pink Princess',medium
+Red Emerald Philodendron,Philodendron erubescens 'Red Emerald',medium
 Strawberry Shake Philodendron,Philodendron erubescens 'Strawberry Shake',medium
 White Knight Philodendron,Philodendron erubescens 'White Knight',medium
 White Princess Philodendron,Philodendron erubescens 'White Princess',medium
@@ -1985,17 +2677,19 @@ Grazielae Philodendron,Philodendron grazielae,medium
 Philodendron Hastatum,Philodendron hastatum,medium
 Silver Sword Philodendron,Philodendron hastatum 'Silver Sword',medium
 Heartleaf philodendron,Philodendron hederaceum,low
+Variegated Heartleaf Philodendron,Philodendron hederaceum 'Aureovariegata',medium
+Neon Philodendron,Philodendron hederaceum 'Aureum',medium
 Philodendron Brasil,Philodendron hederaceum 'Brasil',low
 Cream Splash Philodendron,Philodendron hederaceum 'Cream Splash',medium
 Lemon Lime Philodendron,Philodendron hederaceum 'Lemon Lime',low
 Velvet Leaf Philodendron (Micans),Philodendron hederaceum 'Micans',low
+Mint Variegated Heartleaf Philodendron,Philodendron hederaceum 'Mint Variegated',medium
 Rio Philodendron,Philodendron hederaceum 'Rio',medium
 Silver Stripe Philodendron,Philodendron hederaceum 'Silver Stripe',medium
 Imbe Philodendron,Philodendron imbe,medium
 Philodendron Mamei,Philodendron mamei,medium
 Fat Boy Philodendron,Philodendron martianum,medium
 Mayo's Philodendron,Philodendron mayoi,medium
-Philodendron McDowell,Philodendron McDowell,high
 Philodendron Melanochrysum,Philodendron melanochrysum,medium
 Paraguay Philodendron,Philodendron paraguayense,medium
 Pastazanum Philodendron,Philodendron pastazanum,medium
@@ -2011,6 +2705,7 @@ Philodendron undulatum,Philodendron undulatum,medium
 Philodendron Verrucosum,Philodendron verrucosum,medium
 Philodendron warszewiczii,Philodendron warszewiczii,medium
 Blue Star Fern,Phlebodium aureum,medium
+Davana Blue Star Fern,Phlebodium aureum 'Davana',medium
 Hare's Foot Fern,Phlebodium aureum 'Mandaianum',medium
 Phlebodium pseudoaureum,Phlebodium pseudoaureum,medium
 Annual phlox,Phlox drummondii,very_high
@@ -2020,7 +2715,10 @@ Mountain Date Palm,Phoenix loureiroi,high
 Pygmy Date Palm,Phoenix roebelenii,medium
 Rattlesnake Orchid,Pholidota imbricata,medium
 Jester New Zealand Flax,Phormium 'Jester',high
+Maori Queen New Zealand Flax (Rainbow Queen),Phormium 'Maori Queen',high
 Black New Zealand Flax,Phormium 'Platt's Black',high
+Sundowner New Zealand Flax,Phormium 'Sundowner',high
+Yellow Wave New Zealand Flax,Phormium 'Yellow Wave',high
 New Zealand Flax,Phormium tenax,high
 Red Robin photinia,Photinia × fraseri,high
 Bessera's Slipper Orchid,Phragmipedium besseae,medium
@@ -2031,7 +2729,9 @@ Golden Bamboo,Phyllostachys aurea,high
 Black Bamboo,Phyllostachys nigra,high
 American Pokeweed,Phytolacca americana,high
 Dwarf Alberta Spruce,Picea glauca 'Conica',high
+Forest Flame Pieris,Pieris 'Forest Flame',high
 Japanese andromeda,Pieris japonica,high
+Dark Mystery Pilea,Pilea 'Dark Mystery',medium
 Aluminum Plant,Pilea cadierei,medium
 Aluminum Plant (Variegated Pilea),Pilea cadierei 'Minima',medium
 Baby Tears Pilea,Pilea depressa,medium
@@ -2041,15 +2741,18 @@ Friendship Plant,Pilea involucrata,medium
 Pilea 'Moon Valley',Pilea involucrata 'Moon Valley',medium
 Norfolk Friendship Plant,Pilea involucrata 'Norfolk',medium
 Artillery Plant,Pilea microphylla,medium
-Moon Valley Pilea,Pilea mollis,medium
 Creeping Charlie Pilea,Pilea nummulariifolia,medium
 Chinese money plant,Pilea peperomioides,medium
 Mojito Chinese Money Plant,Pilea peperomioides 'Mojito',medium
 Sugar Pilea,Pilea peperomioides 'Sugar',medium
 White Splash Pilea,Pilea peperomioides 'White Splash',medium
-Pilea Norfolk,Pilea spruceana,medium
+Silver Cloud Pilea,Pilea pubescens 'Silver Cloud',medium
 Silver Tree Pilea,Pilea spruceana 'Silver Tree',medium
 Blue Columnar Cactus,Pilosocereus pachycladus,very_high
+Aphrodite Butterwort,Pinguicula 'Aphrodite',high
+Sethos Butterwort,Pinguicula 'Sethos',high
+Tina Butterwort,Pinguicula 'Tina',high
+Weser Butterwort,Pinguicula 'Weser',high
 Agnata butterwort,Pinguicula agnata,high
 Cyclosecta butterwort,Pinguicula cyclosecta,high
 Emarginate butterwort,Pinguicula emarginata,high
@@ -2063,15 +2766,26 @@ Primrose butterwort,Pinguicula primuliflora,high
 Common butterwort,Pinguicula vulgaris,high
 Mugo pine,Pinus mugo,very_high
 Japanese white pine,Pinus parviflora,high
+Italian Stone Pine,Pinus pinea,very_high
+Tom Thumb Pea,Pisum sativum 'Tom Thumb',high
 Flaming Pitcairnia,Pitcairnia flammea,medium
 Everfresh tree,Pithecellobium confertum,high
+Golf Ball Pittosporum,Pittosporum tenuifolium 'Golf Ball',high
 Tom Thumb Pittosporum,Pittosporum tenuifolium 'Tom Thumb',high
+Dwarf Japanese Mock Orange,Pittosporum tobira 'Nanum',high
+Variegated Japanese Mock Orange,Pittosporum tobira 'Variegatum',high
+French Staghorn Fern,Platycerium 'Lemoinei',high
+Alcicorne Staghorn Fern,Platycerium alcicorne,medium
 Staghorn Fern,Platycerium bifurcatum,medium
+Netherlands Staghorn Fern,Platycerium bifurcatum 'Netherlands',medium
 Elephant Ear Staghorn,Platycerium elephantotis,medium
 Regal Staghorn Fern,Platycerium grande,medium
 Hill's Staghorn Fern,Platycerium hillii,medium
+Ridley's Staghorn Fern,Platycerium ridleyi,medium
 Giant Staghorn Fern,Platycerium superbum,medium
 Silver Staghorn Fern,Platycerium veitchii,high
+Queen Staghorn Fern,Platycerium wandae,medium
+Chinese Arborvitae,Platycladus orientalis,high
 Mona Lavender Plectranthus,Plectranthus 'Mona Lavender',medium
 Cuban Oregano,Plectranthus amboinicus,high
 Variegated Cuban Oregano,Plectranthus amboinicus 'Variegatus',high
@@ -2083,9 +2797,15 @@ Windowsill Orchid,Pleione formosana,medium
 Pleiospilos bolusii,Pleiospilos bolusii,very_high
 Cleft stone,Pleiospilos compactus,very_high
 Split rock,Pleiospilos nelii,very_high
+Royal Flush Split Rock,Pleiospilos nelii 'Royal Flush',very_high
 False Aralia,Plerandra elegantissima,medium
+Galaxy False Aralia,Plerandra elegantissima 'Galaxy',medium
 Miniature pleurothallid orchid,Pleurothallis grobyi,medium
 Cape Leadwort,Plumbago auriculata,high
+White Cape Plumbago,Plumbago auriculata 'Alba',high
+Imperial Blue Plumbago,Plumbago auriculata 'Imperial Blue',high
+Singapore Frangipani,Plumeria obtusa,very_high
+Bridal Bouquet Frangipani,Plumeria pudica,very_high
 Frangipani,Plumeria rubra,very_high
 Buddhist pine / Yew plum pine,Podocarpus macrophyllus,high
 Tuberose,Polianthes tuberosa,high
@@ -2098,25 +2818,33 @@ Aralia Fabian,Polyscias scutellaria,medium
 Variegated Balfour Aralia,Polyscias scutellaria 'Marginata',high
 Downy Polystachya,Polystachya pubescens,high
 Korean Rock Fern,Polystichum tsussimense,low
+Papalo,Porophyllum ruderale,very_high
 Brazilian Fireworks,Porphyrocoma pohliana,medium
 Petropolis Bromeliad,Portea petropolitana,high
 Moss Rose / Portulaca,Portulaca grandiflora,very_high
+Wingpod Purslane,Portulaca umbraticola,very_high
 Elephant Bush / Dwarf Jade,Portulacaria afra,high
+Midstripe Rainbow Bush,Portulacaria afra 'Medio-picta',high
 Variegated Elephant Bush,Portulacaria afra 'Variegata',very_high
 Polyanthus,Primula × polyantha,medium
 Auricula,Primula auricula,high
 Fairy primrose,Primula malacoides,medium
 Florist's Primrose,Primula obconica,medium
 Common primrose,Primula vulgaris,medium
+Chinese Chirita,Primulina dryas,medium
+Betty Asian Violet,Primulina dryas 'Betty',medium
 Carrion-flower Orchid,Promenaea stapelioides,medium
 Cockleshell Orchid,Prosthechea cochleata,medium
 Sour Cherry,Prunus cerasus,very_high
 Patio Peach,Prunus persica,very_high
+Garden Delight Miniature Nectarine,Prunus persica 'Garden Delight',high
 Patio Nectarine,Prunus persica var. nucipersica,high
 False Pineapple,Pseudananas sagenarius,high
 Black-leaved Pseuderanthemum,Pseuderanthemum carruthersii,medium
 Shooting star,Pseuderanthemum laxiflorum,medium
 Variegated Pseuderanthemum,Pseuderanthemum reticulatum,medium
+Blue Flame Cactus,Pseudorhipsalis amazonica,high
+Red Mistletoe Cactus,Pseudorhipsalis ramulosa,high
 Butterfly Orchid,Psychopsis papilio,medium
 Cretan Brake Fern,Pteris cretica,medium
 Variegated Table Fern,Pteris cretica 'Albolineata',medium
@@ -2124,19 +2852,26 @@ Silver Lace Fern,Pteris ensiformis,medium
 Spider Brake Fern,Pteris multifida,medium
 Brake Fern (Silver),Pteris quadriaurita,medium
 Pteris Table Fern,Pteris tremula,medium
+Tricolor Brake Fern,Pteris tricolor,medium
 Chinese Ladder Brake,Pteris vittata,medium
+Solitaire Palm,Ptychosperma elegans,high
+MacArthur Palm,Ptychosperma propinquum,high
 Pomegranate,Punica granatum,very_high
 Dwarf Pomegranate,Punica granatum 'Nana',very_high
 Sapphire Tower,Puya alpestris,very_high
 Tongue Fern,Pyrrosia lingua,medium
+Variegated Tongue Fern,Pyrrosia lingua 'Yabane Fu',medium
+Dragon Scale Fern,Pyrrosia piloselloides,medium
 Tortoise Quesnelia,Quesnelia testudo,high
 China Doll Plant,Radermachera sinica,high
 Variegated China Doll,Radermachera sinica 'Variegata',high
 Persian buttercup,Ranunculus asiaticus,high
 Radish,Raphanus sativus,high
+Cherry Belle Radish,Raphanus sativus 'Cherry Belle',high
 Travelers Palm,Ravenala madagascariensis,high
 Majesty Palm,Ravenea rivularis,medium
 Sand Crown Cactus,Rebutia arenacea,very_high
+Fabris' Crown Cactus,Rebutia fabrisii,very_high
 Orange Crown Cactus,Rebutia fiebrigii,very_high
 Fire Crown Cactus,Rebutia heliosa,very_high
 Yellow Crown Cactus,Rebutia marsoneri,very_high
@@ -2150,24 +2885,40 @@ Creeping Philodendron,Rhaphidophora decursiva,medium
 Shingle Plant,Rhaphidophora hayi,medium
 Korthals rhaphidophora,Rhaphidophora korthalsii,medium
 Mini Monstera,Rhaphidophora tetrasperma,medium
+Needle Palm,Rhapidophyllum hystrix,high
 Lady Palm,Rhapis excelsa,medium
 Rhapis Slender Lady Palm,Rhapis humilis,medium
 Finger Lady Palm,Rhapis multifida,medium
+Agudoensis Mistletoe Cactus,Rhipsalis agudoensis,medium
 Mistletoe Cactus,Rhipsalis baccifera,medium
+Burchell's Mistletoe Cactus,Rhipsalis burchellii,high
+Trailing Mistletoe Cactus,Rhipsalis cereoides,high
 Coral Cactus (Rhipsalis),Rhipsalis cereuscula,medium
+Flat-stemmed Mistletoe Cactus,Rhipsalis elliptica,medium
 Ewald's Mistletoe Cactus,Rhipsalis ewaldiana,high
+Clumpy Mistletoe Cactus,Rhipsalis mesembryanthemoides,medium
+Mistletoe Cactus (Rhipsalis micrantha),Rhipsalis micrantha,medium
 Chain Cactus,Rhipsalis paradoxa,medium
 Hairy Stemmed Rhipsalis,Rhipsalis pilocarpa,medium
+Mistletoe Cactus (Rhipsalis heteroclada),Rhipsalis teres,medium
+Purple Bell Vine,Rhodochiton atrosanguineus,high
+Percy Wiseman Rhododendron,Rhododendron 'Percy Wiseman',medium
 Dwarf rhododendron,Rhododendron impeditum,high
 Kurume azalea,Rhododendron obtusum,medium
 Florist's Azalea,Rhododendron simsii,medium
 Yak rhododendron,Rhododendron yakushimanum,medium
+Burana Beauty Cattleya Orchid,Rhyncattleanthe 'Burana Beauty',high
 Digby's Beaked Laelia,Rhyncholaelia digbyana,high
 Foxtail Orchid,Rhynchostylis gigantea,high
+Japanese Sacred Lily,Rohdea japonica,low
+Sweet Dream Patio Rose,Rosa 'Fryminicot',very_high
 Knock Out Rose,Rosa 'Radrazz',very_high
+Mutabilis China Rose,Rosa × odorata 'Mutabilis',very_high
 China rose,Rosa chinensis,very_high
 Miniature Rose,Rosa chinensis 'Minima',very_high
 Clown Orchid,Rossioglossum grande,medium
+Baby Cakes Blackberry,Rubus 'Baby Cakes',high
+Raspberry Shortcake Dwarf Raspberry,Rubus idaeus 'Raspberry Shortcake',high
 Black-Eyed Susan,Rudbeckia hirta,high
 Garden Sorrel,Rumex acetosa,high
 Red-veined sorrel,Rumex sanguineus,high
@@ -2175,6 +2926,7 @@ Leatherleaf Fern,Rumohra adiantiformis,medium
 Butcher's Broom,Ruscus aculeatus,low
 Broad-leaved Butcher's-broom,Ruscus hypophyllum,low
 Coral plant,Russelia equisetiformis,high
+Dwarf Palmetto,Sabal minor,high
 Cabbage Palmetto,Sabal palmetto,high
 Chinese bird plum / Bird plum,Sageretia thea,high
 Usambara violet,Saintpaulia confusa,medium
@@ -2189,10 +2941,12 @@ Mealycup sage,Salvia farinacea,high
 Baby Sage,Salvia microphylla,high
 Woodland Sage,Salvia nemorosa,high
 Common Sage,Salvia officinalis,very_high
+Berggarten Sage,Salvia officinalis 'Berggarten',very_high
 Golden Sage,Salvia officinalis 'Icterina',very_high
 Purple Sage,Salvia officinalis 'Purpurascens',very_high
 Tricolor Sage,Salvia officinalis 'Tricolor',very_high
 Rosemary,Salvia rosmarinus,very_high
+Arp Rosemary,Salvia rosmarinus 'Arp',very_high
 Trailing Rosemary,Salvia rosmarinus 'Prostratus',very_high
 Scarlet sage,Salvia splendens,high
 Sanchezia,Sanchezia speciosa,medium
@@ -2202,9 +2956,15 @@ Star Sansevieria,Sansevieria kirkii,medium
 Kenya Hyacinth,Sansevieria parva,medium
 Stucky's Sansevieria,Sansevieria stuckyi,high
 Cotton Lavender,Santolina chamaecyparissus,very_high
+Holy Flax,Santolina rosmarinifolia,very_high
 Creeping zinnia,Sanvitalia procumbens,very_high
 Footstool Palm,Saribus rotundifolius,high
 Bower vine / orchid vine,Saritaea magnifica,high
+Daina's Delight Pitcher Plant,Sarracenia 'Daina's Delight',very_high
+Judith Hindle Pitcher Plant,Sarracenia 'Judith Hindle',very_high
+Juthatip Soper Pitcher Plant,Sarracenia 'Juthatip Soper',very_high
+Maroon Pitcher Plant,Sarracenia 'Maroon',very_high
+Scarlet Belle Pitcher Plant,Sarracenia 'Scarlet Belle',very_high
 Pale trumpet pitcher,Sarracenia alata,very_high
 Yellow trumpet pitcher,Sarracenia flava,very_high
 Mountain Sweet Pitcher Plant,Sarracenia jonesii,very_high
@@ -2217,36 +2977,56 @@ Sweet pitcher plant,Sarracenia rubra,very_high
 Summer Savory,Satureja hortensis,very_high
 Winter Savory,Satureja montana,very_high
 Mossy Saxifrage,Saxifraga × arendsii,high
+London Pride,Saxifraga × urbium,medium
 Strawberry Begonia,Saxifraga stolonifera,medium
+Blood Lily,Scadoxus multiflorus,high
 Fan flower,Scaevola aemula,very_high
 Schefflera Amate,Schefflera amate,medium
 Dwarf umbrella tree,Schefflera arboricola,medium
+Janine Umbrella Tree,Schefflera arboricola 'Janine',medium
+Luseane Ivory Umbrella Tree,Schefflera arboricola 'Luseane Ivory',medium
+Moondrop Umbrella Tree,Schefflera arboricola 'Luseane Moondrop',medium
+Luseane Schefflera,Schefflera arboricola 'Luseane',medium
+Nora Umbrella Tree,Schefflera arboricola 'Nora',medium
+Trinette Schefflera,Schefflera arboricola 'Trinette',medium
+Variegated Dwarf Umbrella Tree,Schefflera arboricola 'Variegata',medium
 Delavay's Schefflera,Schefflera delavayi,medium
 Pate Schefflera,Schefflera digitata,medium
 Tupidanthus,Schefflera pueckleri,medium
 Taiwan Schefflera,Schefflera taiwaniana,high
-Christmas Cactus,Schlumbergera bridgesii,medium
+Christmas Cactus,Schlumbergera × buckleyi,medium
 Schlumbergera russelliana,Schlumbergera russelliana,high
 Thanksgiving Cactus,Schlumbergera truncata,medium
+Christmas Flame Holiday Cactus,Schlumbergera truncata 'Christmas Flame',medium
+Gold Charm Holiday Cactus,Schlumbergera truncata 'Gold Charm',medium
+Limelight Dancer Holiday Cactus,Schlumbergera truncata 'Limelight Dancer',medium
+Malissa White Christmas Cactus,Schlumbergera truncata 'Malissa',medium
+Thor Britta Holiday Cactus,Schlumbergera truncata 'Thor Britta',medium
 Schoenorchis fragrans,Schoenorchis fragrans,high
+Platinum Scindapsus,Scindapsus 'Platinum',medium
 Indian Pothos,Scindapsus officinalis,medium
 Satin pothos,Scindapsus pictus,medium
 Satin Pothos Argyraeus,Scindapsus pictus 'Argyraeus',medium
 Scindapsus Pictus 'Exotica',Scindapsus pictus 'Exotica',medium
 Jade Satin Pothos,Scindapsus pictus 'Jade Satin',medium
+Silver Lady Satin Pothos,Scindapsus pictus 'Silver Lady',medium
 Silvery Ann Scindapsus,Scindapsus pictus 'Silvery Ann',medium
 Trebie Satin Pothos,Scindapsus pictus 'Trebie',medium
 Silver Pothos Treubii,Scindapsus treubii,medium
 Dark Form Scindapsus (Black Scindapsus),Scindapsus treubii 'Dark Form',medium
 Scindapsus Moonlight,Scindapsus treubii 'Moonlight',medium
 Blue Elf Sedeveria,Sedeveria 'Blue Elf',very_high
+Super Donkey Tail,Sedeveria 'Harry Butterfield',high
+Jet Beads Sedeveria,Sedeveria 'Jet Beads',very_high
 Letizia Sedeveria,Sedeveria 'Letizia',very_high
+Lilac Mist Sedeveria,Sedeveria 'Lilac Mist',very_high
 Nago Orchid,Sedirea japonica,medium
 Autumn Joy Stonecrop,Sedum 'Autumn Joy',very_high
 Gold Moss Stonecrop,Sedum acre,very_high
 Coppertone Stonecrop (Sedum Nussbaumerianum),Sedum adolphi,high
 Firestorm Sedum,Sedum adolphi 'Firestorm',high
 White Stonecrop,Sedum album,high
+Coral Carpet Stonecrop,Sedum album 'Coral Carpet',high
 Sausage Sedum,Sedum allantoides,very_high
 Donkey's Tail / Baby Burro's Tail,Sedum burrito,very_high
 Tear Drop Sedum,Sedum clavatum,very_high
@@ -2258,13 +3038,12 @@ Hinton's Sedum,Sedum hintonii,very_high
 Spanish Stonecrop,Sedum hispanicum,very_high
 Japanese Stonecrop,Sedum japonicum,high
 Carpet Sedum,Sedum lineare,high
+Giant Jelly Bean Sedum,Sedum lucidum,very_high
 Makino's Stonecrop,Sedum makinoi,high
 Golden Japanese Stonecrop,Sedum makinoi 'Ogon',high
 Mexican Stonecrop,Sedum mexicanum,high
 Lemon Coral Sedum,Sedum mexicanum 'Lemon Coral',very_high
 Burro's Tail / Donkey's Tail,Sedum morganianum,high
-Baby Burro's Tail,Sedum morganianum 'Burrito',high
-Coppertone Stonecrop,Sedum nussbaumerianum,very_high
 Jelly Beans,Sedum pachyphyllum,very_high
 Palmer's Sedum,Sedum palmeri,high
 Jelly Bean Plant,Sedum rubrotinctum,very_high
@@ -2272,19 +3051,26 @@ Pink Jelly Bean,Sedum rubrotinctum 'Aurora',very_high
 Angelina Stonecrop,Sedum rupestre 'Angelina',very_high
 Blue Spruce Stonecrop,Sedum rupestre 'Blue Spruce',high
 October Daphne,Sedum sieboldii,high
+Cape Blanco Stonecrop,Sedum spathulifolium 'Cape Blanco',high
 Brilliant Showy Stonecrop,Sedum spectabile 'Brilliant',very_high
 Dragon's Blood Stonecrop,Sedum spurium 'Dragon's Blood',very_high
+Fulda Glow Stonecrop,Sedum spurium 'Fuldaglut',high
+Tricolor Stonecrop,Sedum spurium 'Tricolor',high
 Coral Beads,Sedum stahlii,very_high
 Fragrant Sedum,Sedum suaveolens,very_high
+Atlantis Stonecrop,Sedum takesimense 'Nonsitnal',very_high
 Silver Sedum,Sedum treleasei,very_high
 Versadense Sedum,Sedum versadense,very_high
 Ruby red spikemoss,Selaginella erythropus,low
 Spreading clubmoss (Krauss' spikemoss),Selaginella kraussiana,low
 Golden clubmoss / Gold Tips spikemoss,Selaginella kraussiana 'Aurea',low
+Pincushion Spikemoss,Selaginella kraussiana 'Brownii',low
 Frosty Fern spikemoss,Selaginella kraussiana 'Variegatus',low
 Resurrection plant (Rose of Jericho),Selaginella lepidophylla,high
 Moss fern / club spikemoss,Selaginella martensii,low
 Jori spikemoss,Selaginella moellendorffii,low
+Sweat Plant,Selaginella pallescens,low
+Asian Spikemoss,Selaginella plana,low
 Spikemoss,Selaginella tamariscina,low
 Peacock spikemoss,Selaginella uncinata,low
 Trailing spikemoss,Selaginella willdenowii,medium
@@ -2294,6 +3080,11 @@ Queen of the night,Selenicereus grandiflorus,high
 Yellow dragon fruit,Selenicereus megalanthus,high
 Moon cactus / night-blooming cereus,Selenicereus pteranthus,high
 Indoor Dragon Fruit,Selenicereus undatus,high
+Black Hens and Chicks,Sempervivum 'Black',very_high
+Gold Nugget Hens and Chicks,Sempervivum 'Gold Nugget',very_high
+Oddity Hens and Chicks,Sempervivum 'Oddity',very_high
+Red Rubin Hens and Chicks,Sempervivum 'Red Rubin',very_high
+Ruby Heart Hens and Chicks,Sempervivum 'Ruby Heart',very_high
 Cobweb houseleek,Sempervivum arachnoideum,very_high
 Atlas Houseleek,Sempervivum atlanticum,very_high
 Hen-and-chickens houseleek,Sempervivum calcareum,very_high
@@ -2312,7 +3103,7 @@ Hens-and-chicks,Sempervivum tectorum,very_high
 Wulfen's Houseleek,Sempervivum wulfenii,very_high
 Creeping Groundsel,Senecio angulatus,very_high
 Silver fingers senecio,Senecio antandroi,very_high
-Candle Plant / Trailing Jade,Senecio articulatus,high
+Candle Plant / Hot Dog Cactus,Senecio articulatus,high
 Vertical leaf senecio,Senecio crassissimus,high
 Cocoon plant,Senecio haworthii,very_high
 String of Watermelons / String of Beads,Senecio herreianus,high
@@ -2322,8 +3113,9 @@ Vining Senecio / Wax Ivy,Senecio macroglossus,high
 Variegated Wax Ivy,Senecio macroglossus 'Variegatus',high
 String of pearls,Senecio rowleyanus,high
 Pickle plant,Senecio stapeliiformis,high
+Gum Arabic Tree,Senegalia senegal,very_high
 Feathery Cassia,Senna artemisioides,very_high
-Siamese Cassia,Senna siamea,high
+Winter Cassia,Senna bicapsularis,high
 Saw Palmetto,Serenoa repens,high
 Snow rose / Tree of a thousand stars,Serissa japonica,high
 Sea purslane,Sesuvium portulacastrum,very_high
@@ -2340,12 +3132,21 @@ Florist's Gloxinia,Sinningia speciosa,medium
 Hardy white gloxinia,Sinningia tubiflora,high
 Indian sinocrassula,Sinocrassula indica,high
 Yunnan sinocrassula,Sinocrassula yunnanensis,high
+Kew Green Skimmia,Skimmia × confusa 'Kew Green',medium
 Skimmia,Skimmia japonica,medium
+Rubella Skimmia,Skimmia japonica 'Rubella',medium
 Large-flowered Sobralia,Sobralia macrantha,high
 Chalice vine / cup of gold,Solandra maxima,high
+White Potato Vine,Solanum laxum 'Album',high
 Tomato,Solanum lycopersicum,very_high
+Bush Early Girl Tomato,Solanum lycopersicum 'Bush Early Girl',very_high
+Husky Cherry Red Tomato,Solanum lycopersicum 'Husky Cherry Red',very_high
+Patio Tomato,Solanum lycopersicum 'Patio',very_high
+Tiny Tim Tomato,Solanum lycopersicum 'Tiny Tim',very_high
 Tumbling Tom Tomato,Solanum lycopersicum 'Tumbling Tom Red',very_high
 Eggplant,Solanum melongena,very_high
+Fairy Tale Eggplant,Solanum melongena 'Fairy Tale',very_high
+Patio Baby Eggplant,Solanum melongena 'Patio Baby',very_high
 Jerusalem Cherry,Solanum pseudocapsicum,high
 Baby's Tears,Soleirolia soleirolii,medium
 Golden baby's tears,Soleirolia soleirolii 'Aurea',medium
@@ -2353,10 +3154,21 @@ Variegated baby's tears,Soleirolia soleirolii 'Variegata',medium
 Frosted Sonerila,Sonerila margaritacea,medium
 Scarlet Sophronitis,Sophronitis coccinea,medium
 Harlequin flower,Sparaxis tricolor,high
+Bellini Peace Lily,Spathiphyllum 'Bellini',low
+Bingo Cupido Peace Lily,Spathiphyllum 'Bingo Cupido',low
+Chopin Peace Lily,Spathiphyllum 'Chopin',low
+Jetty Peace Lily,Spathiphyllum 'Jetty',low
+Little Angel Peace Lily,Spathiphyllum 'Little Angel',low
 Mauna Loa Peace Lily,Spathiphyllum 'Mauna Loa',medium
 Piccolino Mini Peace Lily,Spathiphyllum 'Piccolino',medium
+Platinum Mist Peace Lily,Spathiphyllum 'Platinum Mist',low
 Dark-leaved Peace Lily,Spathiphyllum 'Sensation Minor',medium
 Sensation Peace Lily,Spathiphyllum 'Sensation',medium
+Sweet Chico Peace Lily,Spathiphyllum 'Sweet Chico',low
+Sweet Lauretta Peace Lily,Spathiphyllum 'Sweet Lauretta',low
+Sweet Pablo Peace Lily,Spathiphyllum 'Sweet Pablo',low
+Sweet Sebastiano Peace Lily,Spathiphyllum 'Sweet Sebastiano',low
+Sweet Silvio Peace Lily,Spathiphyllum 'Sweet Silvio',low
 Spathiphyllum blandum,Spathiphyllum blandum,medium
 Canna-Leaf Peace Lily,Spathiphyllum cannifolium,medium
 Giant Peace Lily,Spathiphyllum cochlearispathum,low
@@ -2366,7 +3178,9 @@ Peace lily,Spathiphyllum wallisii,low
 Domino Peace Lily (Variegated),Spathiphyllum wallisii 'Domino',low
 Philippine Ground Orchid,Spathoglottis plicata,high
 Spinach,Spinacia oleracea,high
+Aztec Lily,Sprekelia formosissima,high
 Tiger Stanhopea,Stanhopea tigrina,medium
+Starfish Flower,Stapelia gigantea,very_high
 Silvery Stelis,Stelis argentata,low
 Wave cactus,Stenocactus crispatus,very_high
 Brain cactus,Stenocactus multicostatus,very_high
@@ -2376,9 +3190,16 @@ Stephania erecta,Stephania pierrei,high
 Cork Stephania,Stephania suberosa,high
 Madagascar Jasmine,Stephanotis floribunda,high
 Autumn Daffodil,Sternbergia lutea,high
+Toothpick Cactus,Stetsonia coryne,very_high
 Stevia,Stevia rebaudiana,very_high
+Narrow-leaved Bird of Paradise,Strelitzia juncea,high
 Giant White Bird of Paradise,Strelitzia nicolai,high
 Bird of Paradise,Strelitzia reginae,high
+Bethan Cape Primrose,Streptocarpus 'Bethan',medium
+Concord Blue Streptocarpella,Streptocarpus 'Concord Blue',medium
+Crystal Ice Cape Primrose,Streptocarpus 'Crystal Ice',medium
+Harlequin Blue Cape Primrose,Streptocarpus 'Harlequin Blue',medium
+Polka-Dot Purple Cape Primrose,Streptocarpus 'Polka-Dot Purple',medium
 Nodding violet,Streptocarpus caulescens,medium
 Red nodding bells,Streptocarpus dunnii,medium
 Garden's Cape primrose,Streptocarpus gardenii,medium
@@ -2389,10 +3210,11 @@ Primrose-leaf Cape primrose,Streptocarpus primulifolius,medium
 Cape Primrose,Streptocarpus rexii,medium
 False African Violet,Streptocarpus saxorum,medium
 Wendland's Cape primrose,Streptocarpus wendlandii,medium
+Red Flame Ivy / Metal Leaf,Strobilanthes alternata,high
 Persian Shield,Strobilanthes auriculata,high
+Dragon's Tongue,Strobilanthes sinuata,medium
 Jacquin's Stromanthe,Stromanthe jacquinii,medium
-Tricolor Stromanthe,Stromanthe sanguinea 'Tricolor',medium
-Triostar Stromanthe,Stromanthe sanguinea 'Triostar',medium
+Stromanthe Triostar (Tricolor),Stromanthe sanguinea 'Triostar',medium
 Common Stromanthe,Stromanthe stromanthoides,medium
 Stromanthe thalia,Stromanthe thalia,medium
 Stromanthe Magic Star,Stromanthe thalia 'Magic Star',medium
@@ -2408,11 +3230,11 @@ Syngonium Erythrophyllum,Syngonium erythrophyllum,medium
 Big Leaf Syngonium,Syngonium macrophyllum,medium
 Arrowhead plant,Syngonium podophyllum,medium
 Variegated Arrowhead Plant,Syngonium podophyllum 'Albo Variegata',medium
-Albo Variegated Arrowhead Vine,Syngonium podophyllum 'Albo Variegatum',medium
 Berry Allusion arrowhead vine,Syngonium podophyllum 'Berry Allusion',medium
 Confetti Syngonium,Syngonium podophyllum 'Confetti',medium
 Cream Allusion Syngonium,Syngonium podophyllum 'Cream Allusion',medium
 Golden Allusion arrowhead vine,Syngonium podophyllum 'Gold Allusion',medium
+Holly Arrowhead Plant,Syngonium podophyllum 'Holly',medium
 Ice Frost Syngonium,Syngonium podophyllum 'Ice Frost',medium
 Maria (Bronze) arrowhead vine,Syngonium podophyllum 'Maria',medium
 Milk Confetti Arrowhead Plant,Syngonium podophyllum 'Milk Confetti',medium
@@ -2422,7 +3244,10 @@ Panda Syngonium,Syngonium podophyllum 'Panda',medium
 Pink Allusion Syngonium,Syngonium podophyllum 'Pink Allusion',medium
 Pink Splash arrowhead vine,Syngonium podophyllum 'Pink Splash',medium
 Pixie dwarf arrowhead vine,Syngonium podophyllum 'Pixie',medium
+Red Spot Tricolor Arrowhead Plant,Syngonium podophyllum 'Red Spot Tricolor',medium
+Strawberry Cream Arrowhead Plant,Syngonium podophyllum 'Strawberry Cream',medium
 Strawberry Ice Arrowhead Plant,Syngonium podophyllum 'Strawberry Ice',medium
+Three Kings Arrowhead Plant,Syngonium podophyllum 'Three Kings',medium
 Trileaf Wonder Syngonium,Syngonium podophyllum 'Trileaf Wonder',medium
 White Butterfly Syngonium,Syngonium podophyllum 'White Butterfly',medium
 White Christmas Syngonium,Syngonium podophyllum 'White Christmas',medium
@@ -2436,12 +3261,15 @@ Irish Lace,Tagetes filifolia,high
 Mexican Tarragon,Tagetes lucida,high
 Marigold (French),Tagetes patula,very_high
 Signet marigold,Tagetes tenuifolia,high
+Tamarind,Tamarindus indica,high
 Garden pyrethrum,Tanacetum coccineum,high
 English yew,Taxus baccata,high
+Yellow Bells,Tecoma stans,very_high
 Yellow oxeye,Telekia speciosa,high
 Cylindrical Snowball Cactus,Tephrocactus articulatus,very_high
-Split-leaf Philodendron,Thaumatophyllum bipinnatifidum,medium
-Shangri-La Philodendron,Thaumatophyllum bipinnatifidum 'Shangri-La',medium
+Snowman Cactus,Tephrocactus geometricus,very_high
+Dwarf Black Olive,Terminalia molinetii,high
+Shangri-La Philodendron,Thaumatophyllum bipinnatifidum 'Shangri-La',high
 Evans Philodendron,Thaumatophyllum x evansii,high
 Xanadu Philodendron,Thaumatophyllum xanadu,medium
 Glory of Texas,Thelocactus bicolor,very_high
@@ -2449,17 +3277,24 @@ Large-flowered thelocactus,Thelocactus macdowellii,very_high
 Rink's thelocactus,Thelocactus rinconensis,very_high
 Twisted Rib Cactus,Thelocactus setispinus,very_high
 Southern Shield Fern,Thelypteris kunthii,low
+Danica Arborvitae,Thuja occidentalis 'Danica',high
 Black-eyed Susan Vine,Thunbergia alata,high
 Clock vine,Thunbergia erecta,high
 Sweet clock vine,Thunbergia fragrans,high
 Orange clock vine,Thunbergia gregorii,high
 White Thunia,Thunia alba,high
+Doone Valley Thyme,Thymus 'Doone Valley',very_high
 Golden Lemon Thyme,Thymus × citriodorus 'Aureus',very_high
 Lemon Thyme,Thymus citriodorus,very_high
 Caraway Thyme,Thymus herba-barona,high
+Archer's Gold Thyme,Thymus pulegioides 'Archer's Gold',very_high
 Creeping Thyme,Thymus serpyllum,very_high
 Common Thyme,Thymus vulgaris,very_high
 Silver Thyme,Thymus vulgaris 'Silver Posie',very_high
+Curly Slim Air Plant,Tillandsia 'Curly Slim',high
+Eric Knobloch Air Plant,Tillandsia 'Eric Knobloch',high
+Sparkler Air Plant,Tillandsia 'Sparkler',high
+Victoriana Air Plant,Tillandsia 'Victoria',high
 Air Carnation,Tillandsia aeranthos,high
 White Air Plant,Tillandsia albida,high
 Andre's Air Plant,Tillandsia andreana,high
@@ -2471,46 +3306,61 @@ Berger's Air Plant,Tillandsia bergeri,high
 Short-stem Air Plant,Tillandsia brachycaulos,high
 Bulbous Air Plant,Tillandsia bulbosa,medium
 Speckled Air Plant,Tillandsia butzii,medium
+Cacticola Air Plant,Tillandsia cacticola,high
 Capitata Air Plant,Tillandsia capitata,high
+Capitata Peach Air Plant,Tillandsia capitata 'Peach',high
 Medusa's Head,Tillandsia caput-medusae,high
 Chiapas Air Plant,Tillandsia chiapensis,high
 One-colored Air Plant,Tillandsia concolor,high
 Pink Quill,Tillandsia cyanea,high
-Twisted Air Plant,Tillandsia duratii,high
+Duratii Air Plant,Tillandsia duratii,high
 Dyer's Air Plant,Tillandsia dyeriana,medium
 Ehlers' Air Plant,Tillandsia ehlersiana,high
 Cardinal Air Plant,Tillandsia fasciculata,high
 Fine-leaf Air Plant,Tillandsia filifolia,high
 Fan Air Plant,Tillandsia flabellata,high
+Twisted Air Plant,Tillandsia flexuosa,high
 Fuchsii air plant,Tillandsia fuchsii,high
 Funck's Air Plant,Tillandsia funckiana,high
 Gardner's Air Plant,Tillandsia gardneri,medium
 Twin-flowered Air Plant,Tillandsia geminiflora,medium
 Harris' Air Plant,Tillandsia harrisii,high
 Sky Plant,Tillandsia ionantha,high
+Ionantha Druid Air Plant,Tillandsia ionantha 'Druid',high
+Ionantha Fuego Air Plant,Tillandsia ionantha 'Fuego',high
+Ionantha Rubra Air Plant,Tillandsia ionantha 'Rubra',high
+Ionantha Vanhyningii Air Plant,Tillandsia ionantha var. vanhyningii,high
+Purple Jonesii Air Plant,Tillandsia jonesii,high
 Pleasant Air Plant,Tillandsia jucunda,high
 Rush-leaf Air Plant,Tillandsia juncea,high
 Kolb's Air Plant,Tillandsia kolbii,high
+Latifolia Air Plant,Tillandsia latifolia,high
 Magnus' Air Plant,Tillandsia magnusiana,high
 Blue-flowered Air Plant,Tillandsia mallemontii,medium
 Neglected Air Plant,Tillandsia neglecta,high
+Novakii Air Plant,Tillandsia novakii,high
 Chaffy Air Plant,Tillandsia paleacea,high
 Potbelly air plant,Tillandsia paucifolia,high
 Fuzzywuzzy Air Plant,Tillandsia pruinosa,medium
 False Bailey's Air Plant,Tillandsia pseudobaileyi,high
 Mexican black torch air plant,Tillandsia punctulata,high
 Ball Moss,Tillandsia recurvata,high
+Roland-Gosselinii Air Plant,Tillandsia roland-gosselinii,high
 Schiede's Air Plant,Tillandsia schiedeana,high
 One-sided Air Plant,Tillandsia secunda,high
 Seler's Air Plant,Tillandsia seleriana,high
 Southern Needleleaf,Tillandsia setacea,high
+Straminea Air Plant,Tillandsia straminea,high
+Streptocarpa Air Plant,Tillandsia streptocarpa,high
 Shirley Temple Air Plant,Tillandsia streptophylla,high
 Strict Air Plant,Tillandsia stricta,high
 Snowball Air Plant,Tillandsia tectorum,very_high
 Narrow-leaved air plant,Tillandsia tenuifolia,medium
+Tenuifolia Emerald Forest Air Plant,Tillandsia tenuifolia 'Emerald Forest',medium
 Tricolor Air Plant,Tillandsia tricolor,high
 Spanish Moss,Tillandsia usneoides,medium
 Velvet Air Plant,Tillandsia velutina,high
+Vernicosa Air Plant,Tillandsia vernicosa,high
 King Air Plant,Tillandsia xerographica,high
 Concave-leaf titanopsis,Titanopsis calcarea,very_high
 Wart plant titanopsis,Titanopsis primosii,very_high
@@ -2518,7 +3368,11 @@ Titanopsis schwantesii,Titanopsis schwantesii,very_high
 Piggyback plant,Tolmiea menziesii,medium
 Variegated Dancing Lady,Tolumnia variegata,high
 Torenia (wishbone flower),Torenia fournieri,medium
+Asiatic Jasmine,Trachelospermum asiaticum,high
+Star Jasmine,Trachelospermum jasminoides,high
 Windmill Palm,Trachycarpus fortunei,high
+Dwarf Chusan Palm,Trachycarpus fortunei 'Wagnerianus',high
+Pale Puma Spiderwort,Tradescantia 'Pale Puma',high
 Nanouk,Tradescantia albiflora 'Nanouk',high
 Bubblegum Tradescantia,Tradescantia cerinthoides,high
 Baby Bunny Bellies,Tradescantia chrysophylla,high
@@ -2530,17 +3384,22 @@ Bridal Veil,Tradescantia multiflora,medium
 Purple Heart,Tradescantia pallida,high
 Cobweb Spiderwort,Tradescantia sillamontana,high
 Boat Lily,Tradescantia spathacea,medium
+Sitara's Gold Oyster Plant,Tradescantia spathacea 'Sitara's Gold',medium
 Variegated Oyster Plant,Tradescantia spathacea 'Tricolor',medium
 Virginia Spiderwort,Tradescantia virginiana,medium
 Inch plant,Tradescantia zebrina,medium
+Burgundy Inch Plant,Tradescantia zebrina 'Burgundy',medium
+Pink Paradise Inch Plant,Tradescantia zebrina 'Pink Paradise',medium
 Quadricolor Inch Plant,Tradescantia zebrina 'Quadricolor',medium
 Lance's Mule-ear Orchid,Trichocentrum lanceanum,high
+African Bonsai,Trichodiadema densum,very_high
 Armed Trichoglottis,Trichoglottis brachiata,high
 Apostle Plant,Trimezia candida,medium
 Blue walking iris,Trimezia coerulea,high
 Walking Iris,Trimezia gracilis,medium
 Yellow Walking Iris,Trimezia longifolia,high
 Nasturtium,Tropaeolum majus,high
+Red Riding Hood Tulip,Tulipa 'Red Riding Hood',high
 Garden tulip,Tulipa gesneriana,high
 Lau's turbinicarpus,Turbinicarpus laui,very_high
 Turbinicarpus lophophoroides,Turbinicarpus lophophoroides,very_high
@@ -2549,13 +3408,22 @@ Turbinicarpus schmiedickeanus,Turbinicarpus schmiedickeanus,very_high
 Valdez's turbinicarpus,Turbinicarpus valdezianus,very_high
 Chilean guava,Ugni molinae,high
 Chinese elm,Ulmus parvifolia,medium
+Seiju Chinese Elm,Ulmus parvifolia 'Seiju',medium
 Siberian Elm,Ulmus pumila,high
 Amazon Lily,Urceolina amazonica,medium
-Amazon Lily,Urceolina grandiflora,medium
+Eucharist Lily,Urceolina grandiflora,medium
 Fairy aprons bladderwort,Utricularia sandersonii,high
+Jelly Bean Blueberry,Vaccinium 'Jelly Bean',high
+Pink Lemonade Blueberry,Vaccinium 'Pink Lemonade',high
+Top Hat Blueberry,Vaccinium 'Top Hat',high
 Blueberry (patio),Vaccinium corymbosum,high
+Peach Sorbet Blueberry,Vaccinium corymbosum 'Peach Sorbet',high
+Sharpblue Blueberry,Vaccinium corymbosum 'Sharpblue',very_high
+Sunshine Blue Blueberry,Vaccinium corymbosum 'Sunshine Blue',high
 Cassie,Vachellia farnesiana,high
-Vanda Orchid,Vanda coerulea,very_high
+Umbrella Thorn Acacia,Vachellia tortilis,very_high
+Princess Mikasa Vanda Orchid,Vanda 'Princess Mikasa',very_high
+Blue Vanda,Vanda coerulea,very_high
 Sky-blue Vanda,Vanda coerulescens,very_high
 Crested Vanda,Vanda cristata,high
 Denison's Vanda,Vanda denisoniana,high
@@ -2568,15 +3436,20 @@ Forest lily,Veltheimia bracteata,medium
 Sand lily,Veltheimia capensis,high
 Trailing verbena,Verbena tenuisecta,high
 Garden verbena,Verbena x hybrida,high
+Heartbreaker Hebe,Veronica 'Heartbreaker',high
 Hebe,Veronica × franciscana,high
 Bigleaf Periwinkle,Vinca major,high
+Periwinkle,Vinca minor,medium
 Horned violet (viola),Viola cornuta,high
 Johnny jump-up,Viola tricolor,high
 Garden Pansy,Viola wittrockiana,medium
+Christiane Vriesea,Vriesea 'Christiane',medium
+Era Flaming Sword,Vriesea 'Era',medium
 Tarry Vriesea,Vriesea bituminosa,medium
 Lobster Claw Vriesea,Vriesea carinata,medium
 Netted Vriesea,Vriesea fenestralis,medium
 Foster's Vriesea,Vriesea fosteriana,medium
+Red Chestnut Vriesea,Vriesea fosteriana 'Red Chestnut',medium
 Giant Vriesea,Vriesea gigantea,medium
 King of Bromeliads,Vriesea hieroglyphica,medium
 Ospina's Vriesea,Vriesea ospinae,medium
@@ -2595,18 +3468,29 @@ Indian Kale,Xanthosoma lindenii,medium
 Variegated Taro,Xanthosoma sagittifolium 'Albo-marginata',high
 Blue Taro,Xanthosoma violaceum,medium
 Strawflower,Xerochrysum bracteatum,very_high
+String of Coins / Silver Dollar Vine,Xerosicyos danguyi,very_high
 Spanish Bayonet,Yucca aloifolia,very_high
+Bright Edge Yucca,Yucca filamentosa 'Bright Edge',very_high
 Color Guard Yucca,Yucca filamentosa 'Color Guard',very_high
 Spineless yucca,Yucca gigantea,high
 Spanish Dagger,Yucca gloriosa,very_high
+Bright Star Yucca,Yucca gloriosa 'Walbristar',very_high
 Beaked Yucca,Yucca rostrata,very_high
 Cardboard Palm,Zamia furfuracea,high
+Coontie Palm,Zamia integrifolia,high
 ZZ plant,Zamioculcas zamiifolia,low
+Chameleon ZZ Plant,Zamioculcas zamiifolia 'Chameleon',low
 Lucky ZZ Plant,Zamioculcas zamiifolia 'Lucky',low
 Raven ZZ Plant,Zamioculcas zamiifolia 'Raven',low
+Super Nova Black ZZ Plant,Zamioculcas zamiifolia 'Super Nova',low
 Variegated ZZ Plant,Zamioculcas zamiifolia 'Variegata',low
+Zamicro Dwarf ZZ Plant,Zamioculcas zamiifolia 'Zamicro',low
 Zenzi ZZ Plant,Zamioculcas zamiifolia 'Zenzi',low
+Odessa Calla Lily,Zantedeschia 'Odessa',high
+Picasso Calla Lily,Zantedeschia 'Picasso',high
+Red Alert Calla Lily,Zantedeschia 'Red Alert',high
 Calla Lily,Zantedeschia aethiopica,high
+Spotted Calla Lily,Zantedeschia albomaculata,high
 Golden Calla,Zantedeschia elliottiana,medium
 Pink Calla Lily,Zantedeschia rehmannii,high
 Ginger,Zingiber officinale,medium
@@ -2617,4 +3501,5 @@ Hybrid Zinnia,Zinnia marylandica,high
 Chinese Jujube,Ziziphus jujuba,very_high
 Indian Jujube,Ziziphus mauritiana,very_high
 Christ's Thorn Jujube,Ziziphus spina-christi,very_high
+Artur Elle Zygopetalum Orchid,Zygopetalum Artur Elle 'Tombstone',medium
 Mackay's Zygopetalum,Zygopetalum mackayi,medium
