@@ -6626,7 +6626,7 @@
   {
    "common_name": "Glacier Pothos",
    "scientific_name": "Epipremnum aureum 'Glacier'",
-   "light_requirement": "low"
+   "light_requirement": "medium"
   },
   {
    "common_name": "Global Green Pothos",
@@ -6671,7 +6671,7 @@
   {
    "common_name": "Marble Queen Pothos",
    "scientific_name": "Epipremnum aureum 'Marble Queen'",
-   "light_requirement": "low"
+   "light_requirement": "medium"
   },
   {
    "common_name": "Pothos N'Joy",
@@ -6701,7 +6701,7 @@
   {
    "common_name": "Snow Queen Pothos",
    "scientific_name": "Epipremnum aureum 'Snow Queen'",
-   "light_requirement": "low"
+   "light_requirement": "medium"
   },
   {
    "common_name": "Dragon Tail Plant",
