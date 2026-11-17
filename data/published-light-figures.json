@@ -1,12 +1,12 @@
 {
  "_meta": {
   "dataset": "What the published sources actually say about indoor light",
-  "description": "1024 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 99 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
+  "description": "1031 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 99 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
   "license_compilation": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — applies to this compilation: which sources were read, how the rows are structured, and the links.",
   "license_quotes": "Each quoted sentence remains the property of the publisher named in its row. Quotes are short excerpts reproduced for identification, each with a link to the original page.",
   "attribution": "GrowSpot — growspotapp.com",
   "source_page": "https://growspotapp.com/data/published-light-figures/",
-  "rows": 1024,
+  "rows": 1031,
   "publishers": 99,
   "fields": {
    "publisher": "Hostname of the publisher, www stripped",
@@ -99,6 +99,33 @@
    "value_as_published": "Two to three per hour, winter",
    "quote": "\"Ventilation requirements of greenhouses in winter are generally on the order of two to three air changes per hour.\"",
    "read_on": "30 August 2026"
+  },
+  {
+   "publisher": "ask.ifas.ufl.edu",
+   "source_url": "https://ask.ifas.ufl.edu/publication/EP159",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-an-anthurium-need/",
+   "subject": "What it says an anthurium needs",
+   "value_as_published": "1,000 to 2,500 foot candles",
+   "quote": "Typical light in Florida greenhouse production, 80 to 90% shade; it says more causes pale leaves",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "ask.ifas.ufl.edu",
+   "source_url": "https://ask.ifas.ufl.edu/publication/EP159",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-an-anthurium-need/",
+   "subject": "What it says an anthurium needs",
+   "value_as_published": "100 foot candles",
+   "quote": "Interior light under which several cultivars flowered continuously for over a year and a half in its study",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "ask.ifas.ufl.edu",
+   "source_url": "https://ask.ifas.ufl.edu/publication/EP159",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-an-anthurium-need/",
+   "subject": "What it says an anthurium needs",
+   "value_as_published": "between 70 and 85°F",
+   "quote": "The interior temperature to maintain, in its guide to commercial production",
+   "read_on": "17 November 2026"
   },
   {
    "publisher": "ask.ifas.ufl.edu",
@@ -6777,6 +6804,42 @@
    "value_as_published": "at least two hours of winter sun",
    "quote": "NYBG's light preference for Schlumbergera bridgesii, together with very bright light conditions",
    "read_on": "22 October 2026"
+  },
+  {
+   "publisher": "libguides.nybg.org",
+   "source_url": "https://libguides.nybg.org/anthurium",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-an-anthurium-need/",
+   "subject": "What it says an anthurium needs",
+   "value_as_published": "A slightly shaded east-facing window",
+   "quote": "Best in winter",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "libguides.nybg.org",
+   "source_url": "https://libguides.nybg.org/anthurium",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-an-anthurium-need/",
+   "subject": "What it says an anthurium needs",
+   "value_as_published": "An unobstructed north-facing window",
+   "quote": "Ideal in summer, protected from strong direct sun",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "libguides.nybg.org",
+   "source_url": "https://libguides.nybg.org/anthurium",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-an-anthurium-need/",
+   "subject": "What it says an anthurium needs",
+   "value_as_published": "below 60°F.",
+   "quote": "Don't let it fall this low, or the plant becomes stressed and can die",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "libguides.nybg.org",
+   "source_url": "https://libguides.nybg.org/anthurium",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-an-anthurium-need/",
+   "subject": "What it says an anthurium needs",
+   "value_as_published": "between 65º and 75º F.",
+   "quote": "Where it grows best, a little warmer by day than at night",
+   "read_on": "17 November 2026"
   },
   {
    "publisher": "libguides.nybg.org",
