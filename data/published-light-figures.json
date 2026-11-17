@@ -1,13 +1,13 @@
 {
  "_meta": {
   "dataset": "What the published sources actually say about indoor light",
-  "description": "964 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 94 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
+  "description": "973 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 95 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
   "license_compilation": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — applies to this compilation: which sources were read, how the rows are structured, and the links.",
   "license_quotes": "Each quoted sentence remains the property of the publisher named in its row. Quotes are short excerpts reproduced for identification, each with a link to the original page.",
   "attribution": "GrowSpot — growspotapp.com",
   "source_page": "https://growspotapp.com/data/published-light-figures/",
-  "rows": 964,
-  "publishers": 94,
+  "rows": 973,
+  "publishers": 95,
   "fields": {
    "publisher": "Hostname of the publisher, www stripped",
    "source_url": "The exact page the sentence was read on",
@@ -693,6 +693,33 @@
    "value_as_published": "Nobody has tested it",
    "quote": "On the adaptive function: there are several hypotheses and \"no direct experimental studies have been completed to determine the functions they actually serve.\"",
    "read_on": "30 August 2026"
+  },
+  {
+   "publisher": "chicagobotanic.org",
+   "source_url": "https://www.chicagobotanic.org/plant-information/cyclamen-care",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-cyclamen/",
+   "subject": "What it says a cyclamen needs",
+   "value_as_published": "50 to 65 degrees",
+   "quote": "Ideal at night",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "chicagobotanic.org",
+   "source_url": "https://www.chicagobotanic.org/plant-information/cyclamen-care",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-cyclamen/",
+   "subject": "What it says a cyclamen needs",
+   "value_as_published": "60 to 70 degrees Fahrenheit",
+   "quote": "Ideal during the day",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "chicagobotanic.org",
+   "source_url": "https://www.chicagobotanic.org/plant-information/cyclamen-care",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-cyclamen/",
+   "subject": "What it says a cyclamen needs",
+   "value_as_published": "One to two hours of direct sunlight",
+   "quote": "Acceptable in the winter months, as long as the plant does not get too warm",
+   "read_on": "17 November 2026"
   },
   {
    "publisher": "content.ces.ncsu.edu",
@@ -4296,6 +4323,42 @@
   },
   {
    "publisher": "hgic.clemson.edu",
+   "source_url": "https://hgic.clemson.edu/factsheet/cyclamen/",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-cyclamen/",
+   "subject": "What it says a cyclamen needs",
+   "value_as_published": "60 to 65 °F",
+   "quote": "Ideal daytime temperature",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "hgic.clemson.edu",
+   "source_url": "https://hgic.clemson.edu/factsheet/cyclamen/",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-cyclamen/",
+   "subject": "What it says a cyclamen needs",
+   "value_as_published": "above 70 °F",
+   "quote": "Where, it says, the buds fail to develop",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "hgic.clemson.edu",
+   "source_url": "https://hgic.clemson.edu/factsheet/cyclamen/",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-cyclamen/",
+   "subject": "What it says a cyclamen needs",
+   "value_as_published": "around 50 °F",
+   "quote": "Night temperature",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "hgic.clemson.edu",
+   "source_url": "https://hgic.clemson.edu/factsheet/cyclamen/",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-cyclamen/",
+   "subject": "What it says a cyclamen needs",
+   "value_as_published": "bright indirect light",
+   "quote": "Writing about reblooming at home, it adds that light there is typically not high enough, giving weak plants with smaller, paler blooms",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "hgic.clemson.edu",
    "source_url": "https://hgic.clemson.edu/factsheet/indoor-plants-cleaning-fertilizing-containers-light-requirements/",
    "appears_on": "https://growspotapp.com/guides/leggy-houseplants/",
    "subject": "The floor it gives",
@@ -4670,6 +4733,24 @@
    "subject": "What it says an amaryllis needs",
    "value_as_published": "full sun for at least 6 hours daily",
    "quote": "Outdoors for the summer, after a start in shade or indirect light",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "hort.extension.wisc.edu",
+   "source_url": "https://hort.extension.wisc.edu/articles/cyclamen/",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-cyclamen/",
+   "subject": "What it says a cyclamen needs",
+   "value_as_published": "60 to 65 ºF",
+   "quote": "Ideal daytime temperature; it adds that today's hybrids cope with a wider range",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "hort.extension.wisc.edu",
+   "source_url": "https://hort.extension.wisc.edu/articles/cyclamen/",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-cyclamen/",
+   "subject": "What it says a cyclamen needs",
+   "value_as_published": "bright, indirect light",
+   "quote": "An east window is often a good spot, but in a Wisconsin winter a southern exposure may be better",
    "read_on": "17 November 2026"
   },
   {
