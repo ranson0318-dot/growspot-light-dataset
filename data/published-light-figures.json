@@ -1,13 +1,13 @@
 {
  "_meta": {
   "dataset": "What the published sources actually say about indoor light",
-  "description": "973 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 95 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
+  "description": "983 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 97 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
   "license_compilation": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — applies to this compilation: which sources were read, how the rows are structured, and the links.",
   "license_quotes": "Each quoted sentence remains the property of the publisher named in its row. Quotes are short excerpts reproduced for identification, each with a link to the original page.",
   "attribution": "GrowSpot — growspotapp.com",
   "source_page": "https://growspotapp.com/data/published-light-figures/",
-  "rows": 973,
-  "publishers": 95,
+  "rows": 983,
+  "publishers": 97,
   "fields": {
    "publisher": "Hostname of the publisher, www stripped",
    "source_url": "The exact page the sentence was read on",
@@ -1658,6 +1658,15 @@
    "read_on": "22 October 2026"
   },
   {
+   "publisher": "extension.iastate.edu",
+   "source_url": "https://www.extension.iastate.edu/newsrel/2002/nov02/nov0226.html",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-norfolk-island-pine/",
+   "subject": "What it says a Norfolk Island pine needs",
+   "value_as_published": "one to two hours of sunlight a day",
+   "quote": "From an eastern or western exposure, in bright, indirect light",
+   "read_on": "17 November 2026"
+  },
+  {
    "publisher": "extension.illinois.edu",
    "source_url": "https://extension.illinois.edu/blogs/flowers-fruits-and-frass/2021-01-08-herbs-all-winter-grow-them-indoors",
    "appears_on": "https://growspotapp.com/guides/kitchen-plants/",
@@ -1674,6 +1683,24 @@
    "value_as_published": "No number given",
    "quote": "\"High levels of light are necessary to ensure the plants do not get leggy and spindly.\"",
    "read_on": "30 August 2026"
+  },
+  {
+   "publisher": "extension.illinois.edu",
+   "source_url": "https://extension.illinois.edu/blogs/garden-scoop/2017-12-27-norfolk-island-pine",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-norfolk-island-pine/",
+   "subject": "What it says a Norfolk Island pine needs",
+   "value_as_published": "65-75 degrees",
+   "quote": "Its ideal range, which it says suits most indoor environments",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "extension.illinois.edu",
+   "source_url": "https://extension.illinois.edu/blogs/garden-scoop/2017-12-27-norfolk-island-pine",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-norfolk-island-pine/",
+   "subject": "What it says a Norfolk Island pine needs",
+   "value_as_published": "below 45 degrees",
+   "quote": "Where, it says, the plant has little tolerance",
+   "read_on": "17 November 2026"
   },
   {
    "publisher": "extension.illinois.edu",
@@ -4691,6 +4718,15 @@
    "read_on": "30 August 2026"
   },
   {
+   "publisher": "homegarden.cahnr.uconn.edu",
+   "source_url": "https://homegarden.cahnr.uconn.edu/factsheets/norfolk-island-pine/",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-norfolk-island-pine/",
+   "subject": "What it says a Norfolk Island pine needs",
+   "value_as_published": "an open, bright location, but not in full sun",
+   "quote": "It adds that the plant tolerates low light but grows leggy without enough",
+   "read_on": "17 November 2026"
+  },
+  {
    "publisher": "homesandgardens.com",
    "source_url": "https://www.homesandgardens.com/gardens/overwintering-plants-indoors",
    "appears_on": "https://growspotapp.com/guides/when-to-bring-plants-inside/",
@@ -6609,6 +6645,51 @@
   },
   {
    "publisher": "libguides.nybg.org",
+   "source_url": "https://libguides.nybg.org/norfolkislandpine",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-norfolk-island-pine/",
+   "subject": "What it says a Norfolk Island pine needs",
+   "value_as_published": "50º to 65º F",
+   "quote": "At night",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "libguides.nybg.org",
+   "source_url": "https://libguides.nybg.org/norfolkislandpine",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-norfolk-island-pine/",
+   "subject": "What it says a Norfolk Island pine needs",
+   "value_as_published": "60º and 70º F",
+   "quote": "Where it grows best during the day",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "libguides.nybg.org",
+   "source_url": "https://libguides.nybg.org/norfolkislandpine",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-norfolk-island-pine/",
+   "subject": "What it says a Norfolk Island pine needs",
+   "value_as_published": "around 55 to 60º F",
+   "quote": "In winter, kept at the low end so the plant rests",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "libguides.nybg.org",
+   "source_url": "https://libguides.nybg.org/norfolkislandpine",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-norfolk-island-pine/",
+   "subject": "What it says a Norfolk Island pine needs",
+   "value_as_published": "bright, indirect light",
+   "quote": "Close to an east window, a few feet back in a bright south-facing room, or west but kept from direct late-afternoon sun",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "libguides.nybg.org",
+   "source_url": "https://libguides.nybg.org/norfolkislandpine",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-norfolk-island-pine/",
+   "subject": "What it says a Norfolk Island pine needs",
+   "value_as_published": "Northern light is not strong enough",
+   "quote": "From its checklist for a tree that is dropping branches",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "libguides.nybg.org",
    "source_url": "https://libguides.nybg.org/poinsettia",
    "appears_on": "https://growspotapp.com/guides/where-to-put-a-poinsettia/",
    "subject": "What it says a poinsettia needs",
@@ -6921,6 +7002,15 @@
    "value_as_published": "30 to 40 percent",
    "quote": "\"The recommended humidity level during the winter months is 30 to 40 percent.\"",
    "read_on": "30 August 2026"
+  },
+  {
+   "publisher": "northerngardener.org",
+   "source_url": "https://northerngardener.org/plant-profile-norfolk-island-pines/",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-a-norfolk-island-pine/",
+   "subject": "What it says a Norfolk Island pine needs",
+   "value_as_published": "within a few feet of a south-facing window",
+   "quote": "If you have one; if not, the brightest room in the house",
+   "read_on": "17 November 2026"
   },
   {
    "publisher": "open.edu",
