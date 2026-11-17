@@ -1,12 +1,12 @@
 {
  "_meta": {
   "dataset": "What the published sources actually say about indoor light",
-  "description": "1002 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 97 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
+  "description": "1012 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 97 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
   "license_compilation": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — applies to this compilation: which sources were read, how the rows are structured, and the links.",
   "license_quotes": "Each quoted sentence remains the property of the publisher named in its row. Quotes are short excerpts reproduced for identification, each with a link to the original page.",
   "attribution": "GrowSpot — growspotapp.com",
   "source_page": "https://growspotapp.com/data/published-light-figures/",
-  "rows": 1002,
+  "rows": 1012,
   "publishers": 97,
   "fields": {
    "publisher": "Hostname of the publisher, www stripped",
@@ -4404,6 +4404,42 @@
   },
   {
    "publisher": "hgic.clemson.edu",
+   "source_url": "https://hgic.clemson.edu/factsheet/bird-of-paradise/",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-bird-of-paradise-need/",
+   "subject": "What it says a bird of paradise needs",
+   "value_as_published": "50 to 55 °F at night",
+   "quote": "What it says the plant prefers at night",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "hgic.clemson.edu",
+   "source_url": "https://hgic.clemson.edu/factsheet/bird-of-paradise/",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-bird-of-paradise-need/",
+   "subject": "What it says a bird of paradise needs",
+   "value_as_published": "65 to 70 °F during the day",
+   "quote": "What it says the plant prefers by day",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "hgic.clemson.edu",
+   "source_url": "https://hgic.clemson.edu/factsheet/bird-of-paradise/",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-bird-of-paradise-need/",
+   "subject": "What it says a bird of paradise needs",
+   "value_as_published": "below 60 °F",
+   "quote": "Bring a plant that summered outside back in once temperatures begin to drop this low",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "hgic.clemson.edu",
+   "source_url": "https://hgic.clemson.edu/factsheet/bird-of-paradise/",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-bird-of-paradise-need/",
+   "subject": "What it says a bird of paradise needs",
+   "value_as_published": "full sun",
+   "quote": "What it prefers; it adds that the plant will tolerate lower light, such as a south-facing window gives",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "hgic.clemson.edu",
    "source_url": "https://hgic.clemson.edu/factsheet/cyclamen/",
    "appears_on": "https://growspotapp.com/guides/where-to-put-a-cyclamen/",
    "subject": "What it says a cyclamen needs",
@@ -6741,6 +6777,60 @@
    "value_as_published": "at least two hours of winter sun",
    "quote": "NYBG's light preference for Schlumbergera bridgesii, together with very bright light conditions",
    "read_on": "22 October 2026"
+  },
+  {
+   "publisher": "libguides.nybg.org",
+   "source_url": "https://libguides.nybg.org/birdofparadise",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-bird-of-paradise-need/",
+   "subject": "What it says a bird of paradise needs",
+   "value_as_published": "55 to 60˚ F. at night",
+   "quote": "During active growth",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "libguides.nybg.org",
+   "source_url": "https://libguides.nybg.org/birdofparadise",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-bird-of-paradise-need/",
+   "subject": "What it says a bird of paradise needs",
+   "value_as_published": "65 to 75˚ F. during the day",
+   "quote": "Normal room temperatures during active growth",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "libguides.nybg.org",
+   "source_url": "https://libguides.nybg.org/birdofparadise",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-bird-of-paradise-need/",
+   "subject": "What it says a bird of paradise needs",
+   "value_as_published": "a shear curtain or stepping back a foot or two more",
+   "quote": "In the height of summer, to keep the leaves from scorching",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "libguides.nybg.org",
+   "source_url": "https://libguides.nybg.org/birdofparadise",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-bird-of-paradise-need/",
+   "subject": "What it says a bird of paradise needs",
+   "value_as_published": "a very bright, unobstructed east-facing window",
+   "quote": "The alternative it gives to the south window",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "libguides.nybg.org",
+   "source_url": "https://libguides.nybg.org/birdofparadise",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-bird-of-paradise-need/",
+   "subject": "What it says a bird of paradise needs",
+   "value_as_published": "around 55˚ F. day and night",
+   "quote": "From November through February, so the plant rests",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "libguides.nybg.org",
+   "source_url": "https://libguides.nybg.org/birdofparadise",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-bird-of-paradise-need/",
+   "subject": "What it says a bird of paradise needs",
+   "value_as_published": "three to four hours of direct sunlight",
+   "quote": "Near a south-facing window with no blinds drawn",
+   "read_on": "17 November 2026"
   },
   {
    "publisher": "libguides.nybg.org",
