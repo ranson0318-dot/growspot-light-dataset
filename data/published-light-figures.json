@@ -1,13 +1,13 @@
 {
  "_meta": {
   "dataset": "What the published sources actually say about indoor light",
-  "description": "1020 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 98 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
+  "description": "1024 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 99 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
   "license_compilation": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — applies to this compilation: which sources were read, how the rows are structured, and the links.",
   "license_quotes": "Each quoted sentence remains the property of the publisher named in its row. Quotes are short excerpts reproduced for identification, each with a link to the original page.",
   "attribution": "GrowSpot — growspotapp.com",
   "source_page": "https://growspotapp.com/data/published-light-figures/",
-  "rows": 1020,
-  "publishers": 98,
+  "rows": 1024,
+  "publishers": 99,
   "fields": {
    "publisher": "Hostname of the publisher, www stripped",
    "source_url": "The exact page the sentence was read on",
@@ -7238,6 +7238,24 @@
    "read_on": "29 August 2026"
   },
   {
+   "publisher": "myperfectplants.com",
+   "source_url": "https://myperfectplants.com/blogs/blog/growing-indoor-olive-trees",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-an-olive-tree/",
+   "subject": "What it says an olive tree needs",
+   "value_as_published": "an east or south-facing window is best",
+   "quote": "The sunniest spot indoors once the pot comes in; it warns against leaves touching the glass",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "myperfectplants.com",
+   "source_url": "https://myperfectplants.com/blogs/blog/growing-indoor-olive-trees",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-an-olive-tree/",
+   "subject": "What it says an olive tree needs",
+   "value_as_published": "Olive trees need full sun.",
+   "quote": "It adds that they will not survive indefinitely indoors, but can live in a container outside in spring and summer and inside for winter",
+   "read_on": "17 November 2026"
+  },
+  {
    "publisher": "nature.com",
    "source_url": "https://www.nature.com/articles/s41370-019-0175-9",
    "appears_on": "https://growspotapp.com/guides/bedroom-plants/",
@@ -7740,6 +7758,24 @@
    "value_as_published": "Still air is the thing to avoid",
    "quote": "\"Avoid sheltered places, such as against walls or fences, where the air is likely to be still\"",
    "read_on": "30 August 2026"
+  },
+  {
+   "publisher": "rhs.org.uk",
+   "source_url": "https://www.rhs.org.uk/fruit/olives/grow-your-own",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-an-olive-tree/",
+   "subject": "What it says an olive tree needs",
+   "value_as_published": "a sunny-spot outdoors in summer",
+   "quote": "For trees in large containers, then moved into a frost-free place overwinter",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "rhs.org.uk",
+   "source_url": "https://www.rhs.org.uk/fruit/olives/grow-your-own",
+   "appears_on": "https://growspotapp.com/guides/where-to-put-an-olive-tree/",
+   "subject": "What it says an olive tree needs",
+   "value_as_published": "a warm, sunny and sheltered position",
+   "quote": "Where it says olives love to bask",
+   "read_on": "17 November 2026"
   },
   {
    "publisher": "rhs.org.uk",
