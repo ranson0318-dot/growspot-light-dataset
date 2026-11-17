@@ -1,12 +1,12 @@
 {
  "_meta": {
   "dataset": "What the published sources actually say about indoor light",
-  "description": "994 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 97 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
+  "description": "1002 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 97 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
   "license_compilation": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — applies to this compilation: which sources were read, how the rows are structured, and the links.",
   "license_quotes": "Each quoted sentence remains the property of the publisher named in its row. Quotes are short excerpts reproduced for identification, each with a link to the original page.",
   "attribution": "GrowSpot — growspotapp.com",
   "source_page": "https://growspotapp.com/data/published-light-figures/",
-  "rows": 994,
+  "rows": 1002,
   "publishers": 97,
   "fields": {
    "publisher": "Hostname of the publisher, www stripped",
@@ -756,6 +756,33 @@
    "value_as_published": "100 FC",
    "quote": "Grower · low-light-tolerant plants — bare minimum",
    "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "costafarms.com",
+   "source_url": "https://costafarms.com/blogs/plant-finder/money-tree",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-money-tree-need/",
+   "subject": "What it says a money tree needs",
+   "value_as_published": "a sheer curtain",
+   "quote": "What it suggests at a south- or west-facing window, unless the plant sits far enough from the glass",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "costafarms.com",
+   "source_url": "https://costafarms.com/blogs/plant-finder/money-tree",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-money-tree-need/",
+   "subject": "What it says a money tree needs",
+   "value_as_published": "Average household temperatures",
+   "quote": "Its care table, adding that the plant should be protected from cold drafts",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "costafarms.com",
+   "source_url": "https://costafarms.com/blogs/plant-finder/money-tree",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-money-tree-need/",
+   "subject": "What it says a money tree needs",
+   "value_as_published": "until about 10 a.m.",
+   "quote": "How long it says a money tree can take direct morning sun without issue",
+   "read_on": "17 November 2026"
   },
   {
    "publisher": "deckers-nursery.com",
@@ -6762,6 +6789,24 @@
   },
   {
    "publisher": "libguides.nybg.org",
+   "source_url": "https://libguides.nybg.org/pachira",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-money-tree-need/",
+   "subject": "What it says a money tree needs",
+   "value_as_published": "between 65 and 85°F",
+   "quote": "Ideal; it calls these tropical plants that want a warm household",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "libguides.nybg.org",
+   "source_url": "https://libguides.nybg.org/pachira",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-money-tree-need/",
+   "subject": "What it says a money tree needs",
+   "value_as_published": "bright, filtered light",
+   "quote": "In a room that gets sun for most of the day, but not right in the window; strong direct sun can cause sunburn",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "libguides.nybg.org",
    "source_url": "https://libguides.nybg.org/poinsettia",
    "appears_on": "https://growspotapp.com/guides/where-to-put-a-poinsettia/",
    "subject": "What it says a poinsettia needs",
@@ -7398,6 +7443,33 @@
    "value_as_published": "The same band, put at 2–6 hours",
    "quote": "\"Partial Shade (Direct sunlight only part of the day, 2-6 hours)\"",
    "read_on": "30 August 2026"
+  },
+  {
+   "publisher": "plants.ces.ncsu.edu",
+   "source_url": "https://plants.ces.ncsu.edu/plants/pachira-aquatica/",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-money-tree-need/",
+   "subject": "What it says a money tree needs",
+   "value_as_published": "45 degrees Fahrenheit",
+   "quote": "Bring it indoors before the temperature drops to this",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "plants.ces.ncsu.edu",
+   "source_url": "https://plants.ces.ncsu.edu/plants/pachira-aquatica/",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-money-tree-need/",
+   "subject": "What it says a money tree needs",
+   "value_as_published": "between 65 to 75 degrees Fahrenheit",
+   "quote": "Where it says the tree thrives, in a humid environment",
+   "read_on": "17 November 2026"
+  },
+  {
+   "publisher": "plants.ces.ncsu.edu",
+   "source_url": "https://plants.ces.ncsu.edu/plants/pachira-aquatica/",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-money-tree-need/",
+   "subject": "What it says a money tree needs",
+   "value_as_published": "indirect sunlight or a mix of sun and shade",
+   "quote": "It adds that direct sunlight can scorch the leaves",
+   "read_on": "17 November 2026"
   },
   {
    "publisher": "plants.ces.ncsu.edu",
