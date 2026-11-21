@@ -5,7 +5,7 @@
   "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
   "attribution": "GrowSpot — growspotapp.com",
   "source_page": "https://growspotapp.com/data/species-light-levels/",
-  "snapshot_date": "2026-11-16",
+  "snapshot_date": "2026-11-21",
   "fields": {
    "common_name": "Common trade name (may repeat across cultivars)",
    "scientific_name": "Binomial, with cultivar where relevant. Unique per row.",
@@ -14,8 +14,23 @@
  },
  "species": [
   {
+   "common_name": "Baby Bubba Okra",
+   "scientific_name": "Abelmoschus esculentus 'Baby Bubba'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Green Fingers Okra",
+   "scientific_name": "Abelmoschus esculentus 'Green Fingers'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Canary Bird Flowering Maple",
    "scientific_name": "Abutilon 'Canary Bird'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Cherry Blossom Flowering Maple",
+   "scientific_name": "Abutilon 'Cherry Blossom'",
    "light_requirement": "high"
   },
   {
@@ -51,6 +66,11 @@
   {
    "common_name": "Pinecone Bromeliad",
    "scientific_name": "Acanthostachys strobilacea",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Pineapple Guava / Feijoa",
+   "scientific_name": "Acca sellowiana",
    "light_requirement": "high"
   },
   {
@@ -204,6 +224,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Fragrans Maidenhair Fern",
+   "scientific_name": "Adiantum raddianum 'Fragrantissimum'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Brittle Maidenhair Fern",
    "scientific_name": "Adiantum tenerum",
    "light_requirement": "low"
@@ -236,6 +261,11 @@
   {
    "common_name": "Blue Tango Bromeliad",
    "scientific_name": "Aechmea 'Blue Tango'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Del Mar Bromeliad",
+   "scientific_name": "Aechmea 'Del Mar'",
    "light_requirement": "high"
   },
   {
@@ -439,6 +469,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Japhrolepis Lipstick Plant",
+   "scientific_name": "Aeschynanthus 'Japhrolepis'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Mona Lisa Lipstick Plant",
    "scientific_name": "Aeschynanthus 'Mona Lisa'",
    "light_requirement": "high"
@@ -451,6 +486,11 @@
   {
    "common_name": "Rasta Lipstick Plant",
    "scientific_name": "Aeschynanthus 'Rasta'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Red Elf Lipstick Plant",
+   "scientific_name": "Aeschynanthus 'Red Elf'",
    "light_requirement": "high"
   },
   {
@@ -674,8 +714,23 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "BJ Freeman Chinese Evergreen",
+   "scientific_name": "Aglaonema 'BJ Freeman'",
+   "light_requirement": "low"
+  },
+  {
    "common_name": "Cecilia Chinese Evergreen",
    "scientific_name": "Aglaonema 'Cecilia'",
+   "light_requirement": "low"
+  },
+  {
+   "common_name": "Cherry Baby Chinese Evergreen",
+   "scientific_name": "Aglaonema 'Cherry Baby'",
+   "light_requirement": "low"
+  },
+  {
+   "common_name": "Citrus Glow Chinese Evergreen",
+   "scientific_name": "Aglaonema 'Citrus Glow'",
    "light_requirement": "low"
   },
   {
@@ -714,8 +769,23 @@
    "light_requirement": "low"
   },
   {
+   "common_name": "Golden Powder Chinese Evergreen",
+   "scientific_name": "Aglaonema 'Golden Powder'",
+   "light_requirement": "low"
+  },
+  {
+   "common_name": "Green Papaya Chinese Evergreen",
+   "scientific_name": "Aglaonema 'Green Papaya'",
+   "light_requirement": "low"
+  },
+  {
    "common_name": "Jubilee Compacta Chinese Evergreen",
    "scientific_name": "Aglaonema 'Jubilee Compacta'",
+   "light_requirement": "low"
+  },
+  {
+   "common_name": "Key Lime Chinese Evergreen",
+   "scientific_name": "Aglaonema 'Key Lime'",
    "light_requirement": "low"
   },
   {
@@ -726,6 +796,11 @@
   {
    "common_name": "Lady Valentine Aglaonema",
    "scientific_name": "Aglaonema 'Lady Valentine'",
+   "light_requirement": "low"
+  },
+  {
+   "common_name": "Lucky Red Chinese Evergreen",
+   "scientific_name": "Aglaonema 'Lucky Red'",
    "light_requirement": "low"
   },
   {
@@ -789,6 +864,11 @@
    "light_requirement": "low"
   },
   {
+   "common_name": "Salmon Fantasy Chinese Evergreen",
+   "scientific_name": "Aglaonema 'Salmon Fantasy'",
+   "light_requirement": "low"
+  },
+  {
    "common_name": "Siam Aurora Aglaonema",
    "scientific_name": "Aglaonema 'Siam Aurora'",
    "light_requirement": "low"
@@ -836,6 +916,11 @@
   {
    "common_name": "Super White Chinese Evergreen",
    "scientific_name": "Aglaonema 'Super White'",
+   "light_requirement": "low"
+  },
+  {
+   "common_name": "Tigress Chinese Evergreen",
+   "scientific_name": "Aglaonema 'Tigress'",
    "light_requirement": "low"
   },
   {
@@ -909,6 +994,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Black Scallop Bugleweed",
+   "scientific_name": "Ajuga reptans 'Black Scallop'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Corkscrew Albuca",
    "scientific_name": "Albuca spiralis",
    "light_requirement": "very_high"
@@ -922,6 +1012,11 @@
    "common_name": "Imperial bromeliad",
    "scientific_name": "Alcantarea imperialis",
    "light_requirement": "high"
+  },
+  {
+   "common_name": "Pacific Nova Orchid",
+   "scientific_name": "Aliceara 'Pacific Nova'",
+   "light_requirement": "medium"
   },
   {
    "common_name": "Tahoma Glacier Orchid",
@@ -1069,11 +1164,6 @@
    "light_requirement": "high"
   },
   {
-   "common_name": "Stingray Alocasia",
-   "scientific_name": "Alocasia 'Stingray'",
-   "light_requirement": "medium"
-  },
-  {
    "common_name": "Tiny Dancer Alocasia",
    "scientific_name": "Alocasia 'Tiny Dancer'",
    "light_requirement": "medium"
@@ -1184,6 +1274,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Black Stem Alocasia",
+   "scientific_name": "Alocasia macrorrhizos 'Black Stem'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Golden Stem Alocasia",
    "scientific_name": "Alocasia macrorrhizos 'Lutea'",
    "light_requirement": "high"
@@ -1191,6 +1286,11 @@
   {
    "common_name": "Splash Elephant Ear",
    "scientific_name": "Alocasia macrorrhizos 'Splash'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Stingray Alocasia",
+   "scientific_name": "Alocasia macrorrhizos 'Stingray'",
    "light_requirement": "high"
   },
   {
@@ -1504,6 +1604,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Party Time Alternanthera",
+   "scientific_name": "Alternanthera ficoidea 'Party Time'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Belladonna Lily",
    "scientific_name": "Amaryllis belladonna",
    "light_requirement": "high"
@@ -1704,6 +1809,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Anthurium Hybrid",
+   "scientific_name": "Anthurium clarinervium x Anthurium papillilaminum",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Anthurium Crystallinum",
    "scientific_name": "Anthurium crystallinum",
    "light_requirement": "medium"
@@ -1844,6 +1954,16 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Betel Nut Palm",
+   "scientific_name": "Areca catechu",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Wild Areca Palm",
+   "scientific_name": "Areca triandra",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Marguerite daisy",
    "scientific_name": "Argyranthemum frutescens",
    "light_requirement": "high"
@@ -1942,6 +2062,11 @@
    "common_name": "Milky Way Cast Iron Plant",
    "scientific_name": "Aspidistra elatior 'Milky Way'",
    "light_requirement": "low"
+  },
+  {
+   "common_name": "Parvati Mother Fern",
+   "scientific_name": "Asplenium 'Parvati'",
+   "light_requirement": "medium"
   },
   {
    "common_name": "Japanese Bird's Nest Fern",
@@ -2049,6 +2174,21 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Ghost Fern",
+   "scientific_name": "Athyrium 'Ghost'",
+   "light_requirement": "low"
+  },
+  {
+   "common_name": "Japanese Painted Fern",
+   "scientific_name": "Athyrium niponicum",
+   "light_requirement": "low"
+  },
+  {
+   "common_name": "Crested Surf Japanese Painted Fern",
+   "scientific_name": "Athyrium niponicum 'Crested Surf'",
+   "light_requirement": "low"
+  },
+  {
    "common_name": "Crotonifolia Spotted Laurel",
    "scientific_name": "Aucuba japonica 'Crotonifolia'",
    "light_requirement": "low"
@@ -2092,6 +2232,11 @@
    "common_name": "Coral Creeper",
    "scientific_name": "Barleria repens",
    "light_requirement": "high"
+  },
+  {
+   "common_name": "Marfitch Beallara Orchid",
+   "scientific_name": "Beallara 'Marfitch'",
+   "light_requirement": "medium"
   },
   {
    "common_name": "Red Ponytail Palm",
@@ -2182,6 +2327,11 @@
    "common_name": "Marmaduke Begonia",
    "scientific_name": "Begonia 'Marmaduke'",
    "light_requirement": "medium"
+  },
+  {
+   "common_name": "Megawatt Red Begonia",
+   "scientific_name": "Begonia 'Megawatt Red Green Leaf'",
+   "light_requirement": "high"
   },
   {
    "common_name": "My Special Angel Begonia",
@@ -2276,6 +2426,11 @@
   {
    "common_name": "Bonfire Begonia",
    "scientific_name": "Begonia boliviensis 'Bonfire'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Santa Cruz Bolivian Begonia",
+   "scientific_name": "Begonia boliviensis 'Santa Cruz'",
    "light_requirement": "medium"
   },
   {
@@ -2389,6 +2544,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Tie Dye Rex Begonia",
+   "scientific_name": "Begonia rex 'Tie Dye'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Tornado Rex Begonia",
    "scientific_name": "Begonia rex 'Tornado'",
    "light_requirement": "medium"
@@ -2432,6 +2592,11 @@
    "common_name": "BIG Begonia",
    "scientific_name": "Begonia x benariensis",
    "light_requirement": "high"
+  },
+  {
+   "common_name": "Marmorata Tuberous Begonia",
+   "scientific_name": "Begonia x tuberhybrida 'Marmorata'",
+   "light_requirement": "medium"
   },
   {
    "common_name": "English Daisy",
@@ -2524,6 +2689,11 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Vera Purple Bougainvillea",
+   "scientific_name": "Bougainvillea 'Vera Purple'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Hybrid bougainvillea",
    "scientific_name": "Bougainvillea buttiana",
    "light_requirement": "very_high"
@@ -2599,8 +2769,18 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Green Magic Broccoli",
+   "scientific_name": "Brassica oleracea 'Green Magic'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Mei Qing Choi Baby Bok Choy",
    "scientific_name": "Brassica rapa 'Mei Qing Choi'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Tatsoi",
+   "scientific_name": "Brassica rapa subsp. narinosa",
    "light_requirement": "high"
   },
   {
@@ -2679,6 +2859,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Pom-pom Bulbophyllum",
+   "scientific_name": "Bulbophyllum vaginatum",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Pindo Palm",
    "scientific_name": "Butia odorata",
    "light_requirement": "high"
@@ -2686,6 +2871,11 @@
   {
    "common_name": "Common boxwood",
    "scientific_name": "Buxus sempervirens",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "North Star Boxwood",
+   "scientific_name": "Buxus sempervirens 'Katerberg'",
    "light_requirement": "high"
   },
   {
@@ -2939,6 +3129,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "China Aster",
+   "scientific_name": "Callistephus chinensis",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Heather",
    "scientific_name": "Calluna vulgaris",
    "light_requirement": "high"
@@ -2984,6 +3179,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Lucifer Dwarf Canna",
+   "scientific_name": "Canna 'Lucifer'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Tropicanna Canna",
    "scientific_name": "Canna 'Phasion'",
    "light_requirement": "high"
@@ -3004,8 +3204,18 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Cajun Belle Pepper",
+   "scientific_name": "Capsicum annuum 'Cajun Belle'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "California Wonder Bell Pepper",
    "scientific_name": "Capsicum annuum 'California Wonder'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Cayenne Pepper",
+   "scientific_name": "Capsicum annuum 'Cayenne'",
    "light_requirement": "very_high"
   },
   {
@@ -3019,6 +3229,11 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Lunchbox Orange Snacking Pepper",
+   "scientific_name": "Capsicum annuum 'Lunchbox Orange'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Lunchbox Red Snack Pepper",
    "scientific_name": "Capsicum annuum 'Lunchbox Red'",
    "light_requirement": "very_high"
@@ -3026,6 +3241,21 @@
   {
    "common_name": "Medusa Ornamental Pepper",
    "scientific_name": "Capsicum annuum 'Medusa'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Pot-a-Peno Jalapeño Pepper",
+   "scientific_name": "Capsicum annuum 'Pot-a-Peno'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Shishito Pepper",
+   "scientific_name": "Capsicum annuum 'Shishito'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Sweet Banana Pepper",
+   "scientific_name": "Capsicum annuum 'Sweet Banana'",
    "light_requirement": "very_high"
   },
   {
@@ -3041,6 +3271,11 @@
   {
    "common_name": "Habanero Pepper",
    "scientific_name": "Capsicum chinense",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Habanero Primero Red Hot Pepper",
+   "scientific_name": "Capsicum chinense 'Habanero Primero Red'",
    "light_requirement": "very_high"
   },
   {
@@ -3119,9 +3354,24 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Bluebeard",
+   "scientific_name": "Caryopteris × clandonensis",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Lil Miss Sunshine Bluebeard",
+   "scientific_name": "Caryopteris x clandonensis 'Janice'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Fishtail Palm",
    "scientific_name": "Caryota mitis",
    "light_requirement": "medium"
+  },
+  {
+   "common_name": "Moreton Bay Chestnut (Black Bean Plant)",
+   "scientific_name": "Castanospermum australe",
+   "light_requirement": "high"
   },
   {
    "common_name": "Mother-of-Pearl Orchid",
@@ -3219,6 +3469,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Chantilly Lace Orchid",
+   "scientific_name": "Caulocattleya 'Chantilly Lace'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Silver Cockscomb",
    "scientific_name": "Celosia argentea",
    "light_requirement": "high"
@@ -3256,6 +3511,16 @@
   {
    "common_name": "Little Bunny Dwarf Fountain Grass",
    "scientific_name": "Cenchrus alopecuroides 'Little Bunny'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Jade Princess Ornamental Millet",
+   "scientific_name": "Cenchrus americanus 'Jade Princess'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Vertigo Purple Fountain Grass",
+   "scientific_name": "Cenchrus purpureus 'Vertigo'",
    "light_requirement": "very_high"
   },
   {
@@ -3434,6 +3699,11 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Compact Mediterranean Fan Palm",
+   "scientific_name": "Chamaerops humilis 'Compacta'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Vulcano Dwarf Fan Palm",
    "scientific_name": "Chamaerops humilis 'Vulcano'",
    "light_requirement": "very_high"
@@ -3522,6 +3792,11 @@
    "common_name": "Florist's Chrysanthemum",
    "scientific_name": "Chrysanthemum morifolium",
    "light_requirement": "high"
+  },
+  {
+   "common_name": "Yellow Buttons (Trailing Strawflower)",
+   "scientific_name": "Chrysocephalum apiculatum",
+   "light_requirement": "very_high"
   },
   {
    "common_name": "Mexican Tree Fern",
@@ -3784,6 +4059,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Princess Autograph Tree",
+   "scientific_name": "Clusia rosea 'Princess'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Cup and Saucer Vine",
    "scientific_name": "Cobaea scandens",
    "light_requirement": "high"
@@ -3821,6 +4101,11 @@
   {
    "common_name": "Bush on Fire Croton",
    "scientific_name": "Codiaeum variegatum 'Bush on Fire'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Dreadlocks Croton",
+   "scientific_name": "Codiaeum variegatum 'Dreadlocks'",
    "light_requirement": "high"
   },
   {
@@ -3869,6 +4154,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Nectarine Croton",
+   "scientific_name": "Codiaeum variegatum 'Nectarine'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Norma Croton",
    "scientific_name": "Codiaeum variegatum 'Norma'",
    "light_requirement": "high"
@@ -3881,6 +4171,11 @@
   {
    "common_name": "Petra Croton",
    "scientific_name": "Codiaeum variegatum 'Petra'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Picasso's Paintbrush Croton",
+   "scientific_name": "Codiaeum variegatum 'Picasso's Paintbrush'",
    "light_requirement": "high"
   },
   {
@@ -3944,8 +4239,18 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Silver Spurflower",
+   "scientific_name": "Coleus argentatus",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Scaredy Cat Plant",
    "scientific_name": "Coleus caninus",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Variegated Mintleaf",
+   "scientific_name": "Coleus madagascariensis 'Variegated Mintleaf'",
    "light_requirement": "high"
   },
   {
@@ -4234,6 +4539,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Green Ti Plant",
+   "scientific_name": "Cordyline fruticosa 'Glauca'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Kiwi Ti Plant",
    "scientific_name": "Cordyline fruticosa 'Kiwi'",
    "light_requirement": "high"
@@ -4264,8 +4574,23 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Ruby Ti Plant",
+   "scientific_name": "Cordyline fruticosa 'Ruby'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Tango Ti Plant",
    "scientific_name": "Cordyline fruticosa 'Tango'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Moonbeam Threadleaf Coreopsis",
+   "scientific_name": "Coreopsis verticillata 'Moonbeam'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Zagreb Threadleaf Coreopsis",
+   "scientific_name": "Coreopsis verticillata 'Zagreb'",
    "light_requirement": "high"
   },
   {
@@ -4346,6 +4671,11 @@
   {
    "common_name": "Pig's Ear",
    "scientific_name": "Cotyledon orbiculata",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Happy Young Lady Pig's Ear",
+   "scientific_name": "Cotyledon orbiculata 'Happy Young Lady'",
    "light_requirement": "very_high"
   },
   {
@@ -4504,6 +4834,11 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Gandalf Jade",
+   "scientific_name": "Crassula ovata 'Gandalf'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Gollum Jade / ET's Fingers",
    "scientific_name": "Crassula ovata 'Gollum'",
    "light_requirement": "very_high"
@@ -4514,13 +4849,28 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Horn Tree Jade Plant",
+   "scientific_name": "Crassula ovata 'Horn Tree'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Lemon & Lime Jade",
    "scientific_name": "Crassula ovata 'Lemon & Lime'",
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Ogre Ears Jade",
+   "scientific_name": "Crassula ovata 'Ogre Ears'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Sunset Jade",
    "scientific_name": "Crassula ovata 'Sunset'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Tricolor Jade Plant",
+   "scientific_name": "Crassula ovata 'Tricolor'",
    "light_requirement": "very_high"
   },
   {
@@ -4556,6 +4906,11 @@
   {
    "common_name": "Rosary vine crassula",
    "scientific_name": "Crassula rupestris",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Tom Thumb Crassula",
+   "scientific_name": "Crassula rupestris 'Tom Thumb'",
    "light_requirement": "high"
   },
   {
@@ -4606,6 +4961,11 @@
   {
    "common_name": "Firecracker flower",
    "scientific_name": "Crossandra infundibuliformis",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Absolute Zero Earth Star",
+   "scientific_name": "Cryptanthus 'Absolute Zero'",
    "light_requirement": "medium"
   },
   {
@@ -4724,6 +5084,11 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Picklebush Cucumber",
+   "scientific_name": "Cucumis sativus 'Picklebush'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Quick Snack Cucumber",
    "scientific_name": "Cucumis sativus 'Quick Snack'",
    "light_requirement": "very_high"
@@ -4731,6 +5096,11 @@
   {
    "common_name": "Spacemaster Cucumber",
    "scientific_name": "Cucumis sativus 'Spacemaster'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Eight Ball Zucchini",
+   "scientific_name": "Cucurbita pepo 'Eight Ball'",
    "light_requirement": "very_high"
   },
   {
@@ -4879,6 +5249,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Kenilworth Ivy",
+   "scientific_name": "Cymbalaria muralis",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Red-lipped Cymbidiella",
    "scientific_name": "Cymbidiella rhodochila",
    "light_requirement": "high"
@@ -5024,6 +5399,16 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Gallery Pablo Dahlia",
+   "scientific_name": "Dahlia 'Gallery Pablo'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Melody Allegro Dahlia",
+   "scientific_name": "Dahlia 'Melody Allegro'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Garden dahlia",
    "scientific_name": "Dahlia pinnata",
    "light_requirement": "high"
@@ -5046,6 +5431,16 @@
   {
    "common_name": "Cobra lily",
    "scientific_name": "Darlingtonia californica",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Shrubby Cinquefoil",
+   "scientific_name": "Dasiphora fruticosa",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Happy Face Yellow Potentilla",
+   "scientific_name": "Dasiphora fruticosa 'Lundy'",
    "light_requirement": "high"
   },
   {
@@ -5194,6 +5589,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Jenkins' Dendrobium",
+   "scientific_name": "Dendrobium jenkinsii",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Pink Rock Orchid",
    "scientific_name": "Dendrobium kingianum",
    "light_requirement": "high"
@@ -5259,6 +5659,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Unicum Dendrobium",
+   "scientific_name": "Dendrobium unicum",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Queen Victoria's Dendrobium",
    "scientific_name": "Dendrobium victoriae-reginae",
    "light_requirement": "medium"
@@ -5277,6 +5682,11 @@
    "common_name": "Flax Lily",
    "scientific_name": "Dianella tasmanica",
    "light_requirement": "high"
+  },
+  {
+   "common_name": "Paint the Town Magenta Pinks",
+   "scientific_name": "Dianthus 'Paint the Town Magenta'",
+   "light_requirement": "very_high"
   },
   {
    "common_name": "Carnation",
@@ -5301,6 +5711,16 @@
   {
    "common_name": "Silver ponysfoot",
    "scientific_name": "Dichondra argentea",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Green Dichondra (Kidney Weed)",
+   "scientific_name": "Dichondra repens",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Blue Ginger",
+   "scientific_name": "Dichorisandra thyrsiflora",
    "light_requirement": "high"
   },
   {
@@ -5434,8 +5854,28 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Maroba Dumb Cane",
+   "scientific_name": "Dieffenbachia seguine 'Maroba'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Memoria Corsii Dumb Cane",
+   "scientific_name": "Dieffenbachia seguine 'Memoria Corsii'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Rebecca Dumb Cane",
    "scientific_name": "Dieffenbachia seguine 'Rebecca'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Reeva Dumb Cane",
+   "scientific_name": "Dieffenbachia seguine 'Reeva'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Sublime Dumb Cane",
+   "scientific_name": "Dieffenbachia seguine 'Sublime'",
    "light_requirement": "medium"
   },
   {
@@ -5456,6 +5896,11 @@
   {
    "common_name": "Longan",
    "scientific_name": "Dimocarpus longan",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Miniature Dinema Orchid",
+   "scientific_name": "Dinema polybulbon",
    "light_requirement": "high"
   },
   {
@@ -5497,6 +5942,11 @@
    "common_name": "Elephant's foot",
    "scientific_name": "Dioscorea elephantipes",
    "light_requirement": "high"
+  },
+  {
+   "common_name": "Sticky Monkey Flower",
+   "scientific_name": "Diplacus aurantiacus",
+   "light_requirement": "very_high"
   },
   {
    "common_name": "Wild Arugula",
@@ -5724,6 +6174,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Sol Dracaena",
+   "scientific_name": "Dracaena fragrans 'Sol'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Tornado Dracaena",
    "scientific_name": "Dracaena fragrans 'Tornado'",
    "light_requirement": "medium"
@@ -5884,6 +6339,11 @@
    "light_requirement": "low"
   },
   {
+   "common_name": "Black Diamond Snake Plant",
+   "scientific_name": "Dracaena trifasciata 'Black Diamond'",
+   "light_requirement": "low"
+  },
+  {
    "common_name": "Black Gold Snake Plant",
    "scientific_name": "Dracaena trifasciata 'Black Gold'",
    "light_requirement": "low"
@@ -5956,6 +6416,16 @@
   {
    "common_name": "Sayuri Snake Plant",
    "scientific_name": "Dracaena trifasciata 'Sayuri'",
+   "light_requirement": "low"
+  },
+  {
+   "common_name": "Silver Mist Snake Plant",
+   "scientific_name": "Dracaena trifasciata 'Silver Mist'",
+   "light_requirement": "low"
+  },
+  {
+   "common_name": "Tough Lady Snake Plant",
+   "scientific_name": "Dracaena trifasciata 'Tough Lady'",
    "light_requirement": "low"
   },
   {
@@ -6086,6 +6556,11 @@
   {
    "common_name": "Autumn Fern",
    "scientific_name": "Dryopteris erythrosora",
+   "light_requirement": "low"
+  },
+  {
+   "common_name": "Brilliance Autumn Fern",
+   "scientific_name": "Dryopteris erythrosora 'Brilliance'",
    "light_requirement": "low"
   },
   {
@@ -6259,6 +6734,11 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "The Rose Echeveria",
+   "scientific_name": "Echeveria 'The Rose'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Vampire Red Ball Echeveria",
    "scientific_name": "Echeveria 'Vampire Red Ball'",
    "light_requirement": "very_high"
@@ -6346,6 +6826,11 @@
   {
    "common_name": "Plush Red Echeveria",
    "scientific_name": "Echeveria harmsii",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Ruby Slippers Echeveria",
+   "scientific_name": "Echeveria harmsii 'Ruby Slippers'",
    "light_requirement": "very_high"
   },
   {
@@ -6457,6 +6942,11 @@
    "common_name": "Toliman Echeveria",
    "scientific_name": "Echeveria tolimanensis",
    "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Ruby Giant Coneflower",
+   "scientific_name": "Echinacea purpurea 'Ruby Giant'",
+   "light_requirement": "high"
   },
   {
    "common_name": "Golden Barrel Cactus",
@@ -6599,6 +7089,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Beetle Orchid",
+   "scientific_name": "Epidendrum porpax",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Ground-rooting Epidendrum",
    "scientific_name": "Epidendrum radicans",
    "light_requirement": "high"
@@ -6634,6 +7129,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Mini Mint Pothos",
+   "scientific_name": "Epipremnum 'Mini Mint'",
+   "light_requirement": "low"
+  },
+  {
    "common_name": "Silver Streak Pothos",
    "scientific_name": "Epipremnum amplissimum",
    "light_requirement": "medium"
@@ -6661,6 +7161,11 @@
   {
    "common_name": "Global Green Pothos",
    "scientific_name": "Epipremnum aureum 'Global Green'",
+   "light_requirement": "low"
+  },
+  {
+   "common_name": "Goldrush Pothos",
+   "scientific_name": "Epipremnum aureum 'Goldrush'",
    "light_requirement": "low"
   },
   {
@@ -6722,6 +7227,11 @@
    "common_name": "Pearls and Jade Pothos",
    "scientific_name": "Epipremnum aureum 'Pearls and Jade'",
    "light_requirement": "medium"
+  },
+  {
+   "common_name": "Scrambled Eggs Pothos",
+   "scientific_name": "Epipremnum aureum 'Scrambled Eggs'",
+   "light_requirement": "low"
   },
   {
    "common_name": "Shangri La Pothos",
@@ -6844,6 +7354,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Sugar Rush Orange Wallflower",
+   "scientific_name": "Erysimum cheiri 'Sugar Rush Orange'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Beehive cactus",
    "scientific_name": "Escobaria vivipara",
    "light_requirement": "very_high"
@@ -6929,6 +7444,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Desert Candle",
+   "scientific_name": "Euphorbia abyssinica",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Miniature Saguaro",
    "scientific_name": "Euphorbia aeruginosa",
    "light_requirement": "very_high"
@@ -6974,6 +7494,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Glamour Euphorbia",
+   "scientific_name": "Euphorbia graminea 'Glamour'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Cow's Horn",
    "scientific_name": "Euphorbia grandicornis",
    "light_requirement": "high"
@@ -6991,6 +7516,11 @@
   {
    "common_name": "Cowboy Cactus",
    "scientific_name": "Euphorbia ingens",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Marbled Candelabra Tree",
+   "scientific_name": "Euphorbia ingens 'Marmorata'",
    "light_requirement": "very_high"
   },
   {
@@ -7026,6 +7556,11 @@
   {
    "common_name": "Peppermint Candy Crown of Thorns",
    "scientific_name": "Euphorbia milii 'Peppermint Candy'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Sunset Splendor Crown of Thorns",
+   "scientific_name": "Euphorbia milii 'Sunset Splendor'",
    "light_requirement": "high"
   },
   {
@@ -7114,6 +7649,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Mint Cream African Milk Tree",
+   "scientific_name": "Euphorbia trigona 'Mint Cream'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Red African Milk Tree",
    "scientific_name": "Euphorbia trigona 'Rubra'",
    "light_requirement": "high"
@@ -7126,6 +7666,11 @@
   {
    "common_name": "African Milk Bush",
    "scientific_name": "Euphorbia umbellata",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Lisianthus",
+   "scientific_name": "Eustoma russellianum",
    "light_requirement": "high"
   },
   {
@@ -7211,6 +7756,11 @@
   {
    "common_name": "Tiger Jaws",
    "scientific_name": "Faucaria tigrina",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Pebbled Tiger Jaws",
+   "scientific_name": "Faucaria tuberculosa",
    "light_requirement": "very_high"
   },
   {
@@ -7319,6 +7869,16 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "El Dorado Weeping Fig",
+   "scientific_name": "Ficus benjamina 'El Dorado'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Exotica Weeping Fig",
+   "scientific_name": "Ficus benjamina 'Exotica'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Golden King Weeping Fig",
    "scientific_name": "Ficus benjamina 'Golden King'",
    "light_requirement": "high"
@@ -7346,6 +7906,11 @@
   {
    "common_name": "Twilight Weeping Fig",
    "scientific_name": "Ficus benjamina 'Twilight'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Wintergreen Weeping Fig",
+   "scientific_name": "Ficus benjamina 'Wintergreen'",
    "light_requirement": "high"
   },
   {
@@ -7839,6 +8404,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Lena Trailing Fuchsia",
+   "scientific_name": "Fuchsia 'Lena'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Marinka Fuchsia",
    "scientific_name": "Fuchsia 'Marinka'",
    "light_requirement": "medium"
@@ -7909,6 +8479,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Fortuniana Gardenia",
+   "scientific_name": "Gardenia jasminoides 'Fortuniana'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Kleim's Hardy Gardenia",
    "scientific_name": "Gardenia jasminoides 'Kleim's Hardy'",
    "light_requirement": "high"
@@ -7937,6 +8512,11 @@
    "common_name": "White gardenia",
    "scientific_name": "Gardenia thunbergia",
    "light_requirement": "high"
+  },
+  {
+   "common_name": "Apollo Gasteraloe",
+   "scientific_name": "Gasteraloe 'Apollo'",
+   "light_requirement": "medium"
   },
   {
    "common_name": "Flow Gasteraloe",
@@ -8224,6 +8804,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Cora Calathea",
+   "scientific_name": "Goeppertia roseopicta 'Cora'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Calathea Corona",
    "scientific_name": "Goeppertia roseopicta 'Corona'",
    "light_requirement": "medium"
@@ -8241,6 +8826,11 @@
   {
    "common_name": "Calathea Princess Jessie",
    "scientific_name": "Goeppertia roseopicta 'Princess Jessie'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Purple Rose Calathea",
+   "scientific_name": "Goeppertia roseopicta 'Purple Rose'",
    "light_requirement": "medium"
   },
   {
@@ -8354,6 +8944,11 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Bluebean Graptopetalum",
+   "scientific_name": "Graptopetalum pachyphyllum",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Ghost Plant / Mother of Pearl Plant",
    "scientific_name": "Graptopetalum paraguayense",
    "light_requirement": "very_high"
@@ -8401,6 +8996,11 @@
   {
    "common_name": "Fred Ives Graptoveria",
    "scientific_name": "Graptoveria 'Fred Ives'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Margaret Rose Graptoveria",
+   "scientific_name": "Graptoveria 'Margaret Rose'",
    "light_requirement": "very_high"
   },
   {
@@ -8454,6 +9054,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Kay Guzmania",
+   "scientific_name": "Guzmania 'Kay'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Luna Guzmania",
    "scientific_name": "Guzmania 'Luna'",
    "light_requirement": "medium"
@@ -8481,6 +9086,11 @@
   {
    "common_name": "Scarlet Star",
    "scientific_name": "Guzmania lingulata",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Francesca Bromeliad",
+   "scientific_name": "Guzmania lingulata 'Francesca'",
    "light_requirement": "medium"
   },
   {
@@ -8809,6 +9419,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Golden Kolibri Ivy",
+   "scientific_name": "Hedera helix 'Golden Kolibri'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Ivalace Ivy",
    "scientific_name": "Hedera helix 'Ivalace'",
    "light_requirement": "medium"
@@ -8831,6 +9446,16 @@
   {
    "common_name": "Pittsburgh Ivy",
    "scientific_name": "Hedera helix 'Pittsburgh'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "White Wonder English Ivy",
+   "scientific_name": "Hedera helix 'White Wonder'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Wonder English Ivy",
+   "scientific_name": "Hedera helix 'Wonder'",
    "light_requirement": "medium"
   },
   {
@@ -8884,6 +9509,11 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Icicles Licorice Plant",
+   "scientific_name": "Helichrysum thianschanicum 'Icicles'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Parrot's Heliconia",
    "scientific_name": "Heliconia psittacorum",
    "light_requirement": "high"
@@ -8934,6 +9564,21 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Dolce Apple Twist Coral Bells",
+   "scientific_name": "Heuchera 'Apple Twist'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Primo Black Pearl Coral Bells",
+   "scientific_name": "Heuchera 'Black Pearl'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Caramel Coral Bells",
+   "scientific_name": "Heuchera 'Caramel'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Obsidian Coral Bells",
    "scientific_name": "Heuchera 'Obsidian'",
    "light_requirement": "medium"
@@ -8944,8 +9589,23 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Dolce Wildberry Coral Bells",
+   "scientific_name": "Heuchera 'Wildberry'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Coral Bells",
    "scientific_name": "Heuchera sanguinea",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Eye Spy Foamy Bells",
+   "scientific_name": "Heucherella 'Eye Spy'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Red Rover Foamy Bells",
+   "scientific_name": "Heucherella 'Red Rover'",
    "light_requirement": "medium"
   },
   {
@@ -8956,6 +9616,16 @@
   {
    "common_name": "Chinese Hibiscus",
    "scientific_name": "Hibiscus rosa-sinensis",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Adonicus Double Orange Tropical Hibiscus",
+   "scientific_name": "Hibiscus rosa-sinensis 'Adonicus Double Orange'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Apollo Garden Tropical Hibiscus",
+   "scientific_name": "Hibiscus rosa-sinensis 'Apollo Garden'",
    "light_requirement": "high"
   },
   {
@@ -8971,6 +9641,21 @@
   {
    "common_name": "Hula Girl Hibiscus",
    "scientific_name": "Hibiscus rosa-sinensis 'Hula Girl'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Imperial Dragon Tropical Hibiscus",
+   "scientific_name": "Hibiscus rosa-sinensis 'Imperial Dragon'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Midnight Tryst Tropical Hibiscus",
+   "scientific_name": "Hibiscus rosa-sinensis 'Midnight Tryst'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Ninos Yellow Tropical Hibiscus",
+   "scientific_name": "Hibiscus rosa-sinensis 'Ninos Yellow'",
    "light_requirement": "high"
   },
   {
@@ -8994,8 +9679,38 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Aphrodite Double Amaryllis",
+   "scientific_name": "Hippeastrum 'Aphrodite'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Apple Blossom Amaryllis",
    "scientific_name": "Hippeastrum 'Apple Blossom'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Apricot Parfait Double Amaryllis",
+   "scientific_name": "Hippeastrum 'Apricot Parfait'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Benfica Amaryllis",
+   "scientific_name": "Hippeastrum 'Benfica'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Black Pearl Amaryllis",
+   "scientific_name": "Hippeastrum 'Black Pearl'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Carmen Amaryllis",
+   "scientific_name": "Hippeastrum 'Carmen'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Cherry Nymph Double Amaryllis",
+   "scientific_name": "Hippeastrum 'Cherry Nymph'",
    "light_requirement": "high"
   },
   {
@@ -9009,6 +9724,41 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Dancing Queen Amaryllis",
+   "scientific_name": "Hippeastrum 'Dancing Queen'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Desire Amaryllis",
+   "scientific_name": "Hippeastrum 'Desire'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Double Dream Amaryllis",
+   "scientific_name": "Hippeastrum 'Double Dream'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Double King Amaryllis",
+   "scientific_name": "Hippeastrum 'Double King'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Doublet Amaryllis",
+   "scientific_name": "Hippeastrum 'Doublet'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Evergreen Amaryllis",
+   "scientific_name": "Hippeastrum 'Evergreen'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Exotic Nymph Double Amaryllis",
+   "scientific_name": "Hippeastrum 'Exotic Nymph'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Exotic Star Amaryllis",
    "scientific_name": "Hippeastrum 'Exotic Star'",
    "light_requirement": "high"
@@ -9019,8 +9769,58 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Gervase Amaryllis",
+   "scientific_name": "Hippeastrum 'Gervase'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Gold Medal Amaryllis",
+   "scientific_name": "Hippeastrum 'Gold Medal'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Lagoon Amaryllis",
+   "scientific_name": "Hippeastrum 'Lagoon'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Lemon Star Amaryllis",
+   "scientific_name": "Hippeastrum 'Lemon Star'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Lovely Nymph Double Amaryllis",
+   "scientific_name": "Hippeastrum 'Lovely Nymph'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Magic Green Amaryllis",
+   "scientific_name": "Hippeastrum 'Magic Green'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Magical Touch Amaryllis",
+   "scientific_name": "Hippeastrum 'Magical Touch'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Mandela Amaryllis",
+   "scientific_name": "Hippeastrum 'Mandela'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Marilyn Double Amaryllis",
+   "scientific_name": "Hippeastrum 'Marilyn'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Minerva Amaryllis",
    "scientific_name": "Hippeastrum 'Minerva'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Moscow Amaryllis",
+   "scientific_name": "Hippeastrum 'Moscow'",
    "light_requirement": "high"
   },
   {
@@ -9029,13 +9829,88 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Picotee Amaryllis",
+   "scientific_name": "Hippeastrum 'Picotee'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Pink Surprise Amaryllis",
+   "scientific_name": "Hippeastrum 'Pink Surprise'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Ragtime Double Amaryllis",
+   "scientific_name": "Hippeastrum 'Ragtime'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Rebecca Amaryllis",
+   "scientific_name": "Hippeastrum 'Rebecca'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Red Lion Amaryllis",
    "scientific_name": "Hippeastrum 'Red Lion'",
    "light_requirement": "high"
   },
   {
+   "common_name": "Red Pearl Amaryllis",
+   "scientific_name": "Hippeastrum 'Red Pearl'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Revelation Amaryllis",
+   "scientific_name": "Hippeastrum 'Revelation'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Rilona Amaryllis",
+   "scientific_name": "Hippeastrum 'Rilona'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Royal Velvet Amaryllis",
+   "scientific_name": "Hippeastrum 'Royal Velvet'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Samba Amaryllis",
    "scientific_name": "Hippeastrum 'Samba'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Spartacus Amaryllis",
+   "scientific_name": "Hippeastrum 'Spartacus'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Splash Double Amaryllis",
+   "scientific_name": "Hippeastrum 'Splash'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Spotlight Amaryllis",
+   "scientific_name": "Hippeastrum 'Spotlight'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Sweet Star Amaryllis",
+   "scientific_name": "Hippeastrum 'Sweet Star'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Terra Cotta Star Amaryllis",
+   "scientific_name": "Hippeastrum 'Terra Cotta Star'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "White Amadeus Double Amaryllis",
+   "scientific_name": "Hippeastrum 'White Amadeus'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "White Nymph Double Amaryllis",
+   "scientific_name": "Hippeastrum 'White Nymph'",
    "light_requirement": "high"
   },
   {
@@ -9099,6 +9974,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Maggy Shield Plant",
+   "scientific_name": "Homalomena rubescens 'Maggy'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Silver Shield",
    "scientific_name": "Homalomena wallisii",
    "light_requirement": "medium"
@@ -9106,6 +9986,21 @@
   {
    "common_name": "Blue Mouse Ears Hosta",
    "scientific_name": "Hosta 'Blue Mouse Ears'",
+   "light_requirement": "low"
+  },
+  {
+   "common_name": "Diamond Lake Hosta",
+   "scientific_name": "Hosta 'Diamond Lake'",
+   "light_requirement": "low"
+  },
+  {
+   "common_name": "Fire and Ice Hosta",
+   "scientific_name": "Hosta 'Fire and Ice'",
+   "light_requirement": "low"
+  },
+  {
+   "common_name": "June Hosta",
+   "scientific_name": "Hosta 'June'",
    "light_requirement": "low"
   },
   {
@@ -9434,6 +10329,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Quinquenervia Wax Vine",
+   "scientific_name": "Hoya quinquenervia",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Hoya Retusa",
    "scientific_name": "Hoya retusa",
    "light_requirement": "high"
@@ -9504,6 +10404,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Blue Jacket Hyacinth",
+   "scientific_name": "Hyacinthus orientalis 'Blue Jacket'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Carnegie Hyacinth",
    "scientific_name": "Hyacinthus orientalis 'Carnegie'",
    "light_requirement": "high"
@@ -9514,6 +10419,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Gipsy Queen Hyacinth",
+   "scientific_name": "Hyacinthus orientalis 'Gipsy Queen'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Jan Bos Hyacinth",
    "scientific_name": "Hyacinthus orientalis 'Jan Bos'",
    "light_requirement": "high"
@@ -9521,6 +10431,16 @@
   {
    "common_name": "Pink Pearl Hyacinth",
    "scientific_name": "Hyacinthus orientalis 'Pink Pearl'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Woodstock Hyacinth",
+   "scientific_name": "Hyacinthus orientalis 'Woodstock'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Yellow Queen Hyacinth",
+   "scientific_name": "Hyacinthus orientalis 'Yellow Queen'",
    "light_requirement": "high"
   },
   {
@@ -9546,6 +10466,16 @@
   {
    "common_name": "Limelight Hydrangea",
    "scientific_name": "Hydrangea paniculata 'Limelight'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Fire Light Panicle Hydrangea",
+   "scientific_name": "Hydrangea paniculata 'SMHPFL'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Fire Light Tidbit Panicle Hydrangea",
+   "scientific_name": "Hydrangea paniculata 'SMNHPK'",
    "light_requirement": "high"
   },
   {
@@ -9734,6 +10664,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Peruvian Daffodil",
+   "scientific_name": "Ismene x deflexa",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Fiber Optic Grass",
    "scientific_name": "Isolepis cernua",
    "light_requirement": "high"
@@ -9754,8 +10689,18 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Apple Blossom Orchid",
+   "scientific_name": "Jackfowlieara 'Apple Blossom'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Dusty miller",
    "scientific_name": "Jacobaea maritima",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Safari Sky South African Phlox",
+   "scientific_name": "Jamesbrittenia 'Safari Sky'",
    "light_requirement": "high"
   },
   {
@@ -9796,6 +10741,11 @@
   {
    "common_name": "Maid of Orleans Arabian Jasmine",
    "scientific_name": "Jasminum sambac 'Maid of Orleans'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Mysore Mulli Arabian Jasmine",
+   "scientific_name": "Jasminum sambac 'Mysore Mulli'",
    "light_requirement": "high"
   },
   {
@@ -10034,8 +10984,18 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Cinnamon Panda Plant",
+   "scientific_name": "Kalanchoe tomentosa 'Cinnamon'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Teddy Bear Panda Plant",
    "scientific_name": "Kalanchoe tomentosa 'Teddy Bear'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Coral Bells Kalanchoe",
+   "scientific_name": "Kalanchoe uniflora",
    "light_requirement": "high"
   },
   {
@@ -10076,6 +11036,11 @@
   {
    "common_name": "Lettuce",
    "scientific_name": "Lactuca sativa",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Black Seeded Simpson Lettuce",
+   "scientific_name": "Lactuca sativa 'Black Seeded Simpson'",
    "light_requirement": "high"
   },
   {
@@ -10169,8 +11134,18 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Goodwin Creek Grey Lavender",
+   "scientific_name": "Lavandula × ginginsii 'Goodwin Creek Grey'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "English Lavender",
    "scientific_name": "Lavandula angustifolia",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Annet English Lavender",
+   "scientific_name": "Lavandula angustifolia 'Annet'",
    "light_requirement": "very_high"
   },
   {
@@ -10179,8 +11154,18 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Sweet Romance Lavender",
+   "scientific_name": "Lavandula angustifolia 'Kerlavangem'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Munstead English Lavender",
    "scientific_name": "Lavandula angustifolia 'Munstead'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "SuperBlue English Lavender",
+   "scientific_name": "Lavandula angustifolia 'SuperBlue'",
    "light_requirement": "very_high"
   },
   {
@@ -10249,6 +11234,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Daisy May Shasta Daisy",
+   "scientific_name": "Leucanthemum superbum 'Daisy Duke'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Agave Cactus",
    "scientific_name": "Leuchtenbergia principis",
    "light_requirement": "very_high"
@@ -10286,6 +11276,21 @@
   {
    "common_name": "Oval-leaf Privet",
    "scientific_name": "Ligustrum ovalifolium",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Casa Blanca Oriental Lily",
+   "scientific_name": "Lilium 'Casa Blanca'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Roselily Anouska Double Oriental Lily",
+   "scientific_name": "Lilium 'Roselily Anouska'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Stargazer Lily",
+   "scientific_name": "Lilium 'Stargazer'",
    "light_requirement": "high"
   },
   {
@@ -10454,6 +11459,16 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Lofos Compact Rose Creeping Gloxinia",
+   "scientific_name": "Lophospermum 'Lofos Compact Rose'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Creeping Gloxinia",
+   "scientific_name": "Lophospermum erubescens",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Chinese fringe flower",
    "scientific_name": "Loropetalum chinense",
    "light_requirement": "high"
@@ -10516,6 +11531,11 @@
   {
    "common_name": "Singapore Holly",
    "scientific_name": "Malpighia coccigera",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Barbados Cherry / Acerola",
+   "scientific_name": "Malpighia emarginata",
    "light_requirement": "high"
   },
   {
@@ -10724,6 +11744,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Firecracker Vine",
+   "scientific_name": "Manettia luteorubra",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Lavender Lady Mangave",
    "scientific_name": "Mangave 'Lavender Lady'",
    "light_requirement": "high"
@@ -10879,9 +11904,34 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Maxillaria Uncata Orchid",
+   "scientific_name": "Maxillaria uncata",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "GoldDust Mecardonia",
+   "scientific_name": "Mecardonia 'GoldDust'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Baby Jump-up",
+   "scientific_name": "Mecardonia procumbens",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Medinilla",
    "scientific_name": "Medinilla magnifica",
    "light_requirement": "medium"
+  },
+  {
+   "common_name": "Malaysian Orchid",
+   "scientific_name": "Medinilla multiflora",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Butter Daisy",
+   "scientific_name": "Melampodium divaricatum",
+   "light_requirement": "very_high"
   },
   {
    "common_name": "Chinaberry tree",
@@ -10891,6 +11941,11 @@
   {
    "common_name": "Lemon Balm",
    "scientific_name": "Melissa officinalis",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Mandarina Lemon Balm",
+   "scientific_name": "Melissa officinalis 'Mandarina'",
    "light_requirement": "high"
   },
   {
@@ -10911,6 +11966,11 @@
   {
    "common_name": "Chocolate Mint",
    "scientific_name": "Mentha × piperita 'Chocolate'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Lavender Mint",
+   "scientific_name": "Mentha × piperita 'Lavender'",
    "light_requirement": "medium"
   },
   {
@@ -11054,6 +12114,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Four O'Clock",
+   "scientific_name": "Mirabilis jalapa",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Maiden Grass",
    "scientific_name": "Miscanthus sinensis",
    "light_requirement": "high"
@@ -11067,6 +12132,11 @@
    "common_name": "African Gardenia",
    "scientific_name": "Mitriostigma axillare",
    "light_requirement": "high"
+  },
+  {
+   "common_name": "Chao Praya Boy Mokara Orchid",
+   "scientific_name": "Mokara 'Chao Praya Boy'",
+   "light_requirement": "very_high"
   },
   {
    "common_name": "Mountain houseleek monanthes",
@@ -11137,6 +12207,11 @@
    "common_name": "Swiss Cheese Plant (Borsigiana)",
    "scientific_name": "Monstera deliciosa 'Borsigiana'",
    "light_requirement": "high"
+  },
+  {
+   "common_name": "Bulbasaur Monstera",
+   "scientific_name": "Monstera deliciosa 'Bulbasaur'",
+   "light_requirement": "medium"
   },
   {
    "common_name": "Golden Compact Monstera",
@@ -11219,6 +12294,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Creeping Wire Vine",
+   "scientific_name": "Muehlenbeckia axillaris",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Maidenhair Vine / Wire Vine",
    "scientific_name": "Muehlenbeckia complexa",
    "light_requirement": "high"
@@ -11279,6 +12359,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Valerie Finnis Grape Hyacinth",
+   "scientific_name": "Muscari armeniacum 'Valerie Finnis'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Chinese Dwarf Banana",
    "scientific_name": "Musella lasiocarpa",
    "light_requirement": "high"
@@ -11334,6 +12419,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Bridal Crown Double Daffodil",
+   "scientific_name": "Narcissus 'Bridal Crown'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Erlicheer Double Daffodil",
    "scientific_name": "Narcissus 'Erlicheer'",
    "light_requirement": "high"
@@ -11349,8 +12439,18 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Tete Deluxe Miniature Daffodil",
+   "scientific_name": "Narcissus 'Tête Deluxe'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Tête-à-tête Miniature Daffodil",
    "scientific_name": "Narcissus 'Tête-à-tête'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Wintersun Paperwhite",
+   "scientific_name": "Narcissus 'Wintersun'",
    "light_requirement": "high"
   },
   {
@@ -11504,6 +12604,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Bloody Mary Pitcher Plant",
+   "scientific_name": "Nepenthes 'Bloody Mary'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Gaya Pitcher Plant",
    "scientific_name": "Nepenthes 'Gaya'",
    "light_requirement": "high"
@@ -11644,6 +12749,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Cat's Pajamas Catmint",
+   "scientific_name": "Nepeta 'Cat's Pajamas'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Catnip",
    "scientific_name": "Nepeta cataria",
    "light_requirement": "high"
@@ -11701,6 +12811,11 @@
   {
    "common_name": "Tiger Fern",
    "scientific_name": "Nephrolepis exaltata 'Tiger Fern'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Vitale Boston Fern",
+   "scientific_name": "Nephrolepis exaltata 'Vitale'",
    "light_requirement": "medium"
   },
   {
@@ -11779,8 +12894,18 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Lime Basil",
+   "scientific_name": "Ocimum americanum 'Lime'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Sweet Basil",
    "scientific_name": "Ocimum basilicum",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Batik Thai Basil",
+   "scientific_name": "Ocimum basilicum 'Batik'",
    "light_requirement": "very_high"
   },
   {
@@ -11804,6 +12929,11 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Everleaf Thai Towers Basil",
+   "scientific_name": "Ocimum basilicum 'Everleaf Thai Towers'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Genovese Basil",
    "scientific_name": "Ocimum basilicum 'Genovese'",
    "light_requirement": "very_high"
@@ -11821,6 +12951,11 @@
   {
    "common_name": "Greek Bush Basil",
    "scientific_name": "Ocimum basilicum 'Spicy Globe'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Summerlong Basil",
+   "scientific_name": "Ocimum basilicum 'Summerlong'",
    "light_requirement": "very_high"
   },
   {
@@ -12044,6 +13179,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Kirigami Ornamental Oregano",
+   "scientific_name": "Origanum rotundifolium 'Kirigami'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Za'atar (Syrian Oregano)",
    "scientific_name": "Origanum syriacum",
    "light_requirement": "very_high"
@@ -12102,6 +13242,11 @@
    "common_name": "Rice",
    "scientific_name": "Oryza sativa",
    "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Sweet olive",
+   "scientific_name": "Osmanthus fragrans",
+   "light_requirement": "high"
   },
   {
    "common_name": "Orange Sweet Olive",
@@ -12196,6 +13341,16 @@
   {
    "common_name": "Charmed Wine Purple Shamrock",
    "scientific_name": "Oxalis triangularis 'Charmed Wine'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Irish Mist Shamrock",
+   "scientific_name": "Oxalis triangularis 'Irish Mist'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Mijke Purple Shamrock",
+   "scientific_name": "Oxalis triangularis 'Mijke'",
    "light_requirement": "medium"
   },
   {
@@ -12664,6 +13819,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Mrs. Cox Tricolor Geranium",
+   "scientific_name": "Pelargonium x hortorum 'Mrs. Cox'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Variegated Geranium",
    "scientific_name": "Pelargonium x hortorum 'Variegatum'",
    "light_requirement": "high"
@@ -12799,6 +13959,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Greyhound Peperomia",
+   "scientific_name": "Peperomia caperata 'Greyhound'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Red Luna Peperomia",
    "scientific_name": "Peperomia caperata 'Red Luna'",
    "light_requirement": "medium"
@@ -12811,6 +13976,11 @@
   {
    "common_name": "Santiago Peperomia",
    "scientific_name": "Peperomia caperata 'Santiago'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Santorini Peperomia",
+   "scientific_name": "Peperomia caperata 'Santorini'",
    "light_requirement": "medium"
   },
   {
@@ -13049,6 +14219,21 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "SunSpell Petchoa",
+   "scientific_name": "Petchoa 'SunSpell'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Pale Stonecrop",
+   "scientific_name": "Petrosedum sediforme",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Turquoise Tails Blue Sedum",
+   "scientific_name": "Petrosedum sediforme 'Turquoise Tails'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Flat-leaf Parsley",
    "scientific_name": "Petroselinum crispum",
    "light_requirement": "high"
@@ -13056,6 +14241,11 @@
   {
    "common_name": "Curly Parsley",
    "scientific_name": "Petroselinum crispum 'Moss Curled'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Firefly Petunia",
+   "scientific_name": "Petunia 'Firefly'",
    "light_requirement": "high"
   },
   {
@@ -13204,6 +14394,11 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Weihenstephaner Gold Stonecrop",
+   "scientific_name": "Phedimus kamtschaticus 'Weihenstephaner Gold'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Philodendron Autumn",
    "scientific_name": "Philodendron 'Autumn'",
    "light_requirement": "medium"
@@ -13224,9 +14419,19 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Congo Nuclear Philodendron",
+   "scientific_name": "Philodendron 'Congo Nuclear'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Florida Beauty Philodendron",
    "scientific_name": "Philodendron 'Florida Beauty'",
    "light_requirement": "high"
+  },
+  {
+   "common_name": "Florida Bronze Philodendron",
+   "scientific_name": "Philodendron 'Florida Bronze'",
+   "light_requirement": "medium"
   },
   {
    "common_name": "Florida Philodendron",
@@ -13246,6 +14451,16 @@
   {
    "common_name": "Golden Goddess / Malay Gold Philodendron",
    "scientific_name": "Philodendron 'Golden Goddess'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Green Beauty Philodendron",
+   "scientific_name": "Philodendron 'Green Beauty'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Green Wonder Philodendron",
+   "scientific_name": "Philodendron 'Green Wonder'",
    "light_requirement": "medium"
   },
   {
@@ -13289,6 +14504,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Orange Princess Philodendron",
+   "scientific_name": "Philodendron 'Orange Princess'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Painted Lady Philodendron",
    "scientific_name": "Philodendron 'Painted Lady'",
    "light_requirement": "medium"
@@ -13299,6 +14519,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Pink Bikini Philodendron",
+   "scientific_name": "Philodendron 'Pink Bikini'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Pink Congo Philodendron",
    "scientific_name": "Philodendron 'Pink Congo'",
    "light_requirement": "medium"
@@ -13306,6 +14531,16 @@
   {
    "common_name": "Prince of Orange Philodendron",
    "scientific_name": "Philodendron 'Prince of Orange'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Red Anderson Philodendron",
+   "scientific_name": "Philodendron 'Red Anderson'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Red Beauty Philodendron",
+   "scientific_name": "Philodendron 'Red Beauty'",
    "light_requirement": "medium"
   },
   {
@@ -13394,6 +14629,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Green Princess Philodendron",
+   "scientific_name": "Philodendron erubescens 'Green Princess'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Imperial Green Philodendron",
    "scientific_name": "Philodendron erubescens 'Imperial Green'",
    "light_requirement": "medium"
@@ -13446,6 +14686,11 @@
   {
    "common_name": "Dark Form Gloriosum",
    "scientific_name": "Philodendron gloriosum 'Dark Form'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Tinker Bell Gloriosum Philodendron",
+   "scientific_name": "Philodendron gloriosum 'Tinker Bell'",
    "light_requirement": "medium"
   },
   {
@@ -13519,6 +14764,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Purple Philodendron Insigne",
+   "scientific_name": "Philodendron insigne 'Purple'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Philodendron Mamei",
    "scientific_name": "Philodendron mamei",
    "light_requirement": "medium"
@@ -13566,6 +14816,11 @@
   {
    "common_name": "Pigskin Philodendron",
    "scientific_name": "Philodendron rugosum",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Philodendron Ruizii",
+   "scientific_name": "Philodendron ruizii",
    "light_requirement": "medium"
   },
   {
@@ -13721,6 +14976,16 @@
   {
    "common_name": "Black Bamboo",
    "scientific_name": "Phyllostachys nigra",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Common Ninebark",
+   "scientific_name": "Physocarpus opulifolius",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Tiny Wine Ninebark",
+   "scientific_name": "Physocarpus opulifolius 'SMNPOTW'",
    "light_requirement": "high"
   },
   {
@@ -14019,6 +15284,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Silver Mist Licorice Plant",
+   "scientific_name": "Plecostachys serpyllifolia",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Mona Lavender Plectranthus",
    "scientific_name": "Plectranthus 'Mona Lavender'",
    "light_requirement": "medium"
@@ -14042,6 +15312,11 @@
    "common_name": "Candle Plant",
    "scientific_name": "Plectranthus oertendahlii",
    "light_requirement": "medium"
+  },
+  {
+   "common_name": "Purple Swedish Ivy",
+   "scientific_name": "Plectranthus purpuratus",
+   "light_requirement": "high"
   },
   {
    "common_name": "Swedish Ivy",
@@ -14129,6 +15404,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Patchouli",
+   "scientific_name": "Pogostemon cablin",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Tuberose",
    "scientific_name": "Polianthes tuberosa",
    "light_requirement": "high"
@@ -14174,6 +15454,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Japanese Tassel Fern",
+   "scientific_name": "Polystichum polyblepharon",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Korean Rock Fern",
    "scientific_name": "Polystichum tsussimense",
    "light_requirement": "low"
@@ -14206,6 +15491,11 @@
   {
    "common_name": "Elephant Bush / Dwarf Jade",
    "scientific_name": "Portulacaria afra",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Trailing Elephant Bush",
+   "scientific_name": "Portulacaria afra 'Decumbent'",
    "light_requirement": "high"
   },
   {
@@ -14244,6 +15534,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Belarina Pink Ice Double Primrose",
+   "scientific_name": "Primula vulgaris 'Belarina Pink Ice'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Chinese Chirita",
    "scientific_name": "Primulina dryas",
    "light_requirement": "medium"
@@ -14267,6 +15562,11 @@
    "common_name": "Cockleshell Orchid",
    "scientific_name": "Prosthechea cochleata",
    "light_requirement": "medium"
+  },
+  {
+   "common_name": "Lined Petal Orchid",
+   "scientific_name": "Prosthechea radiata",
+   "light_requirement": "high"
   },
   {
    "common_name": "Sour Cherry",
@@ -14321,6 +15621,11 @@
   {
    "common_name": "Red Mistletoe Cactus",
    "scientific_name": "Pseudorhipsalis ramulosa",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Common Guava",
+   "scientific_name": "Psidium guajava",
    "light_requirement": "high"
   },
   {
@@ -14394,6 +15699,16 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Billy Buttons",
+   "scientific_name": "Pycnosorus globosus",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Drumstick Craspedia",
+   "scientific_name": "Pycnosorus globosus 'Drumstick'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Tongue Fern",
    "scientific_name": "Pyrrosia lingua",
    "light_requirement": "medium"
@@ -14409,8 +15724,18 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Marbled Quesnelia",
+   "scientific_name": "Quesnelia marmorata",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Tortoise Quesnelia",
    "scientific_name": "Quesnelia testudo",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Golden Tree Jasmine",
+   "scientific_name": "Radermachera hainanensis",
    "light_requirement": "high"
   },
   {
@@ -14614,6 +15939,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Rozalea Pink Azalea",
+   "scientific_name": "Rhododendron 'YBAZ-2504'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Dwarf rhododendron",
    "scientific_name": "Rhododendron impeditum",
    "light_requirement": "high"
@@ -14634,6 +15964,16 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Rhodospatha Rojo",
+   "scientific_name": "Rhodospatha 'Rojo'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Rhodospatha",
+   "scientific_name": "Rhodospatha latifolia",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Burana Beauty Cattleya Orchid",
    "scientific_name": "Rhyncattleanthe 'Burana Beauty'",
    "light_requirement": "high"
@@ -14641,6 +15981,11 @@
   {
    "common_name": "Digby's Beaked Laelia",
    "scientific_name": "Rhyncholaelia digbyana",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Amazing Thailand Cattleya Orchid",
+   "scientific_name": "Rhyncholaeliocattleya 'Amazing Thailand'",
    "light_requirement": "high"
   },
   {
@@ -14656,6 +16001,11 @@
   {
    "common_name": "Sweet Dream Patio Rose",
    "scientific_name": "Rosa 'Fryminicot'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Oso Easy Double Red Rose",
+   "scientific_name": "Rosa 'Meipeporia'",
    "light_requirement": "very_high"
   },
   {
@@ -14696,6 +16046,21 @@
   {
    "common_name": "Black-Eyed Susan",
    "scientific_name": "Rudbeckia hirta",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Trailing Velvet Plant",
+   "scientific_name": "Ruellia makoyana",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Mexican Petunia",
+   "scientific_name": "Ruellia simplex",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Southern Star Pink Mexican Petunia",
+   "scientific_name": "Ruellia simplex 'Southern Star Pink'",
    "light_requirement": "high"
   },
   {
@@ -14789,6 +16154,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Mystic Spires Blue Sage",
+   "scientific_name": "Salvia 'Mystic Spires Blue'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Pineapple Sage",
    "scientific_name": "Salvia elegans",
    "light_requirement": "very_high"
@@ -14799,6 +16169,16 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Greek Sage",
+   "scientific_name": "Salvia fruticosa",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Spanish Sage",
+   "scientific_name": "Salvia lavandulifolia",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Baby Sage",
    "scientific_name": "Salvia microphylla",
    "light_requirement": "high"
@@ -14806,6 +16186,11 @@
   {
    "common_name": "Woodland Sage",
    "scientific_name": "Salvia nemorosa",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Pink Profusion Perennial Salvia",
+   "scientific_name": "Salvia nemorosa 'Pink Profusion'",
    "light_requirement": "high"
   },
   {
@@ -14834,6 +16219,11 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Window Box Sage",
+   "scientific_name": "Salvia officinalis 'Window Box'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Rosemary",
    "scientific_name": "Salvia rosmarinus",
    "light_requirement": "very_high"
@@ -14844,14 +16234,49 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Barbeque Rosemary",
+   "scientific_name": "Salvia rosmarinus 'Barbeque'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Blue Boy Rosemary",
+   "scientific_name": "Salvia rosmarinus 'Blue Boy'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Gorizia Rosemary",
+   "scientific_name": "Salvia rosmarinus 'Gorizia'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Madalene Hill Rosemary",
+   "scientific_name": "Salvia rosmarinus 'Madalene Hill'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Trailing Rosemary",
    "scientific_name": "Salvia rosmarinus 'Prostratus'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Spice Islands Rosemary",
+   "scientific_name": "Salvia rosmarinus 'Spice Islands'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Tuscan Blue Rosemary",
+   "scientific_name": "Salvia rosmarinus 'Tuscan Blue'",
    "light_requirement": "very_high"
   },
   {
    "common_name": "Scarlet sage",
    "scientific_name": "Salvia splendens",
    "light_requirement": "high"
+  },
+  {
+   "common_name": "Denim ’n Lace Russian Sage",
+   "scientific_name": "Salvia yangii 'Denim ’n Lace'",
+   "light_requirement": "very_high"
   },
   {
    "common_name": "Sanchezia",
@@ -15004,6 +16429,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Tricolor Strawberry Begonia",
+   "scientific_name": "Saxifraga stolonifera 'Tricolor'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Blood Lily",
    "scientific_name": "Scadoxus multiflorus",
    "light_requirement": "high"
@@ -15024,6 +16454,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Compacta Dwarf Umbrella Tree",
+   "scientific_name": "Schefflera arboricola 'Compacta'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Janine Umbrella Tree",
    "scientific_name": "Schefflera arboricola 'Janine'",
    "light_requirement": "medium"
@@ -15041,6 +16476,11 @@
   {
    "common_name": "Luseane Schefflera",
    "scientific_name": "Schefflera arboricola 'Luseane'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Melanie Umbrella Tree",
+   "scientific_name": "Schefflera arboricola 'Melanie'",
    "light_requirement": "medium"
   },
   {
@@ -15079,6 +16519,16 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Silver Indukan Schismatoglottis",
+   "scientific_name": "Schismatoglottis 'Silver Indukan'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Drop Tongue",
+   "scientific_name": "Schismatoglottis calyptrata",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Christmas Cactus",
    "scientific_name": "Schlumbergera × buckleyi",
    "light_requirement": "medium"
@@ -15091,6 +16541,11 @@
   {
    "common_name": "Thanksgiving Cactus",
    "scientific_name": "Schlumbergera truncata",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Christmas Fantasy Holiday Cactus",
+   "scientific_name": "Schlumbergera truncata 'Christmas Fantasy'",
    "light_requirement": "medium"
   },
   {
@@ -15124,6 +16579,16 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Black Mamba Scindapsus",
+   "scientific_name": "Scindapsus 'Black Mamba'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Mount Salak Scindapsus",
+   "scientific_name": "Scindapsus 'Mount Salak'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Platinum Scindapsus",
    "scientific_name": "Scindapsus 'Platinum'",
    "light_requirement": "medium"
@@ -15131,6 +16596,11 @@
   {
    "common_name": "Indian Pothos",
    "scientific_name": "Scindapsus officinalis",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Scindapsus Perakensis",
+   "scientific_name": "Scindapsus perakensis",
    "light_requirement": "medium"
   },
   {
@@ -15151,6 +16621,11 @@
   {
    "common_name": "Jade Satin Pothos",
    "scientific_name": "Scindapsus pictus 'Jade Satin'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Rubicon Satin Pothos",
+   "scientific_name": "Scindapsus pictus 'Rubicon'",
    "light_requirement": "medium"
   },
   {
@@ -15234,6 +16709,16 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Gold Dust Sedum",
+   "scientific_name": "Sedum adolphi 'Gold Dust'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Orange Delight Coppertone Sedum",
+   "scientific_name": "Sedum adolphi 'Orange Delight'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "White Stonecrop",
    "scientific_name": "Sedum album",
    "light_requirement": "high"
@@ -15291,6 +16776,11 @@
   {
    "common_name": "Japanese Stonecrop",
    "scientific_name": "Sedum japonicum",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Tokyo Sun Sedum",
+   "scientific_name": "Sedum japonicum 'Tokyo Sun'",
    "light_requirement": "high"
   },
   {
@@ -15376,6 +16866,11 @@
   {
    "common_name": "Dragon's Blood Stonecrop",
    "scientific_name": "Sedum spurium 'Dragon's Blood'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Fool's Gold Stonecrop",
+   "scientific_name": "Sedum spurium 'Fool's Gold'",
    "light_requirement": "very_high"
   },
   {
@@ -15629,6 +17124,16 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Succulent Bush Senecio",
+   "scientific_name": "Senecio barbertonicus",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Angel Wings Sea Cabbage",
+   "scientific_name": "Senecio candicans 'Angel Wings'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Vertical leaf senecio",
    "scientific_name": "Senecio crassissimus",
    "light_requirement": "high"
@@ -15804,8 +17309,23 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Baby Boomer Cherry Tomato",
+   "scientific_name": "Solanum lycopersicum 'Baby Boomer'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Better Bush Tomato",
+   "scientific_name": "Solanum lycopersicum 'Better Bush'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Bush Early Girl Tomato",
    "scientific_name": "Solanum lycopersicum 'Bush Early Girl'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "BushSteak Tomato",
+   "scientific_name": "Solanum lycopersicum 'BushSteak'",
    "light_requirement": "very_high"
   },
   {
@@ -15814,13 +17334,43 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Little Bing Cherry Tomato",
+   "scientific_name": "Solanum lycopersicum 'Little Bing'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Patio Tomato",
    "scientific_name": "Solanum lycopersicum 'Patio'",
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Ponchi Mi Tomato",
+   "scientific_name": "Solanum lycopersicum 'Ponchi Mi'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Super Sweet 100 Cherry Tomato",
+   "scientific_name": "Solanum lycopersicum 'Super Sweet 100'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Sweetheart of the Patio Tomato",
+   "scientific_name": "Solanum lycopersicum 'Sweetheart of the Patio'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Tiny Temptation Cherry Tomato",
+   "scientific_name": "Solanum lycopersicum 'Tiny Temptation'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Tiny Tim Tomato",
    "scientific_name": "Solanum lycopersicum 'Tiny Tim'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Tumbler Cherry Tomato",
+   "scientific_name": "Solanum lycopersicum 'Tumbler'",
    "light_requirement": "very_high"
   },
   {
@@ -15834,8 +17384,18 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Black Beauty Eggplant",
+   "scientific_name": "Solanum melongena 'Black Beauty'",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Fairy Tale Eggplant",
    "scientific_name": "Solanum melongena 'Fairy Tale'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Ichiban Japanese Eggplant",
+   "scientific_name": "Solanum melongena 'Ichiban'",
    "light_requirement": "very_high"
   },
   {
@@ -15894,6 +17454,16 @@
    "light_requirement": "low"
   },
   {
+   "common_name": "Diamond Variegated Peace Lily",
+   "scientific_name": "Spathiphyllum 'Diamond'",
+   "light_requirement": "low"
+  },
+  {
+   "common_name": "Jessica Variegated Peace Lily",
+   "scientific_name": "Spathiphyllum 'Jessica'",
+   "light_requirement": "low"
+  },
+  {
    "common_name": "Jetty Peace Lily",
    "scientific_name": "Spathiphyllum 'Jetty'",
    "light_requirement": "low"
@@ -15907,6 +17477,11 @@
    "common_name": "Mauna Loa Peace Lily",
    "scientific_name": "Spathiphyllum 'Mauna Loa'",
    "light_requirement": "medium"
+  },
+  {
+   "common_name": "Mojo Peace Lily",
+   "scientific_name": "Spathiphyllum 'Mojo'",
+   "light_requirement": "low"
   },
   {
    "common_name": "Piccolino Mini Peace Lily",
@@ -15951,6 +17526,11 @@
   {
    "common_name": "Sweet Silvio Peace Lily",
    "scientific_name": "Spathiphyllum 'Sweet Silvio'",
+   "light_requirement": "low"
+  },
+  {
+   "common_name": "Vivaldi Peace Lily",
+   "scientific_name": "Spathiphyllum 'Vivaldi'",
    "light_requirement": "low"
   },
   {
@@ -16034,6 +17614,11 @@
    "light_requirement": "very_high"
   },
   {
+   "common_name": "Stenocereus Beneckei Cactus",
+   "scientific_name": "Stenocereus beneckei",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Gray Ghost Organ Pipe Cactus",
    "scientific_name": "Stenocereus pruinosus",
    "light_requirement": "very_high"
@@ -16089,6 +17674,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Blue Ice Cape Primrose",
+   "scientific_name": "Streptocarpus 'Blue Ice'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Concord Blue Streptocarpella",
    "scientific_name": "Streptocarpus 'Concord Blue'",
    "light_requirement": "medium"
@@ -16109,6 +17699,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Wow Cape Primrose",
+   "scientific_name": "Streptocarpus 'Wow'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Nodding violet",
    "scientific_name": "Streptocarpus caulescens",
    "light_requirement": "medium"
@@ -16126,6 +17721,11 @@
   {
    "common_name": "Cape Primrose Bird Streptocarpus",
    "scientific_name": "Streptocarpus johannis",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Falling Stars Cape Primrose",
+   "scientific_name": "Streptocarpus johannis 'Falling Stars'",
    "light_requirement": "medium"
   },
   {
@@ -16199,6 +17799,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Stripestar Stromanthe",
+   "scientific_name": "Stromanthe thalia 'Stripestar'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Triggerplant",
    "scientific_name": "Stylidium debile",
    "light_requirement": "high"
@@ -16256,6 +17861,16 @@
   {
    "common_name": "Variegated Arrowhead Plant",
    "scientific_name": "Syngonium podophyllum 'Albo Variegata'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Arrow Arrowhead Plant",
+   "scientific_name": "Syngonium podophyllum 'Arrow'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Batik Arrowhead Plant",
+   "scientific_name": "Syngonium podophyllum 'Batik'",
    "light_requirement": "medium"
   },
   {
@@ -16334,6 +17949,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Roxana Arrowhead Vine",
+   "scientific_name": "Syngonium podophyllum 'Roxana'",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Strawberry Cream Arrowhead Plant",
    "scientific_name": "Syngonium podophyllum 'Strawberry Cream'",
    "light_requirement": "medium"
@@ -16387,6 +18007,11 @@
    "common_name": "Crepe jasmine",
    "scientific_name": "Tabernaemontana divaricata",
    "light_requirement": "high"
+  },
+  {
+   "common_name": "Black Bat Flower",
+   "scientific_name": "Tacca chantrieri",
+   "light_requirement": "medium"
   },
   {
    "common_name": "African marigold",
@@ -16499,6 +18124,11 @@
    "light_requirement": "low"
   },
   {
+   "common_name": "Pet Grass (Cat Grass)",
+   "scientific_name": "Thinopyrum intermedium",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Danica Arborvitae",
    "scientific_name": "Thuja occidentalis 'Danica'",
    "light_requirement": "high"
@@ -16529,8 +18159,18 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Dahlberg Daisy",
+   "scientific_name": "Thymophylla tenuiloba",
+   "light_requirement": "very_high"
+  },
+  {
    "common_name": "Doone Valley Thyme",
    "scientific_name": "Thymus 'Doone Valley'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Lime Thyme",
+   "scientific_name": "Thymus 'Lime'",
    "light_requirement": "very_high"
   },
   {
@@ -16551,6 +18191,11 @@
   {
    "common_name": "Archer's Gold Thyme",
    "scientific_name": "Thymus pulegioides 'Archer's Gold'",
+   "light_requirement": "very_high"
+  },
+  {
+   "common_name": "Pennsylvania Dutch Tea Thyme",
+   "scientific_name": "Thymus pulegioides 'Pennsylvania Dutch Tea'",
    "light_requirement": "very_high"
   },
   {
@@ -16576,6 +18221,11 @@
   {
    "common_name": "Eric Knobloch Air Plant",
    "scientific_name": "Tillandsia 'Eric Knobloch'",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Samantha Air Plant",
+   "scientific_name": "Tillandsia 'Samantha'",
    "light_requirement": "high"
   },
   {
@@ -16679,6 +18329,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Diaguitensis Air Plant",
+   "scientific_name": "Tillandsia diaguitensis",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Duratii Air Plant",
    "scientific_name": "Tillandsia duratii",
    "light_requirement": "high"
@@ -16687,6 +18342,11 @@
    "common_name": "Dyer's Air Plant",
    "scientific_name": "Tillandsia dyeriana",
    "light_requirement": "medium"
+  },
+  {
+   "common_name": "Edithae Air Plant",
+   "scientific_name": "Tillandsia edithae",
+   "light_requirement": "high"
   },
   {
    "common_name": "Ehlers' Air Plant",
@@ -16789,6 +18449,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Leonamiana Air Plant",
+   "scientific_name": "Tillandsia leonamiana",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Magnus' Air Plant",
    "scientific_name": "Tillandsia magnusiana",
    "light_requirement": "high"
@@ -16831,6 +18496,11 @@
   {
    "common_name": "Mexican black torch air plant",
    "scientific_name": "Tillandsia punctulata",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Purpurea Air Plant",
+   "scientific_name": "Tillandsia purpurea",
    "light_requirement": "high"
   },
   {
@@ -16909,6 +18579,11 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Giant Air Plant",
+   "scientific_name": "Tillandsia utriculata",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Velvet Air Plant",
    "scientific_name": "Tillandsia velutina",
    "light_requirement": "high"
@@ -16952,6 +18627,11 @@
    "common_name": "Australian red cedar",
    "scientific_name": "Toona ciliata",
    "light_requirement": "high"
+  },
+  {
+   "common_name": "Summer Wave Large Blue Torenia",
+   "scientific_name": "Torenia 'Sunrenilabu'",
+   "light_requirement": "medium"
   },
   {
    "common_name": "Torenia (wishbone flower)",
@@ -17111,6 +18791,11 @@
   {
    "common_name": "Nasturtium",
    "scientific_name": "Tropaeolum majus",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Ice Cream Tulip",
+   "scientific_name": "Tulipa 'Ice Cream'",
    "light_requirement": "high"
   },
   {
@@ -17304,6 +18989,11 @@
    "light_requirement": "high"
   },
   {
+   "common_name": "Wizard of Ahhs Spike Speedwell",
+   "scientific_name": "Veronica 'Wizard of Ahhs'",
+   "light_requirement": "high"
+  },
+  {
    "common_name": "Hebe",
    "scientific_name": "Veronica × franciscana",
    "light_requirement": "high"
@@ -17319,8 +19009,23 @@
    "light_requirement": "medium"
   },
   {
+   "common_name": "Cool Wave White Trailing Pansy",
+   "scientific_name": "Viola × wittrockiana 'Cool Wave White'",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Tasmanian Violet",
+   "scientific_name": "Viola banksii",
+   "light_requirement": "medium"
+  },
+  {
    "common_name": "Horned violet (viola)",
    "scientific_name": "Viola cornuta",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "Sorbet XP Delft Blue Viola",
+   "scientific_name": "Viola cornuta 'Sorbet XP Delft Blue'",
    "light_requirement": "high"
   },
   {
@@ -17396,6 +19101,11 @@
   {
    "common_name": "Flaming Sword",
    "scientific_name": "Vriesea splendens",
+   "light_requirement": "medium"
+  },
+  {
+   "common_name": "Evita Flaming Sword",
+   "scientific_name": "Vriesea splendens 'Evita'",
    "light_requirement": "medium"
   },
   {
@@ -17534,6 +19244,11 @@
    "light_requirement": "low"
   },
   {
+   "common_name": "ZZEverlasting ZZ Plant",
+   "scientific_name": "Zamioculcas zamiifolia 'TVZAMBL1'",
+   "light_requirement": "low"
+  },
+  {
    "common_name": "Variegated ZZ Plant",
    "scientific_name": "Zamioculcas zamiifolia 'Variegata'",
    "light_requirement": "low"
@@ -17547,6 +19262,11 @@
    "common_name": "Zenzi ZZ Plant",
    "scientific_name": "Zamioculcas zamiifolia 'Zenzi'",
    "light_requirement": "low"
+  },
+  {
+   "common_name": "Captain Rosette Calla Lily",
+   "scientific_name": "Zantedeschia 'Captain Rosette'",
+   "light_requirement": "high"
   },
   {
    "common_name": "Odessa Calla Lily",
@@ -17581,6 +19301,11 @@
   {
    "common_name": "Pink Calla Lily",
    "scientific_name": "Zantedeschia rehmannii",
+   "light_requirement": "high"
+  },
+  {
+   "common_name": "On Deck Sweet Corn",
+   "scientific_name": "Zea mays 'On Deck'",
    "light_requirement": "high"
   },
   {
