@@ -1,13 +1,13 @@
 {
  "_meta": {
   "dataset": "What the published sources actually say about indoor light",
-  "description": "1046 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 102 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
+  "description": "1049 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 105 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
   "license_compilation": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — applies to this compilation: which sources were read, how the rows are structured, and the links.",
   "license_quotes": "Each quoted sentence remains the property of the publisher named in its row. Quotes are short excerpts reproduced for identification, each with a link to the original page.",
   "attribution": "GrowSpot — growspotapp.com",
   "source_page": "https://growspotapp.com/data/published-light-figures/",
-  "rows": 1046,
-  "publishers": 102,
+  "rows": 1049,
+  "publishers": 105,
   "fields": {
    "publisher": "Hostname of the publisher, www stripped",
    "source_url": "The exact page the sentence was read on",
@@ -99,6 +99,15 @@
    "value_as_published": "500 lux",
    "quote": "per-plant figure — thrives at this level",
    "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "aquagertech.com",
+   "source_url": "https://aquagertech.com/blogs/grow-joy/rosemary-light-requirements",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-rosemary-need/",
+   "subject": "What it says rosemary needs",
+   "value_as_published": "at least eight hours of direct, bright light every day",
+   "quote": "To grow well indoors; the site sells grow lights",
+   "read_on": "21 November 2026"
   },
   {
    "publisher": "ask.ifas.ufl.edu",
@@ -8334,6 +8343,24 @@
    "value_as_published": "about 10,000 foot-candles",
    "quote": "full sun equivalent, stated as too bright for most orchids",
    "read_on": "29 August 2026"
+  },
+  {
+   "publisher": "summerwindsnursery.com",
+   "source_url": "https://www.summerwindsnursery.com/ca/inspire/blog/the-rundown-on-rosemary/",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-rosemary-need/",
+   "subject": "What it says rosemary needs",
+   "value_as_published": "6-8 hours of sunlight per day",
+   "quote": "For best results, with a grow lamp sometimes needed inside",
+   "read_on": "21 November 2026"
+  },
+  {
+   "publisher": "thenaptimechef.com",
+   "source_url": "https://thenaptimechef.com/2015/01/how-to-care-for-rosemary-indoors/",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-rosemary-need/",
+   "subject": "What it says rosemary needs",
+   "value_as_published": "at least 6 hours of sun per day",
+   "quote": "If you can manage it, for rosemary kept indoors",
+   "read_on": "21 November 2026"
   },
   {
    "publisher": "theplantmanual.com",
