@@ -1,12 +1,12 @@
 {
  "_meta": {
   "dataset": "What the published sources actually say about indoor light",
-  "description": "1049 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 105 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
+  "description": "1053 figures and statements about houseplant light, humidity, temperature and airflow, transcribed one by one from 105 publishers — university extension services, botanical gardens, veterinary schools, poison centres, national laboratories and peer-reviewed papers. Units are left exactly as each source writes them and nothing is converted. Every row links to the page it was read on. The point of the collection is not agreement: the same plant is given a 40 °F floor by one extension service and 60 °F by another, and \"low light\" starts at 25, 75 or 100 foot-candles depending on who you ask.",
   "license_compilation": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — applies to this compilation: which sources were read, how the rows are structured, and the links.",
   "license_quotes": "Each quoted sentence remains the property of the publisher named in its row. Quotes are short excerpts reproduced for identification, each with a link to the original page.",
   "attribution": "GrowSpot — growspotapp.com",
   "source_page": "https://growspotapp.com/data/published-light-figures/",
-  "rows": 1049,
+  "rows": 1053,
   "publishers": 105,
   "fields": {
    "publisher": "Hostname of the publisher, www stripped",
@@ -4782,6 +4782,24 @@
   },
   {
    "publisher": "hgic.clemson.edu",
+   "source_url": "https://hgic.clemson.edu/factsheet/rubber-plant/",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-rubber-plant-need/",
+   "subject": "What it says a rubber plant needs",
+   "value_as_published": "adaptable to low light",
+   "quote": "Though they prefer bright light",
+   "read_on": "21 November 2026"
+  },
+  {
+   "publisher": "hgic.clemson.edu",
+   "source_url": "https://hgic.clemson.edu/factsheet/rubber-plant/",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-rubber-plant-need/",
+   "subject": "What it says a rubber plant needs",
+   "value_as_published": "the morning light from an east window",
+   "quote": "Where rubber plants grow best",
+   "read_on": "21 November 2026"
+  },
+  {
+   "publisher": "hgic.clemson.edu",
    "source_url": "https://hgic.clemson.edu/factsheet/spider-plant/",
    "appears_on": "https://growspotapp.com/guides/minimum-temperature-for-houseplants/",
    "subject": "The figure",
@@ -7329,11 +7347,29 @@
   },
   {
    "publisher": "livelyroot.com",
+   "source_url": "https://www.livelyroot.com/blogs/plant-care/rubber-plant-light-requirements",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-rubber-plant-need/",
+   "subject": "What it says a rubber plant needs",
+   "value_as_published": "six to eight hours of bright, indirect light a day",
+   "quote": "For a rubber plant indoors",
+   "read_on": "21 November 2026"
+  },
+  {
+   "publisher": "livelyroot.com",
    "source_url": "https://www.livelyroot.com/blogs/plant-care/spider-plant-light-requirements",
    "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-spider-plant-need/",
    "subject": "What it says a spider plant needs",
    "value_as_published": "4 to 6 hours",
    "quote": "Of bright light a day, to prevent leaf issues",
+   "read_on": "21 November 2026"
+  },
+  {
+   "publisher": "lowlightleaf.com",
+   "source_url": "https://lowlightleaf.com/rubber-plant-care",
+   "appears_on": "https://growspotapp.com/guides/how-much-light-does-a-rubber-plant-need/",
+   "subject": "What it says a rubber plant needs",
+   "value_as_published": "100 to 500 footcandles",
+   "quote": "Medium-bright light, the band it says University of Maryland Extension lists the rubber plant in",
    "read_on": "21 November 2026"
   },
   {
